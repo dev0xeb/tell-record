@@ -1138,7 +1138,7 @@ Move started: $75,550
 Today's high: $80,888
 
 Information, not advice."
-"2026-11-05 16:22","ETH","update","channel","yes","2273.85","2253.1","2247.8","2219.9","📈 ETH +1.7% in 28 min, now $2,274
+"2026-11-05 16:22","ETH","update","channel","yes","2273.85","2253.1","2247.8","2224.4","📈 ETH +1.7% in 28 min, now $2,274
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $18.2M in 28 min
@@ -1148,7 +1148,7 @@ Move started: $2,236
 Today's high: $2,436
 
 Information, not advice."
-"2026-11-05 16:22","TRUMP","update","watchlist","yes","1.1972","1.1234","1.2204","1.2359","📈 TRUMP +4.0% in 30 min, now $1.197
+"2026-11-05 16:22","TRUMP","update","watchlist","yes","1.1972","1.1234","1.2204","1.2475","📈 TRUMP +4.0% in 30 min, now $1.197
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $141.8K in 30 min
@@ -1158,7 +1158,7 @@ Move started: $1.151
 Today's high: $1.291
 
 Information, not advice."
-"2026-11-05 16:23","WLD","update","watchlist","yes","0.34842","0.33967","0.34225","0.34341","📈 WLD +4.4% in 30 min, now $0.3484
+"2026-11-05 16:23","WLD","update","watchlist","yes","0.34842","0.33967","0.34225","0.34329","📈 WLD +4.4% in 30 min, now $0.3484
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.5M in 30 min
@@ -1168,7 +1168,7 @@ Move started: $0.3338
 Today's high: $0.3823
 
 Information, not advice."
-"2026-11-05 16:25","LIT","update","watchlist","yes","3.48115","3.2618","3.4768","3.3631","📈 LIT +7.2% in 32 min, now $3.481
+"2026-11-05 16:25","LIT","update","watchlist","yes","3.48115","3.2618","3.4768","3.3906","📈 LIT +7.2% in 32 min, now $3.481
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.4M in 32 min
@@ -1179,7 +1179,7 @@ Move started: $3.249
 Today's high: $3.532
 
 Information, not advice."
-"2026-11-05 16:38","WLFI","update","watchlist","yes","0.044202","0.044824","0.045659",,"📉 WLFI -3.0% in 19 min, now $0.04420
+"2026-11-05 16:38","WLFI","update","watchlist","yes","0.044202","0.044824","0.045659","0.04655","📉 WLFI -3.0% in 19 min, now $0.04420
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $357.0K in 19 min
@@ -1190,7 +1190,25 @@ Move started: $0.04558
 Today's low: $0.04359
 
 Information, not advice."
-"2026-11-05 17:16","BTC","update","channel","yes","75947.5","76002","76030",,"📉 BTC -1.4% in 52 min, now $75,948
+"2026-11-05 17:03","TRUMP","update","watchlist","yes","1.15075","1.1395","1.2072","1.2378","📉 TRUMP -4.4% in 40 min, now $1.151
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $1.4M in 40 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $1.204
+Today's low: $1.150
+
+Information, not advice."
+"2026-11-05 17:04","LIT","followup","watchlist","no","3.23035","3.3453","3.4952","3.4068","↩️ LIT is back below where the 16:25 UTC move started ($3.249), now $3.230
+
+LEVELS
+Move started: $3.249
+Highest in the move: $3.484
+
+Information, not advice."
+"2026-11-05 17:16","BTC","update","channel","yes","75947.5","76002","76030","75948","📉 BTC -1.4% in 52 min, now $75,948
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $120.2M in 52 min
@@ -1240,7 +1258,7 @@ Information, not advice."
 The move started at $79,750; the price is now below that.
 
 Information, not advice."
-"2026-11-06 15:30","ETH","update","channel","yes","2219.75",,,,"📉 ETH -1.1% in 39 min, now $2,220
+"2026-11-06 15:30","ETH","update","channel","yes","2219.75","2230",,,"📉 ETH -1.1% in 39 min, now $2,220
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $15.7M in 39 min
@@ -1249,5 +1267,22 @@ Price fell while open positions rose (new positions opening). Sellers outpaced b
 LEVELS
 Move started: $2,245
 Today's low: $2,213
+
+Information, not advice."
+"2026-11-06 15:45","BTC","update","channel","yes","75685.5","75657",,,"📈 BTC +1.1% in 40 min, now $75,686
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $49.9M in 40 min
+
+LEVELS
+Move started: $74,865
+Today's high: $76,400
+
+Information, not advice."
+"2026-11-06 15:50","ETH","followup","channel","no","2232.85","2230.8",,,"↩️ ETH has given back 62% of its drop ($2,245 → $2,213), now $2,233
+
+LEVELS
+Move started: $2,245
+Lowest in the move: $2,213
 
 Information, not advice."
