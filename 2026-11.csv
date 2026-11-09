@@ -1912,7 +1912,7 @@ Move started: $2,166
 Lowest in the move: $2,116
 
 Information, not advice."
-"2026-11-09 01:27","BTC","update","channel","yes","74886.5","75511",,,"📉 BTC -0.8% in 20 min, now $74,887
+"2026-11-09 01:27","BTC","update","channel","yes","74886.5","75511","74566",,"📉 BTC -0.8% in 20 min, now $74,887
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $43.4M in 20 min
@@ -1923,7 +1923,7 @@ Move started: $75,492
 Today's low: $74,449
 
 Information, not advice."
-"2026-11-09 01:27","ETH","update","channel","yes","2127.55","2153.6",,,"📉 ETH -1.1% in 20 min, now $2,128
+"2026-11-09 01:27","ETH","update","channel","yes","2127.55","2153.6","2135.7",,"📉 ETH -1.1% in 20 min, now $2,128
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $12.8M in 20 min
@@ -1934,14 +1934,14 @@ Move started: $2,150
 Today's low: $2,116
 
 Information, not advice."
-"2026-11-09 01:42","ETH","followup","channel","no","2140.75","2154.8",,,"↩️ ETH has given back 64% of its drop ($2,150 → $2,123), now $2,141
+"2026-11-09 01:42","ETH","followup","channel","no","2140.75","2154.8","2127.2",,"↩️ ETH has given back 64% of its drop ($2,150 → $2,123), now $2,141
 
 LEVELS
 Move started: $2,150
 Lowest in the move: $2,123
 
 Information, not advice."
-"2026-11-09 01:45","BTC","followup","channel","no","75165.5","75371",,,"↩️ BTC has given back 60% of its drop ($75,492 → $74,672), now $75,166
+"2026-11-09 01:45","BTC","followup","channel","no","75165.5","75371","74350",,"↩️ BTC has given back 60% of its drop ($75,492 → $74,672), now $75,166
 
 LEVELS
 Move started: $75,492
@@ -1957,5 +1957,11 @@ Price fell while open positions rose (new positions opening). Sellers outpaced b
 LEVELS
 Move started: $75,585
 Today's low: $74,449
+
+Information, not advice."
+"2026-11-09 05:34","BTC","followup","channel","no","74371.5",,,,"📉 BTC down another 0.8% since the 03:14 UTC update, now $74,372
+(-1.6% since the move started at $75,585)
+
+- Open positions on Hyperliquid down 1.0% since 03:14 UTC (positions closing)
 
 Information, not advice."
