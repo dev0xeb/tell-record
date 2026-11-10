@@ -2172,14 +2172,21 @@ Move started: $1,254
 Lowest in the move: $1,182
 
 Information, not advice."
-"2026-11-09 00:50","BTC","followup","channel","no","75214.5","75127","74844",,"↩️ BTC has given back 62% of its drop ($75,687 → $74,457), now $75,215
+"2026-11-09 00:50","BTC","followup","channel","no","75214.5","75127","74844","75000","↩️ BTC has given back 62% of its drop ($75,687 → $74,457), now $75,215
 
 LEVELS
 Move started: $75,687
 Lowest in the move: $74,457
 
 Information, not advice."
-"2026-11-09 01:01","ETH","followup","channel","no","2146.25","2139.4","2137.1",,"↩️ ETH has given back 60% of its drop ($2,166 → $2,116), now $2,146
+"2026-11-09 01:00","NEAR","followup","watchlist","no","3.63545","3.6197","3.6069","3.6313","↩️ NEAR has given back 61% of its drop ($3.686 → $3.558), now $3.635
+
+LEVELS
+Move started: $3.686
+Lowest in the move: $3.558
+
+Information, not advice."
+"2026-11-09 01:01","ETH","followup","channel","no","2146.25","2139.4","2137.1","2128","↩️ ETH has given back 60% of its drop ($2,166 → $2,116), now $2,146
 
 LEVELS
 Move started: $2,166
@@ -2309,5 +2316,13 @@ Highest in the move: $75,547
 Information, not advice."
 "2026-11-09 21:56","BTC","playout","channel","no","75012",,,,"⏱ 24 hours later: BTC $75,017, +0.8% since this update ($74,406).
 The move started at $75,772; the price is now below that.
+
+Information, not advice."
+"2026-11-10 00:01","ETH","playout","channel","no","2133.9",,,,"⏱ 24 hours later: ETH $2,133, +0.0% since this update ($2,132).
+The move started at $2,166; the price is now below that.
+
+Information, not advice."
+"2026-11-10 00:01","BTC","playout","channel","no","75316",,,,"⏱ 24 hours later: BTC $75,297, +0.7% since this update ($74,765).
+The move started at $75,687; the price is now below that.
 
 Information, not advice."
