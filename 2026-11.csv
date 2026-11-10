@@ -2376,11 +2376,15 @@ Move started: $73.14
 Highest in the move: $76.66
 
 Information, not advice."
-"2026-11-09 17:39","BTC","followup","channel","no","74607.5","74613","74860",,"↩️ BTC has given back 93% of its rise ($74,540 → $75,547), now $74,608
+"2026-11-09 17:39","BTC","followup","channel","no","74607.5","74613","74860","72767","↩️ BTC has given back 93% of its rise ($74,540 → $75,547), now $74,608
 
 LEVELS
 Move started: $74,540
 Highest in the move: $75,547
+
+Information, not advice."
+"2026-11-09 18:01","XRP","funding","watchlist","no","1.0916","1.0907","1.094","1.0519","💸 XRP funding on Hyperliquid at its lowest in 30 days (-0.0042% per hour)
+(shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
 "2026-11-09 21:56","BTC","playout","channel","no","75012",,,,"⏱ 24 hours later: BTC $75,017, +0.8% since this update ($74,406).
@@ -2411,7 +2415,7 @@ Information, not advice."
 BTC now: $74,352 · ETH now: $2,098
 
 Information, not advice."
-"2026-11-10 13:30","ETH","update","channel","yes","2079.6","2063.3",,,"📉 ETH -1.1% in 1 min, now $2,080
+"2026-11-10 13:30","ETH","update","channel","yes","2079.6","2063.3","2024.3",,"📉 ETH -1.1% in 1 min, now $2,080
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,083)
@@ -2423,7 +2427,7 @@ Move started: $2,104
 Today's low: $2,083
 
 Information, not advice."
-"2026-11-10 13:30","BTC","update","channel","yes","73785","73754",,,"📉 BTC -1.0% in 1 min, now $73,785
+"2026-11-10 13:30","BTC","update","channel","yes","73785","73754","73018",,"📉 BTC -1.0% in 1 min, now $73,785
 
 WHAT'S HAPPENING
 - Price fell below today's low ($74,100)
@@ -2435,7 +2439,7 @@ Move started: $74,521
 Today's low: $74,100
 
 Information, not advice."
-"2026-11-10 13:30","ETH","followup","channel","no","2055.6","2063.3",,,"📉 ETH down another 1.2% since the 13:30 UTC update, now $2,056
+"2026-11-10 13:30","ETH","followup","channel","no","2055.6","2063.3","2024.3",,"📉 ETH down another 1.2% since the 13:30 UTC update, now $2,056
 (-2.3% since the move started at $2,104)
 
 - Buyers outpaced sellers on Hyperliquid by $4.9M since 13:30 UTC
