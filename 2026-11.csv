@@ -2102,7 +2102,7 @@ Move started: $0.003499
 Today's high: $0.003773
 
 Information, not advice."
-"2026-11-08 23:28","SOL","extra","watchlist","yes","87.805","86.887","87.784",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-08 23:28","SOL","extra","watchlist","yes","87.805","86.887","87.784","86.64","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 SOL +2.7% in 51 min, now $87.81
 
@@ -2114,7 +2114,7 @@ Move started: $85.54
 Today's high: $90.00
 
 Information, not advice."
-"2026-11-08 23:45","ETH","update","channel","yes","2132.25","2135.1","2145.4",,"📉 ETH -1.5% in 30 min, now $2,132
+"2026-11-08 23:45","ETH","update","channel","yes","2132.25","2135.1","2145.4","2130.7","📉 ETH -1.5% in 30 min, now $2,132
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $38.6M in 30 min
@@ -2126,7 +2126,7 @@ Move started: $2,166
 Today's low: $2,055
 
 Information, not advice."
-"2026-11-08 23:52","BTC","update","channel","yes","74764.5","75197","74989",,"📉 BTC -1.2% in 37 min, now $74,765
+"2026-11-08 23:52","BTC","update","channel","yes","74764.5","75197","74989","75272","📉 BTC -1.2% in 37 min, now $74,765
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $36.7M in 37 min
@@ -2134,6 +2134,42 @@ WHAT'S HAPPENING
 LEVELS
 Move started: $75,687
 Today's low: $73,413
+
+Information, not advice."
+"2026-11-08 23:56","NEAR","extra","watchlist","yes","3.56595","3.6165","3.6102","3.6186","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 NEAR -3.3% in 34 min, now $3.566
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $802.3K in 34 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $3.686
+Today's low: $3.446
+
+Information, not advice."
+"2026-11-09 00:00","NEAR","update","watchlist","yes","3.5778","3.625","3.6122","3.63","📉 NEAR -2.9% in 37 min, now $3.578
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $814.5K in 37 min
+- Funding on Hyperliquid -0.0050% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $3.686
+Today's low: $3.446
+
+Information, not advice."
+"2026-11-09 00:01","ZEC","funding","watchlist","no","1210.7","1234.1","1233.2","1166","💸 ZEC funding on Hyperliquid at its lowest in 30 days (-0.0039% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+
+Information, not advice."
+"2026-11-09 00:09","ZEC","followup","watchlist","no","1225.4","1241.9","1230.7","1171.3","↩️ ZEC has given back 60% of its drop ($1,254 → $1,182), now $1,225
+
+LEVELS
+Move started: $1,254
+Lowest in the move: $1,182
 
 Information, not advice."
 "2026-11-09 00:50","BTC","followup","channel","no","75214.5","75127","74844",,"↩️ BTC has given back 62% of its drop ($75,687 → $74,457), now $75,215
