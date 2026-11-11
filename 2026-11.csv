@@ -2486,7 +2486,7 @@ Information, not advice."
 BTC now: $74,352 · ETH now: $2,098
 
 Information, not advice."
-"2026-11-10 13:30","ETH","update","channel","yes","2079.6","2063.3","2024.3",,"📉 ETH -1.1% in 1 min, now $2,080
+"2026-11-10 13:30","ETH","update","channel","yes","2079.6","2063.3","2024.3","2054.8","📉 ETH -1.1% in 1 min, now $2,080
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,083)
@@ -2498,7 +2498,7 @@ Move started: $2,104
 Today's low: $2,083
 
 Information, not advice."
-"2026-11-10 13:30","BTC","update","channel","yes","73785","73754","73018",,"📉 BTC -1.0% in 1 min, now $73,785
+"2026-11-10 13:30","BTC","update","channel","yes","73785","73754","73018","73826","📉 BTC -1.0% in 1 min, now $73,785
 
 WHAT'S HAPPENING
 - Price fell below today's low ($74,100)
@@ -2510,14 +2510,14 @@ Move started: $74,521
 Today's low: $74,100
 
 Information, not advice."
-"2026-11-10 13:30","ETH","followup","channel","no","2055.6","2063.3","2024.3",,"📉 ETH down another 1.2% since the 13:30 UTC update, now $2,056
+"2026-11-10 13:30","ETH","followup","channel","no","2055.6","2063.3","2024.3","2054.8","📉 ETH down another 1.2% since the 13:30 UTC update, now $2,056
 (-2.3% since the move started at $2,104)
 
 - Buyers outpaced sellers on Hyperliquid by $4.9M since 13:30 UTC
 - Open positions on Hyperliquid down 0.9% since 13:30 UTC (positions closing)
 
 Information, not advice."
-"2026-11-10 13:30","SUI","extra","watchlist","yes","0.81756","0.82761","0.81033",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-10 13:30","SUI","extra","watchlist","yes","0.81756","0.82761","0.81033","0.8326","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 SUI -2.0% in 17 min, now $0.8176
 
@@ -2531,7 +2531,7 @@ Move started: $0.8345
 Today's low: $0.8278
 
 Information, not advice."
-"2026-11-10 13:30","XRP","extra","watchlist","no","1.06035","1.058","1.0481",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-10 13:30","XRP","extra","watchlist","no","1.06035","1.058","1.0481","1.0589","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 XRP -2.0% in 18 min, now $1.060
 
@@ -2546,7 +2546,7 @@ Move started: $1.082
 Today's low: $1.075
 
 Information, not advice."
-"2026-11-10 13:30","WLD","extra","watchlist","no","0.30821","0.31258","0.30766",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-10 13:30","WLD","extra","watchlist","no","0.30821","0.31258","0.30766","0.31683","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 WLD -2.9% in 1 min, now $0.3082
 
@@ -2564,6 +2564,34 @@ Information, not advice."
 In the 5 min since:
 BTC: -0.5% to $73,961
 ETH: -1.4% to $2,066
+
+Information, not advice."
+"2026-11-10 13:48","kPEPE","extra","watchlist","yes","0.00538","0.005448","0.005265","0.004996","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 kPEPE +3.0% in 18 min, now $0.005380
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.005375)
+- Buyers outpaced sellers on Hyperliquid by $1.3M in 18 min
+- Open positions up 3.4% on Hyperliquid during the move, up 3.7% in 1 hour across Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $0.005224
+Today's high: $0.005375
+
+Information, not advice."
+"2026-11-10 13:48","ZEC","extra","watchlist","yes","1176.4","1181.2","1042","987.07","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 ZEC +3.5% in 17 min, now $1,176
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $10.7M in 17 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $1,136
+Today's high: $1,179
 
 Information, not advice."
 "2026-11-10 14:35","BTC","followup","channel","no","74148.5","73741","73457",,"↩️ BTC has given back 60% of its drop ($74,521 → $73,587), now $74,149
