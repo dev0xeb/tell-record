@@ -3082,6 +3082,42 @@ Move started: $0.2115
 Highest in the move: $0.2327
 
 Information, not advice."
+"2026-11-10 20:45","INIT","update","watchlist","yes","0.21159","0.20013","0.20853",,"📉 INIT -21.0% in 58 min, now $0.2116
+
+LEVELS
+Move started: $0.2680
+Today's low: $0.1595
+
+Information, not advice."
+"2026-11-10 20:49","GRAM","extra","watchlist","yes","1.11845","1.1382","1.1293",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 GRAM -2.1% in 5 min, now $1.118
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $238.4K in 5 min
+
+LEVELS
+Move started: $1.143
+Today's low: $1.031
+
+Information, not advice."
+"2026-11-10 21:06","INIT","followup","watchlist","no","0.19187","0.18874","0.19736",,"📉 INIT down another 9.3% since the 20:45 UTC update, now $0.1919
+(-28.4% since the move started at $0.2680)
+
+- Sellers outpaced buyers on Hyperliquid by $24.8K since 20:45 UTC
+- Open positions on Hyperliquid down 10.5% since 20:45 UTC (positions closing)
+
+Information, not advice."
+"2026-11-10 21:24","INIT","update","watchlist","yes","0.203205","0.18697","0.19386",,"📉 INIT -13.8% in 51 min, now $0.2032
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $50.1K in 51 min
+
+LEVELS
+Move started: $0.2359
+Today's low: $0.1595
+
+Information, not advice."
 "2026-11-11 03:10","BTC","update","channel","yes","73810.5","73841","73614",,"📈 BTC +0.9% in 40 min, now $73,811
 
 WHAT'S HAPPENING
@@ -3122,13 +3158,13 @@ Move started: $73,361
 Today's high: $74,170
 
 Information, not advice."
-"2026-11-11 17:18","BTC","followup","channel","no","74637.5","74450",,,"📈 BTC up another 0.9% since the 15:34 UTC update, now $74,638
+"2026-11-11 17:18","BTC","followup","channel","no","74637.5","74450","74660",,"📈 BTC up another 0.9% since the 15:34 UTC update, now $74,638
 (+1.7% since the move started at $73,361)
 
 - Open positions on Hyperliquid down 0.7% since 15:34 UTC (positions closing)
 
 Information, not advice."
-"2026-11-11 17:18","ETH","update","channel","yes","2096.5","2089",,,"📈 ETH +1.2% in 33 min, now $2,097
+"2026-11-11 17:18","ETH","update","channel","yes","2096.5","2089","2079.3",,"📈 ETH +1.2% in 33 min, now $2,097
 
 WHAT'S HAPPENING
 - Price broke above today's high ($2,090)
