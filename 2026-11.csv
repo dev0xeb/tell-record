@@ -3075,21 +3075,21 @@ Move started: $72,792
 Today's high: $75,402
 
 Information, not advice."
-"2026-11-10 20:44","INIT","followup","watchlist","no","0.209525","0.20316","0.21108",,"↩️ INIT is back below where the 20:35 UTC move started ($0.2115), now $0.2095
+"2026-11-10 20:44","INIT","followup","watchlist","no","0.209525","0.20316","0.21108","0.13901","↩️ INIT is back below where the 20:35 UTC move started ($0.2115), now $0.2095
 
 LEVELS
 Move started: $0.2115
 Highest in the move: $0.2327
 
 Information, not advice."
-"2026-11-10 20:45","INIT","update","watchlist","yes","0.21159","0.20013","0.20853",,"📉 INIT -21.0% in 58 min, now $0.2116
+"2026-11-10 20:45","INIT","update","watchlist","yes","0.21159","0.20013","0.20853","0.13869","📉 INIT -21.0% in 58 min, now $0.2116
 
 LEVELS
 Move started: $0.2680
 Today's low: $0.1595
 
 Information, not advice."
-"2026-11-10 20:49","GRAM","extra","watchlist","yes","1.11845","1.1382","1.1293",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-10 20:49","GRAM","extra","watchlist","yes","1.11845","1.1382","1.1293","1.1904","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 GRAM -2.1% in 5 min, now $1.118
 
@@ -3101,14 +3101,14 @@ Move started: $1.143
 Today's low: $1.031
 
 Information, not advice."
-"2026-11-10 21:06","INIT","followup","watchlist","no","0.19187","0.18874","0.19736",,"📉 INIT down another 9.3% since the 20:45 UTC update, now $0.1919
+"2026-11-10 21:06","INIT","followup","watchlist","no","0.19187","0.18874","0.19736","0.1395","📉 INIT down another 9.3% since the 20:45 UTC update, now $0.1919
 (-28.4% since the move started at $0.2680)
 
 - Sellers outpaced buyers on Hyperliquid by $24.8K since 20:45 UTC
 - Open positions on Hyperliquid down 10.5% since 20:45 UTC (positions closing)
 
 Information, not advice."
-"2026-11-10 21:24","INIT","update","watchlist","yes","0.203205","0.18697","0.19386",,"📉 INIT -13.8% in 51 min, now $0.2032
+"2026-11-10 21:24","INIT","update","watchlist","yes","0.203205","0.18697","0.19386","0.14728","📉 INIT -13.8% in 51 min, now $0.2032
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $50.1K in 51 min
@@ -3116,6 +3116,13 @@ WHAT'S HAPPENING
 LEVELS
 Move started: $0.2359
 Today's low: $0.1595
+
+Information, not advice."
+"2026-11-10 22:27","INIT","followup","watchlist","no","0.182405","0.19989","0.20575",,"📉 INIT down another 10.2% since the 21:24 UTC update, now $0.1824
+(-22.7% since the move started at $0.2359)
+
+- Buyers outpaced sellers on Hyperliquid by $62.4K since 21:24 UTC
+- Open positions on Hyperliquid down 8.1% since 21:24 UTC (positions closing)
 
 Information, not advice."
 "2026-11-11 03:10","BTC","update","channel","yes","73810.5","73841","73614",,"📈 BTC +0.9% in 40 min, now $73,811
