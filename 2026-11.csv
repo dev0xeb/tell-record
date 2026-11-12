@@ -3137,21 +3137,21 @@ Move started: $0.1734
 Today's high: $0.2825
 
 Information, not advice."
-"2026-11-11 00:31","INIT","followup","watchlist","no","0.208065","0.19463","0.25101",,"📈 INIT up another 6.3% since the 23:19 UTC update, now $0.2081
+"2026-11-11 00:31","INIT","followup","watchlist","no","0.208065","0.19463","0.25101","0.13133","📈 INIT up another 6.3% since the 23:19 UTC update, now $0.2081
 (+20.0% since the move started at $0.1734)
 
 - Sellers outpaced buyers on Hyperliquid by $30.5K since 23:19 UTC
 - Open positions on Hyperliquid down 1.3% since 23:19 UTC (positions closing)
 
 Information, not advice."
-"2026-11-11 01:11","INIT","followup","watchlist","no","0.188595","0.19213","0.27305",,"↩️ INIT has given back 61% of its rise ($0.1734 → $0.2121), now $0.1886
+"2026-11-11 01:11","INIT","followup","watchlist","no","0.188595","0.19213","0.27305","0.12007","↩️ INIT has given back 61% of its rise ($0.1734 → $0.2121), now $0.1886
 
 LEVELS
 Move started: $0.1734
 Highest in the move: $0.2121
 
 Information, not advice."
-"2026-11-11 01:12","INIT","update","watchlist","yes","0.184305","0.19148","0.26983",,"📉 INIT -13.3% in 31 min, now $0.1843
+"2026-11-11 01:12","INIT","update","watchlist","yes","0.184305","0.19148","0.26983","0.12004","📉 INIT -13.3% in 31 min, now $0.1843
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1864)
@@ -3162,7 +3162,7 @@ Move started: $0.2125
 Today's low: $0.1864
 
 Information, not advice."
-"2026-11-11 01:20","INIT","followup","watchlist","no","0.201715","0.19262","0.26823",,"↩️ INIT has given back 62% of its drop ($0.2125 → $0.1843), now $0.2017
+"2026-11-11 01:20","INIT","followup","watchlist","no","0.201715","0.19262","0.26823","0.11864","↩️ INIT has given back 62% of its drop ($0.2125 → $0.1843), now $0.2017
 
 LEVELS
 Move started: $0.2125
@@ -3267,7 +3267,7 @@ Move started: $73,438
 Today's high: $74,778
 
 Information, not advice."
-"2026-11-12 00:22","ETH","update","channel","yes","2059.65","2053.1",,,"📈 ETH +1.1% in 59 min, now $2,060
+"2026-11-12 00:22","ETH","update","channel","yes","2059.65","2050.3",,,"📈 ETH +1.1% in 59 min, now $2,060
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $12.3M in 59 min
@@ -3276,5 +3276,19 @@ Price rose while open positions fell (positions closing). Buyers outpaced seller
 LEVELS
 Move started: $2,038
 Today's high: $2,103
+
+Information, not advice."
+"2026-11-12 01:15","BTC","followup","channel","no","73719.5","73796",,,"↩️ BTC has given back 62% of its rise ($73,438 → $74,180), now $73,720
+
+LEVELS
+Move started: $73,438
+Highest in the move: $74,180
+
+Information, not advice."
+"2026-11-12 01:41","ETH","followup","channel","no","2048.75",,,,"↩️ ETH has given back 60% of its rise ($2,038 → $2,065), now $2,049
+
+LEVELS
+Move started: $2,038
+Highest in the move: $2,065
 
 Information, not advice."
