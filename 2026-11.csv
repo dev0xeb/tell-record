@@ -3247,7 +3247,7 @@ Move started: $0.2588
 Today's low: $0.1837
 
 Information, not advice."
-"2026-11-11 07:36","INIT","followup","watchlist","no","0.18394","0.19908","0.17677",,"📉 INIT down another 10.0% since the 06:30 UTC update, now $0.1839
+"2026-11-11 07:36","INIT","followup","watchlist","no","0.18394","0.19908","0.17677","0.12779","📉 INIT down another 10.0% since the 06:30 UTC update, now $0.1839
 (-28.9% since the move started at $0.2588)
 
 - Open positions on Hyperliquid down 4.0% since 06:30 UTC (positions closing)
@@ -3287,6 +3287,79 @@ WHAT'S HAPPENING
 LEVELS
 Move started: $1.140
 Today's high: $1.165
+
+Information, not advice."
+"2026-11-11 08:55","kPEPE","extra","watchlist","yes","0.005112","0.005036","0.004997","0.004475","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 kPEPE -3.1% in 58 min, now $0.005112
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.005208)
+- Sellers outpaced buyers on Hyperliquid by $1.1M in 58 min
+- Open positions down 0.9% on Hyperliquid during the move, down 1.1% in 1 hour across Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.005274
+Today's low: $0.005208
+
+Information, not advice."
+"2026-11-11 08:56","ZEC","extra","watchlist","yes","970.74","978.16","981.85","989.02","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 ZEC -3.3% in 58 min, now $970.74
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $10.3M in 58 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $1,003
+Today's low: $965.65
+
+Information, not advice."
+"2026-11-11 09:01","VVV","funding","watchlist","no","18.827","18.975","19.404","19.489","💸 VVV funding on Hyperliquid at its lowest in 30 days (-0.0091% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+
+Information, not advice."
+"2026-11-11 09:01","GRAM","funding","watchlist","no","1.1556","1.1866","1.2382",,"💸 GRAM funding on Hyperliquid at its lowest in 30 days (-0.0187% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+
+Information, not advice."
+"2026-11-11 09:02","INIT","followup","watchlist","no","0.196075","0.17517","0.16853",,"↩️ INIT has given back 61% of its rise ($0.1814 → $0.2186), now $0.1961
+
+LEVELS
+Move started: $0.1814
+Highest in the move: $0.2186
+
+Information, not advice."
+"2026-11-11 09:07","kPEPE","update","watchlist","yes","0.005021","0.005021","0.004986","0.004456","📉 kPEPE -4.6% in 52 min, now $0.005021
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.005208)
+- Sellers outpaced buyers on Hyperliquid by $2.1M in 52 min
+- Open positions down 3.2% on Hyperliquid during the move, down 3.2% in 1 hour across Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.005265
+Today's low: $0.005208
+
+Information, not advice."
+"2026-11-11 09:16","INIT","update","watchlist","yes","0.188775","0.18284","0.16325",,"📉 INIT -13.7% in 30 min, now $0.1888
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $61.5K in 30 min
+
+LEVELS
+Move started: $0.2186
+Today's low: $0.1811
+
+Information, not advice."
+"2026-11-11 09:24","INIT","followup","watchlist","no","0.169735","0.17511","0.16437",,"📉 INIT down another 10.1% since the 09:16 UTC update, now $0.1697
+(-22.4% since the move started at $0.2186)
+
+- Sellers outpaced buyers on Hyperliquid by $5.3K since 09:16 UTC
+- Open positions on Hyperliquid down 6.5% since 09:16 UTC (positions closing)
 
 Information, not advice."
 "2026-11-11 15:12","ETH","update","channel","yes","2065.3","2076.5","2073.2",,"📈 ETH +1.1% in 38 min, now $2,065
