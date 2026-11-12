@@ -3372,14 +3372,14 @@ Move started: $1.151
 Today's high: $1.178
 
 Information, not advice."
-"2026-11-11 11:42","GRAM","followup","watchlist","no","1.17975","1.2341","1.1981",,"↩️ GRAM has given back 60% of its rise ($1.151 → $1.224), now $1.180
+"2026-11-11 11:42","GRAM","followup","watchlist","no","1.17975","1.2341","1.1981","1.249","↩️ GRAM has given back 60% of its rise ($1.151 → $1.224), now $1.180
 
 LEVELS
 Move started: $1.151
 Highest in the move: $1.224
 
 Information, not advice."
-"2026-11-11 11:45","GRAM","extra","watchlist","yes","1.18395","1.2309","1.1996",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-11 11:45","GRAM","extra","watchlist","yes","1.18395","1.2309","1.1996","1.2491","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 GRAM -2.4% in 53 min, now $1.184
 
@@ -3501,5 +3501,29 @@ Information, not advice."
 LEVELS
 Move started: $2,038
 Highest in the move: $2,065
+
+Information, not advice."
+"2026-11-12 11:46","ETH","update","channel","yes","2025.85","2020.8",,,"📉 ETH -1.1% in 60 min, now $2,026
+
+WHAT'S HAPPENING
+- Price fell below today's low ($2,038)
+- Sellers outpaced buyers on Hyperliquid by $27.4M in 60 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $2,048
+Today's low: $2,038
+
+Information, not advice."
+"2026-11-12 12:08","BTC","update","channel","yes","72772.5","72872",,,"📉 BTC -0.9% in 57 min, now $72,773
+
+WHAT'S HAPPENING
+- Price fell below today's low ($73,209)
+- Sellers outpaced buyers on Hyperliquid by $53.2M in 57 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $73,429
+Today's low: $73,209
 
 Information, not advice."
