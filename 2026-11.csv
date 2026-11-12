@@ -3483,7 +3483,7 @@ Move started: $965.44
 Today's high: $1,050
 
 Information, not advice."
-"2026-11-11 16:24","INIT","extra","watchlist","yes","0.14477","0.1491","0.13938","0.11733","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-11 16:24","INIT","extra","watchlist","yes","0.14477","0.1491","0.13938","0.1182","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 INIT -6.9% in 21 min, now $0.1448
 
@@ -3497,7 +3497,7 @@ Move started: $0.1555
 Today's low: $0.1494
 
 Information, not advice."
-"2026-11-11 16:31","GRAM","extra","watchlist","yes","1.2036","1.2076","1.1986",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-11 16:31","GRAM","extra","watchlist","yes","1.2036","1.2076","1.1986","1.2607","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 GRAM +2.3% in 23 min, now $1.204
 
@@ -3526,6 +3526,20 @@ Price rose while open positions fell (positions closing). Buyers outpaced seller
 LEVELS
 Move started: $2,073
 Today's high: $2,090
+
+Information, not advice."
+"2026-11-11 18:29","INIT","extra","watchlist","yes","0.13662","0.13442","0.13586",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 INIT -7.3% in 28 min, now $0.1366
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.1410)
+- Sellers outpaced buyers on Hyperliquid by $78.8K in 28 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.1473
+Today's low: $0.1410
 
 Information, not advice."
 "2026-11-11 18:52","ETH","followup","channel","no","2083.65","2076.8","2055.1",,"↩️ ETH has given back 61% of its rise ($2,073 → $2,101), now $2,084
@@ -3623,7 +3637,7 @@ Information, not advice."
 - Sellers outpaced buyers on Hyperliquid by $21.9M since 11:46 UTC
 
 Information, not advice."
-"2026-11-12 13:21","ETH","update","channel","yes","2009.95","1995.2","2008.8",,"📈 ETH +1.1% in 11 min, now $2,010
+"2026-11-12 13:21","ETH","update","channel","yes","2009.95","1995.2","2008.9",,"📈 ETH +1.1% in 11 min, now $2,010
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $14.5M in 11 min
