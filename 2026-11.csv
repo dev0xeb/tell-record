@@ -4023,27 +4023,27 @@ Move started: $1,988
 Today's high: $2,066
 
 Information, not advice."
-"2026-11-12 14:22","GRAM","update","watchlist","yes","1.21865","1.2523","1.2068",,"📉 GRAM -5.1% in 58 min, now $1.219
+"2026-11-12 14:22","GRAM","update","watchlist","yes","1.21865","1.2523","1.2068","1.1289","📉 GRAM -5.1% in 58 min, now $1.219
 
 LEVELS
 Move started: $1.284
 Today's low: $1.168
 
 Information, not advice."
-"2026-11-12 14:26","BTC","followup","channel","no","71822.5","71457","71933",,"📉 BTC down another 1.3% since the 12:08 UTC update, now $71,823
+"2026-11-12 14:26","BTC","followup","channel","no","71822.5","71457","71933","69218","📉 BTC down another 1.3% since the 12:08 UTC update, now $71,823
 (-2.2% since the move started at $73,429)
 
 - Open positions on Hyperliquid down 1.0% since 12:08 UTC (positions closing)
 
 Information, not advice."
-"2026-11-12 14:28","ETH","followup","channel","no","1982.85","2001","2017.8",,"↩️ ETH is back below where the 13:21 UTC move started ($1,988), now $1,983
+"2026-11-12 14:28","ETH","followup","channel","no","1982.85","2001","2017.8","1961.2","↩️ ETH is back below where the 13:21 UTC move started ($1,988), now $1,983
 
 LEVELS
 Move started: $1,988
 Highest in the move: $2,017
 
 Information, not advice."
-"2026-11-12 14:35","HYPE","extra","watchlist","yes","70.843","70.286","71.294",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-12 14:35","HYPE","extra","watchlist","yes","70.843","70.286","71.294","74.15","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 HYPE +2.0% in 11 min, now $70.84
 
@@ -4056,7 +4056,7 @@ Move started: $69.43
 Today's high: $72.42
 
 Information, not advice."
-"2026-11-12 14:35","ZEC","extra","watchlist","yes","984.63","949.87","943.64",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-12 14:35","ZEC","extra","watchlist","yes","984.63","949.87","943.64","960.41","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 ZEC +3.3% in 7 min, now $984.63
 
@@ -4067,6 +4067,26 @@ Price rose while open positions fell (positions closing). Buyers outpaced seller
 LEVELS
 Move started: $952.96
 Today's high: $1,006
+
+Information, not advice."
+"2026-11-12 15:35","ZEC","extra","watchlist","yes","952.595","956.72","944.24",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 ZEC -3.6% in 59 min, now $952.60
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $5.7M in 59 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $987.68
+Today's low: $948.24
+
+Information, not advice."
+"2026-11-12 15:42","GRAM","followup","watchlist","no","1.26345","1.2517","1.1358",,"↩️ GRAM has given back 69% of its drop ($1.284 → $1.217), now $1.263
+
+LEVELS
+Move started: $1.284
+Lowest in the move: $1.217
 
 Information, not advice."
 "2026-11-12 16:06","ETH","update","channel","yes","2026.55","2007.9","2017",,"📈 ETH +1.6% in 30 min, now $2,027
@@ -4233,7 +4253,7 @@ Information, not advice."
 (+2.6% since the move started at $67,529)
 
 Information, not advice."
-"2026-11-13 13:35","BTC","update","channel","yes","69989.5",,,,"📈 BTC +1.3% in 34 min, now $69,990
+"2026-11-13 13:35","BTC","update","channel","yes","69989.5","69081",,,"📈 BTC +1.3% in 34 min, now $69,990
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $113.1M in 34 min
@@ -4242,5 +4262,26 @@ Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 LEVELS
 Move started: $69,082
 Today's high: $71,507
+
+Information, not advice."
+"2026-11-13 14:11","BTC","update","channel","yes","69284.5","68680",,,"📉 BTC -1.3% in 33 min, now $69,285
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $72.9M in 33 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $70,205
+Today's low: $67,392
+
+Information, not advice."
+"2026-11-13 14:11","ETH","update","channel","yes","1964.75","1935",,,"📉 ETH -1.2% in 33 min, now $1,965
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $8.6M in 33 min
+
+LEVELS
+Move started: $1,988
+Today's low: $1,893
 
 Information, not advice."
