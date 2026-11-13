@@ -3838,7 +3838,7 @@ Information, not advice."
 The move started at $0.2125; the price is now below that.
 
 Information, not advice."
-"2026-11-12 01:41","ETH","followup","channel","no","2048.75","2055.6","2045.4",,"↩️ ETH has given back 60% of its rise ($2,038 → $2,065), now $2,049
+"2026-11-12 01:41","ETH","followup","channel","no","2048.75","2055.6","2045.4","2010.6","↩️ ETH has given back 60% of its rise ($2,038 → $2,065), now $2,049
 
 LEVELS
 Move started: $2,038
@@ -3921,7 +3921,7 @@ Move started: $71,267
 Today's high: $74,180
 
 Information, not advice."
-"2026-11-13 00:39","BTC","update","channel","yes","70857.5",,,,"📉 BTC -0.9% in 35 min, now $70,858
+"2026-11-13 00:39","BTC","update","channel","yes","70857.5","71058",,,"📉 BTC -0.9% in 35 min, now $70,858
 
 WHAT'S HAPPENING
 - Price fell below today's low ($71,416)
@@ -3931,5 +3931,12 @@ Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliqui
 LEVELS
 Move started: $71,507
 Today's low: $71,416
+
+Information, not advice."
+"2026-11-13 01:29","BTC","followup","channel","no","71205.5",,,,"↩️ BTC has given back 61% of its drop ($71,507 → $70,744), now $71,206
+
+LEVELS
+Move started: $71,507
+Lowest in the move: $70,744
 
 Information, not advice."
