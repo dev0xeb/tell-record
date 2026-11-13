@@ -3940,7 +3940,7 @@ Move started: $561.17
 Today's low: $551.14
 
 Information, not advice."
-"2026-11-12 11:46","ETH","update","channel","yes","2025.85","2020.8","1999",,"📉 ETH -1.1% in 60 min, now $2,026
+"2026-11-12 11:46","ETH","update","channel","yes","2025.85","2020.8","1999","1959.8","📉 ETH -1.1% in 60 min, now $2,026
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,038)
@@ -3952,7 +3952,7 @@ Move started: $2,048
 Today's low: $2,038
 
 Information, not advice."
-"2026-11-12 12:08","BTC","update","channel","yes","72772.5","72872","71950",,"📉 BTC -0.9% in 57 min, now $72,773
+"2026-11-12 12:08","BTC","update","channel","yes","72772.5","72872","71950","69397","📉 BTC -0.9% in 57 min, now $72,773
 
 WHAT'S HAPPENING
 - Price fell below today's low ($73,209)
@@ -3962,6 +3962,34 @@ Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliqui
 LEVELS
 Move started: $73,429
 Today's low: $73,209
+
+Information, not advice."
+"2026-11-12 12:09","ZEC","extra","watchlist","yes","962.09","966.1","968.35","974.91","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 ZEC -3.3% in 59 min, now $962.09
+
+WHAT'S HAPPENING
+- Price fell below today's low ($963.02)
+- Sellers outpaced buyers on Hyperliquid by $6.9M in 59 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $995.11
+Today's low: $963.02
+
+Information, not advice."
+"2026-11-12 12:41","GRAM","extra","watchlist","yes","1.2652","1.2519","1.2533",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 GRAM +2.5% in 34 min, now $1.265
+
+WHAT'S HAPPENING
+- Price broke above today's high ($1.255)
+- Buyers outpaced sellers on Hyperliquid by $116.5K in 34 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $1.234
+Today's high: $1.255
 
 Information, not advice."
 "2026-11-12 13:09","ETH","followup","channel","no","1994.95","2010","2006.6",,"📉 ETH down another 1.5% since the 11:46 UTC update, now $1,995
