@@ -3883,6 +3883,37 @@ Move started: $1.209
 Today's low: $1.168
 
 Information, not advice."
+"2026-11-12 05:48","INIT","extra","watchlist","yes","0.135215","0.13486","0.12559",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 INIT -7.9% in 12 min, now $0.1352
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $113.8K in 12 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.1467
+Today's low: $0.1101
+
+Information, not advice."
+"2026-11-12 05:54","XMR","extra","watchlist","yes","558.1","554.65","554.78","515.84","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 XMR -2.0% in 59 min, now $558.10
+
+WHAT'S HAPPENING
+- Price fell below today's low ($568.10)
+- Sellers outpaced buyers on Hyperliquid by $413.6K in 59 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $569.73
+Today's low: $568.10
+
+Information, not advice."
+"2026-11-12 06:31","INIT","playout","watchlist","no","0.13437",,,,"⏱ 24 hours later: INIT $0.1350, −33.9% since this update ($0.2043).
+The move started at $0.2588; the price is now below that.
+
+Information, not advice."
 "2026-11-12 11:46","ETH","update","channel","yes","2025.85","2020.8","1999",,"📉 ETH -1.1% in 60 min, now $2,026
 
 WHAT'S HAPPENING
@@ -3971,14 +4002,14 @@ Move started: $71,507
 Today's low: $71,416
 
 Information, not advice."
-"2026-11-13 01:29","BTC","followup","channel","no","71205.5","70567",,,"↩️ BTC has given back 61% of its drop ($71,507 → $70,744), now $71,206
+"2026-11-13 01:29","BTC","followup","channel","no","71205.5","70567","68625",,"↩️ BTC has given back 61% of its drop ($71,507 → $70,744), now $71,206
 
 LEVELS
 Move started: $71,507
 Lowest in the move: $70,744
 
 Information, not advice."
-"2026-11-13 02:14","BTC","update","channel","yes","70515","69726",,,"📉 BTC -1.0% in 45 min, now $70,515
+"2026-11-13 02:14","BTC","update","channel","yes","70515","69726","68245",,"📉 BTC -1.0% in 45 min, now $70,515
 
 WHAT'S HAPPENING
 - Price fell below today's low ($70,624)
