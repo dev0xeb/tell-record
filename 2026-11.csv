@@ -3845,6 +3845,24 @@ Move started: $2,038
 Highest in the move: $2,065
 
 Information, not advice."
+"2026-11-12 02:46","XMR","funding","watchlist","no","573.22","575.52","557.94","532.56","💸 XMR funding on Hyperliquid at its highest in 30 days (+0.0949% per hour)
+(longs pay shorts; the highest rate in 30 days)
+
+Information, not advice."
+"2026-11-12 02:50","INIT","extra","watchlist","yes","0.111905","0.13167","0.13721",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 INIT -9.9% in 48 min, now $0.1119
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.1168)
+- Sellers outpaced buyers on Hyperliquid by $58.3K in 48 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.1242
+Today's low: $0.1168
+
+Information, not advice."
 "2026-11-12 11:46","ETH","update","channel","yes","2025.85","2020.8","1999",,"📉 ETH -1.1% in 60 min, now $2,026
 
 WHAT'S HAPPENING
@@ -3933,10 +3951,22 @@ Move started: $71,507
 Today's low: $71,416
 
 Information, not advice."
-"2026-11-13 01:29","BTC","followup","channel","no","71205.5",,,,"↩️ BTC has given back 61% of its drop ($71,507 → $70,744), now $71,206
+"2026-11-13 01:29","BTC","followup","channel","no","71205.5","70567",,,"↩️ BTC has given back 61% of its drop ($71,507 → $70,744), now $71,206
 
 LEVELS
 Move started: $71,507
 Lowest in the move: $70,744
+
+Information, not advice."
+"2026-11-13 02:14","BTC","update","channel","yes","70515","69726",,,"📉 BTC -1.0% in 45 min, now $70,515
+
+WHAT'S HAPPENING
+- Price fell below today's low ($70,624)
+- Sellers outpaced buyers on Hyperliquid by $57.0M in 45 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $71,206
+Today's low: $70,624
 
 Information, not advice."
