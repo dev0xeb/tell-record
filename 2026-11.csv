@@ -3806,7 +3806,7 @@ Move started: $0.003369
 Today's high: $0.003689
 
 Information, not advice."
-"2026-11-12 00:21","ZEC","update","watchlist","yes","983.265","985.5","984.82","954.13","📈 ZEC +3.4% in 55 min, now $983.27
+"2026-11-12 00:21","ZEC","update","watchlist","yes","983.265","985.5","984.82","957.28","📈 ZEC +3.4% in 55 min, now $983.27
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $3.7M in 55 min
@@ -3816,7 +3816,7 @@ Move started: $951.27
 Today's high: $1,050
 
 Information, not advice."
-"2026-11-12 00:22","ETH","update","channel","yes","2059.65","2050.3","2052.6","2016","📈 ETH +1.1% in 59 min, now $2,060
+"2026-11-12 00:22","ETH","update","channel","yes","2059.65","2050.3","2052.6","2015.4","📈 ETH +1.1% in 59 min, now $2,060
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $12.3M in 59 min
@@ -3827,11 +3827,15 @@ Move started: $2,038
 Today's high: $2,103
 
 Information, not advice."
-"2026-11-12 01:15","BTC","followup","channel","no","73719.5","73796","73552",,"↩️ BTC has given back 62% of its rise ($73,438 → $74,180), now $73,720
+"2026-11-12 01:15","BTC","followup","channel","no","73719.5","73796","73552","70892","↩️ BTC has given back 62% of its rise ($73,438 → $74,180), now $73,720
 
 LEVELS
 Move started: $73,438
 Highest in the move: $74,180
+
+Information, not advice."
+"2026-11-12 01:16","INIT","playout","watchlist","no","0.11915",,,,"⏱ 24 hours later: INIT $0.1198, −35.0% since this update ($0.1843).
+The move started at $0.2125; the price is now below that.
 
 Information, not advice."
 "2026-11-12 01:41","ETH","followup","channel","no","2048.75","2055.6","2045.4",,"↩️ ETH has given back 60% of its rise ($2,038 → $2,065), now $2,049
@@ -3915,5 +3919,17 @@ Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 LEVELS
 Move started: $71,267
 Today's high: $74,180
+
+Information, not advice."
+"2026-11-13 00:39","BTC","update","channel","yes","70857.5",,,,"📉 BTC -0.9% in 35 min, now $70,858
+
+WHAT'S HAPPENING
+- Price fell below today's low ($71,416)
+- Sellers outpaced buyers on Hyperliquid by $68.8M in 35 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $71,507
+Today's low: $71,416
 
 Information, not advice."
