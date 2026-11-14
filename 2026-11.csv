@@ -4214,13 +4214,17 @@ Move started: $71,206
 Today's low: $70,624
 
 Information, not advice."
-"2026-11-13 02:52","BTC","followup","channel","no","69872","68708","68828",,"📉 BTC down another 0.9% since the 02:14 UTC update, now $69,872
+"2026-11-13 02:46","XMR","funding","watchlist","no","532.56","524.4","525.62","526.98","💸 XMR funding on Hyperliquid at its highest in 30 days (+0.1696% per hour)
+(longs pay shorts; the highest rate in 30 days)
+
+Information, not advice."
+"2026-11-13 02:52","BTC","followup","channel","no","69872","68708","68828","67672","📉 BTC down another 0.9% since the 02:14 UTC update, now $69,872
 (-1.9% since the move started at $71,206)
 
 - Open positions on Hyperliquid down 1.0% since 02:14 UTC (positions closing)
 
 Information, not advice."
-"2026-11-13 03:20","ETH","update","channel","yes","1962.65","1937.3","1943.1",,"📉 ETH -2.2% in 58 min, now $1,963
+"2026-11-13 03:20","ETH","update","channel","yes","1962.65","1937.3","1943.1","1903.5","📉 ETH -2.2% in 58 min, now $1,963
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,992)
@@ -4230,13 +4234,13 @@ Move started: $2,007
 Today's low: $1,992
 
 Information, not advice."
-"2026-11-13 03:22","BTC","followup","channel","no","69290.5","69037","69150",,"📉 BTC down another 0.8% since the 02:52 UTC follow-up, now $69,291
+"2026-11-13 03:22","BTC","followup","channel","no","69290.5","69037","69150","67353","📉 BTC down another 0.8% since the 02:52 UTC follow-up, now $69,291
 (-2.7% since the move started at $71,206)
 
 - Open positions on Hyperliquid down 2.0% since 02:52 UTC (positions closing)
 
 Information, not advice."
-"2026-11-13 03:22","BTC","update","channel","yes","69227.5","69037","69150",,"📉 BTC -2.1% in 59 min, now $69,228
+"2026-11-13 03:22","BTC","update","channel","yes","69227.5","69037","69150","67353","📉 BTC -2.1% in 59 min, now $69,228
 
 WHAT'S HAPPENING
 - Price fell below today's low ($70,348)
@@ -4371,5 +4375,36 @@ Information, not advice."
 Information, not advice."
 "2026-11-13 16:11","ETH","playout","channel","no","1935.5",,,,"⏱ 24 hours later: ETH $1,935, −4.5% since this update ($2,027).
 The rise started at $1,994; the price is now back below that, so the whole rise has been reversed.
+
+Information, not advice."
+"2026-11-14 02:22","BTC","update","channel","yes","67730.5","67353",,,"📉 BTC -0.9% in 53 min, now $67,731
+
+WHAT'S HAPPENING
+- Price fell below today's low ($68,092)
+- Sellers outpaced buyers on Hyperliquid by $31.4M in 53 min
+- Funding on Hyperliquid -0.0007% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $68,373
+Today's low: $68,092
+
+Information, not advice."
+"2026-11-14 02:28","BTC","followup","channel","no","67088",,,,"📉 BTC down another 0.9% since the 02:22 UTC update, now $67,088
+(-1.9% since the move started at $68,373)
+
+- Sellers outpaced buyers on Hyperliquid by $49.9M since 02:22 UTC
+
+Information, not advice."
+"2026-11-14 02:29","ETH","update","channel","yes","1883.15",,,,"📉 ETH -2.5% in 45 min, now $1,883
+
+WHAT'S HAPPENING
+- Price fell below today's low ($1,925)
+- Sellers outpaced buyers on Hyperliquid by $28.9M in 45 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $1,932
+Today's low: $1,925
 
 Information, not advice."
