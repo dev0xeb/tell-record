@@ -5475,7 +5475,7 @@ Move started: $5.029
 Today's low: $4.902
 
 Information, not advice."
-"2026-11-14 20:37","XMR","update","watchlist","yes","476.115","474.54","467.61",,"📉 XMR -4.7% in 34 min, now $476.12
+"2026-11-14 20:37","XMR","update","watchlist","yes","476.115","474.54","467.61","502.49","📉 XMR -4.7% in 34 min, now $476.12
 
 WHAT'S HAPPENING
 - Price fell below today's low ($493.72)
@@ -5485,7 +5485,7 @@ Move started: $499.49
 Today's low: $493.72
 
 Information, not advice."
-"2026-11-14 20:44","ZRO","update","watchlist","yes","1.41425","1.3906","1.4034",,"📉 ZRO -7.5% in 59 min, now $1.414
+"2026-11-14 20:44","ZRO","update","watchlist","yes","1.41425","1.3906","1.4034","1.3803","📉 ZRO -7.5% in 59 min, now $1.414
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1.475)
@@ -5495,7 +5495,17 @@ Move started: $1.529
 Today's low: $1.475
 
 Information, not advice."
-"2026-11-14 20:54","ETH","update","channel","yes","1781.6","1772.2","1741.8",,"📉 ETH -3.1% in 52 min, now $1,782
+"2026-11-14 20:54","FARTCOIN","update","watchlist","yes","0.08879","0.08831","0.08918",,"📉 FARTCOIN -5.6% in 53 min, now $0.08879
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.09278)
+
+LEVELS
+Move started: $0.09407
+Today's low: $0.09278
+
+Information, not advice."
+"2026-11-14 20:54","ETH","update","channel","yes","1781.6","1772.2","1741.8","1825.8","📉 ETH -3.1% in 52 min, now $1,782
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,810)
@@ -5505,7 +5515,73 @@ Move started: $1,839
 Today's low: $1,810
 
 Information, not advice."
-"2026-11-14 21:13","BTC","update","channel","yes","64443.5","63404","62868",,"📉 BTC -1.7% in 51 min, now $64,444
+"2026-11-14 20:54","DOGE","update","watchlist","yes","0.057533","0.05676","0.056849","0.058969","📉 DOGE -4.0% in 51 min, now $0.05753
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.05937)
+
+LEVELS
+Move started: $0.05994
+Today's low: $0.05937
+
+Information, not advice."
+"2026-11-14 20:54","SUI","update","watchlist","yes","0.6953","0.69097","0.69338","0.72892","📉 SUI -4.5% in 53 min, now $0.6953
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.7193)
+
+LEVELS
+Move started: $0.7280
+Today's low: $0.7193
+
+Information, not advice."
+"2026-11-14 20:54","HYPE","update","watchlist","no","62.3475","62.266","63.755","67.772","📉 HYPE -4.8% in 54 min, now $62.35
+
+WHAT'S HAPPENING
+- Price fell below today's low ($64.28)
+Price fell; open positions barely changed. Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $65.48
+Today's low: $64.28
+
+Information, not advice."
+"2026-11-14 20:54","XRP","update","watchlist","no","0.9182","0.90821","0.92109","0.9625","📉 XRP -4.0% in 54 min, now $0.9182
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.9449)
+- Open positions up 1.1% on Hyperliquid during the move (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $0.9569
+Today's low: $0.9449
+
+Information, not advice."
+"2026-11-14 20:54","AVAX","update","watchlist","no","7.0974","7.0942","6.9745","7.2683","📉 AVAX -4.7% in 52 min, now $7.097
+
+WHAT'S HAPPENING
+- Price fell below today's low ($7.387)
+- Open positions down 1.3% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $7.450
+Today's low: $7.387
+
+Information, not advice."
+"2026-11-14 20:54","WLD","update","watchlist","no","0.24594","0.25104","0.25309","0.26562","📉 WLD -5.6% in 54 min, now $0.2459
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.2585)
+Price fell; open positions barely changed. Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $0.2606
+Today's low: $0.2585
+
+Information, not advice."
+"2026-11-14 21:13","BTC","update","channel","yes","64443.5","63404","62868","65009","📉 BTC -1.7% in 51 min, now $64,444
 
 WHAT'S HAPPENING
 - Price fell below today's low ($64,957)
@@ -5516,6 +5592,297 @@ Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 LEVELS
 Move started: $65,581
 Today's low: $64,957
+
+Information, not advice."
+"2026-11-14 21:14","UNI","extra","watchlist","yes","4.7028","4.7183","4.7688","5.1503","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 UNI -3.8% in 44 min, now $4.703
+
+WHAT'S HAPPENING
+- Price fell below today's low ($4.840)
+- Sellers outpaced buyers on Hyperliquid by $410.4K in 44 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $4.890
+Today's low: $4.840
+
+Information, not advice."
+"2026-11-14 21:14","BNB","extra","watchlist","yes","576.16","573.06","572.97","594.46","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 BNB -2.0% in 45 min, now $576.16
+
+WHAT'S HAPPENING
+- Price fell below today's low ($582.70)
+- Sellers outpaced buyers on Hyperliquid by $679.0K in 45 min
+
+LEVELS
+Move started: $588.11
+Today's low: $582.70
+
+Information, not advice."
+"2026-11-14 21:14","SOL","update","watchlist","yes","69.572","69.198","69.147","71.802","📉 SOL -3.5% in 45 min, now $69.57
+
+WHAT'S HAPPENING
+- Price fell below today's low ($71.51)
+- Sellers outpaced buyers on Hyperliquid by $8.1M in 45 min
+- Funding on Hyperliquid -0.0032% per hour, the lowest in 7 days (shorts pay longs)
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $72.08
+Today's low: $71.51
+
+Information, not advice."
+"2026-11-14 21:14","LIT","update","watchlist","no","2.68875","2.7449","2.8305","2.8315","📉 LIT -5.7% in 45 min, now $2.689
+
+WHAT'S HAPPENING
+- Price fell below today's low ($2.806)
+- Sellers outpaced buyers on Hyperliquid by $6.7M in 45 min
+- Open positions down 6.7% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $2.852
+Today's low: $2.806
+
+Information, not advice."
+"2026-11-14 21:14","UNI","update","watchlist","no","4.66675","4.7183","4.7688","5.1503","📉 UNI -4.6% in 45 min, now $4.667
+
+WHAT'S HAPPENING
+- Price fell below today's low ($4.840)
+- Sellers outpaced buyers on Hyperliquid by $483.8K in 45 min
+- Open positions down 1.4% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $4.890
+Today's low: $4.840
+
+Information, not advice."
+"2026-11-14 21:14","VVV","extra","watchlist","yes","16.8945","16.919","16.937","20.211","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 VVV -3.7% in 45 min, now $16.89
+
+WHAT'S HAPPENING
+- Price fell below today's low ($17.14)
+- Sellers outpaced buyers on Hyperliquid by $358.8K in 45 min
+
+LEVELS
+Move started: $17.54
+Today's low: $17.14
+
+Information, not advice."
+"2026-11-14 21:15","PUMP","extra","watchlist","no","0.002776","0.00288","0.002837","0.002922","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 PUMP -4.3% in 45 min, now $0.002776
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.002861)
+- Sellers outpaced buyers on Hyperliquid by $1.4M in 45 min
+- Open positions down 3.6% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.002901
+Today's low: $0.002861
+
+Information, not advice."
+"2026-11-14 21:15","ENA","update","watchlist","no","0.111935","0.11352","0.11331","0.1204","📉 ENA -4.7% in 52 min, now $0.1119
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.1163)
+- Sellers outpaced buyers on Hyperliquid by $1.6M in 52 min
+- Open positions down 3.5% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+- Funding on Hyperliquid -0.0051% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.1175
+Today's low: $0.1163
+
+Information, not advice."
+"2026-11-14 21:15","ZEC","extra","watchlist","no","815.83","850.11","857.19","903.57","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 ZEC -3.7% in 46 min, now $815.83
+
+WHAT'S HAPPENING
+- Price fell below today's low ($839.50)
+- Sellers outpaced buyers on Hyperliquid by $16.1M in 46 min
+- Open positions down 0.7% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $846.83
+Today's low: $839.50
+
+Information, not advice."
+"2026-11-14 21:16","NEAR","extra","watchlist","no","2.90495","2.941","2.9936","3.1823","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 NEAR -4.9% in 50 min, now $2.905
+
+WHAT'S HAPPENING
+- Price fell below today's low ($3.019)
+- Sellers outpaced buyers on Hyperliquid by $3.6M in 50 min
+- Open positions down 1.8% on Hyperliquid during the move (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $3.053
+Today's low: $3.019
+
+Information, not advice."
+"2026-11-14 21:16","NEAR","update","watchlist","yes","2.8887","2.941","2.9936","3.1823","📉 NEAR -5.4% in 50 min, now $2.889
+
+WHAT'S HAPPENING
+- Price fell below today's low ($3.019)
+- Sellers outpaced buyers on Hyperliquid by $4.6M in 50 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $3.053
+Today's low: $3.019
+
+Information, not advice."
+"2026-11-14 21:17","kPEPE","extra","watchlist","yes","0.003747","0.00374","0.003795","0.003841","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 kPEPE -3.7% in 46 min, now $0.003747
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.003847)
+- Sellers outpaced buyers on Hyperliquid by $1.3M in 46 min
+- Open positions down 6.3% on Hyperliquid during the move, down 6.6% in 1 hour across Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.003889
+Today's low: $0.003847
+
+Information, not advice."
+"2026-11-14 21:18","PUMP","update","watchlist","yes","0.002751","0.002862","0.00284","0.002914","📉 PUMP -5.2% in 48 min, now $0.002751
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.002861)
+- Sellers outpaced buyers on Hyperliquid by $1.4M in 48 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.002901
+Today's low: $0.002861
+
+Information, not advice."
+"2026-11-14 21:18","HYPE","followup","watchlist","no","60.142","62.774","63.566","67.567","📉 HYPE down another 3.5% since the 20:54 UTC update, now $60.14
+(-8.2% since the move started at $65.48)
+
+- Sellers outpaced buyers on Hyperliquid by $28.3M since 20:54 UTC
+
+Information, not advice."
+"2026-11-14 21:18","ZEC","update","watchlist","yes","802.84","849.08","856.55","901.11","📉 ZEC -5.2% in 48 min, now $802.84
+
+WHAT'S HAPPENING
+- Price fell below today's low ($839.50)
+- Sellers outpaced buyers on Hyperliquid by $25.9M in 48 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $846.83
+Today's low: $839.50
+
+Information, not advice."
+"2026-11-14 21:22","HYPE","update","watchlist","yes","62.2045","63.665","63.362","67.509","📈 HYPE +3.7% in 4 min, now $62.20
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $15.1M in 4 min
+- Funding on Hyperliquid +0.0098% per hour, the highest in 7 days (longs pay shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $59.97
+Today's high: $71.86
+
+Information, not advice."
+"2026-11-14 21:37","XMR","extra","watchlist","yes","473.895","461.98","465.73",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 XMR +2.9% in 19 min, now $473.90
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $1.0M in 19 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $460.65
+Today's high: $535.92
+
+Information, not advice."
+"2026-11-14 21:39","PUMP","update","watchlist","yes","0.002865","0.002853","0.002807",,"📈 PUMP +5.1% in 21 min, now $0.002865
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $1.0M in 21 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $0.002727
+Today's high: $0.003488
+
+Information, not advice."
+"2026-11-14 21:40","XMR","update","watchlist","yes","476.55","462.49","464.61",,"📈 XMR +3.5% in 22 min, now $476.55
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $1.1M in 22 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $460.65
+Today's high: $535.92
+
+Information, not advice."
+"2026-11-14 21:41","SUI","update","watchlist","yes","0.69944","0.68356","0.68074",,"📈 SUI +3.4% in 23 min, now $0.6994
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $338.9K in 23 min
+- Funding on Hyperliquid -0.0050% per hour, the lowest in 7 days (shorts pay longs)
+
+LEVELS
+Move started: $0.6764
+Today's high: $0.7988
+
+Information, not advice."
+"2026-11-14 21:41","WLD","followup","watchlist","no","0.25358","0.24696","0.24858",,"↩️ WLD has given back 60% of its drop ($0.2606 → $0.2429), now $0.2536
+
+LEVELS
+Move started: $0.2606
+Lowest in the move: $0.2429
+
+Information, not advice."
+"2026-11-14 21:41","ZEC","update","watchlist","yes","843.74","843","842.82",,"📈 ZEC +5.2% in 24 min, now $843.74
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $17.5M in 24 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $801.81
+Today's high: $939.98
+
+Information, not advice."
+"2026-11-14 21:42","LIT","update","watchlist","yes","2.79865","2.7844","2.8274",,"📈 LIT +5.7% in 24 min, now $2.799
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $409.8K in 24 min
+
+LEVELS
+Move started: $2.648
+Today's high: $3.293
+
+Information, not advice."
+"2026-11-14 21:42","ENA","update","watchlist","yes","0.115155","0.11335","0.11173",,"📈 ENA +4.7% in 24 min, now $0.1152
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $694.9K in 24 min
+
+LEVELS
+Move started: $0.1100
+Today's high: $0.1350
 
 Information, not advice."
 "2026-11-14 22:08","ETH","followup","channel","no","1740.65","1744.6","1759",,"📉 ETH down another 2.3% since the 20:54 UTC update, now $1,741
