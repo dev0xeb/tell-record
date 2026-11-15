@@ -4983,6 +4983,38 @@ Move started: $1,916
 Lowest in the move: $1,878
 
 Information, not advice."
+"2026-11-14 07:01","SUI","funding","watchlist","no","0.77597","0.77009","0.76993","0.71638","💸 SUI funding on Hyperliquid at its lowest in 30 days (-0.0050% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+
+Information, not advice."
+"2026-11-14 07:18","SUI","extra","watchlist","yes","0.76901","0.77014","0.77164","0.71706","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 SUI -2.1% in 57 min, now $0.7690
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $813.0K in 57 min
+- Funding on Hyperliquid -0.0026% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.7851
+Today's low: $0.7667
+
+Information, not advice."
+"2026-11-14 07:19","ENA","extra","watchlist","yes","0.127555","0.12791","0.12729","0.11846","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 ENA -3.1% in 56 min, now $0.1276
+
+WHAT'S HAPPENING
+- Price fell below today's low ($0.1283)
+- Sellers outpaced buyers on Hyperliquid by $372.4K in 56 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.1316
+Today's low: $0.1283
+
+Information, not advice."
 "2026-11-14 14:01","ETH","update","channel","yes","1868.6","1853.6","1845.3",,"📉 ETH -1.5% in 59 min, now $1,869
 
 WHAT'S HAPPENING
@@ -5153,14 +5185,14 @@ Move started: $1,711
 Today's high: $1,778
 
 Information, not advice."
-"2026-11-15 02:29","ETH","followup","channel","no","1805.35","1822",,,"📈 ETH up another 2.3% since the 02:09 UTC update, now $1,805
+"2026-11-15 02:29","ETH","followup","channel","no","1805.35","1822","1797.6",,"📈 ETH up another 2.3% since the 02:09 UTC update, now $1,805
 (+5.5% since the move started at $1,711)
 
 - Buyers outpaced sellers on Hyperliquid by $46.3M since 02:09 UTC
 - Open positions on Hyperliquid down 2.3% since 02:09 UTC (positions closing)
 
 Information, not advice."
-"2026-11-15 02:31","BTC","followup","channel","no","64674","64873",,,"📈 BTC up another 1.8% since the 02:06 UTC update, now $64,674
+"2026-11-15 02:31","BTC","followup","channel","no","64674","64873","64484",,"📈 BTC up another 1.8% since the 02:06 UTC update, now $64,674
 (+4.3% since the move started at $62,017)
 
 - Buyers outpaced sellers on Hyperliquid by $11.7M since 02:06 UTC
