@@ -6166,14 +6166,14 @@ Move started: $7.135
 Today's low: $7.041
 
 Information, not advice."
-"2026-11-15 01:10","FARTCOIN","followup","watchlist","no","0.08775","0.09037","0.09182",,"↩️ FARTCOIN has given back 93% of its rise ($0.08746 → $0.09134), now $0.08775
+"2026-11-15 01:10","FARTCOIN","followup","watchlist","no","0.08775","0.09037","0.09182","0.09454","↩️ FARTCOIN has given back 93% of its rise ($0.08746 → $0.09134), now $0.08775
 
 LEVELS
 Move started: $0.08746
 Highest in the move: $0.09134
 
 Information, not advice."
-"2026-11-15 01:13","FARTCOIN","extra","watchlist","yes","0.08887","0.0911","0.09203",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-15 01:13","FARTCOIN","extra","watchlist","yes","0.08887","0.0911","0.09203","0.09424","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 FARTCOIN -2.7% in 57 min, now $0.08887
 
@@ -6200,7 +6200,7 @@ Move started: $70.56
 Today's low: $69.86
 
 Information, not advice."
-"2026-11-15 01:30","BNB","extra","watchlist","yes","568.815","588.22","595.47",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-15 01:30","BNB","extra","watchlist","yes","568.815","588.22","595.47","592.5","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 BNB -2.2% in 50 min, now $568.82
 
@@ -6213,7 +6213,7 @@ Move started: $581.64
 Today's low: $576.51
 
 Information, not advice."
-"2026-11-15 01:30","NEAR","extra","watchlist","yes","2.96285","3.1319","3.1393",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-15 01:30","NEAR","extra","watchlist","yes","2.96285","3.1319","3.1393","3.1446","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 NEAR -3.4% in 50 min, now $2.963
 
@@ -6227,14 +6227,14 @@ Move started: $3.068
 Today's low: $3.011
 
 Information, not advice."
-"2026-11-15 01:36","XRP","followup","watchlist","no","0.905795","0.94831","0.96356",,"↩️ XRP has given back 69% of its rise ($0.8929 → $0.9343), now $0.9058
+"2026-11-15 01:36","XRP","followup","watchlist","no","0.905795","0.94831","0.96356","0.95996","↩️ XRP has given back 69% of its rise ($0.8929 → $0.9343), now $0.9058
 
 LEVELS
 Move started: $0.8929
 Highest in the move: $0.9343
 
 Information, not advice."
-"2026-11-15 01:39","SOL","update","watchlist","yes","68.0765","71.079","70.937",,"📉 SOL -3.0% in 58 min, now $68.08
+"2026-11-15 01:39","SOL","update","watchlist","yes","68.0765","71.079","70.937","71.302","📉 SOL -3.0% in 58 min, now $68.08
 
 WHAT'S HAPPENING
 - Price fell below today's low ($69.63)
@@ -6246,13 +6246,13 @@ Move started: $70.20
 Today's low: $69.63
 
 Information, not advice."
-"2026-11-15 01:39","BTC","followup","channel","no","62291.5","64817","64806",,"📉 BTC down another 1.2% since the 01:02 UTC follow-up, now $62,292
+"2026-11-15 01:39","BTC","followup","channel","no","62291.5","64817","64806","64758","📉 BTC down another 1.2% since the 01:02 UTC follow-up, now $62,292
 (-3.5% since the move started at $64,552)
 
 - Sellers outpaced buyers on Hyperliquid by $37.4M since 01:02 UTC
 
 Information, not advice."
-"2026-11-15 01:39","BTC","update","channel","yes","62270.5","64817","64806",,"📉 BTC -2.6% in 58 min, now $62,271
+"2026-11-15 01:39","BTC","update","channel","yes","62270.5","64817","64806","64758","📉 BTC -2.6% in 58 min, now $62,271
 
 WHAT'S HAPPENING
 - Price fell below today's low ($63,535)
@@ -6265,7 +6265,7 @@ Move started: $63,940
 Today's low: $63,535
 
 Information, not advice."
-"2026-11-15 01:43","ENA","extra","watchlist","yes","0.1109","0.11778","0.11884",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-15 01:43","ENA","extra","watchlist","yes","0.1109","0.11778","0.11884","0.11741","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📉 ENA -3.6% in 58 min, now $0.1109
 
@@ -6279,32 +6279,184 @@ Move started: $0.1150
 Today's low: $0.1139
 
 Information, not advice."
-"2026-11-15 02:05","BTC","followup","channel","no","63181.5","65200","64259",,"↩️ BTC has given back 60% of its drop ($63,940 → $62,035), now $63,182
+"2026-11-15 01:48","HYPE","extra","watchlist","yes","62.4715","65.794","65.892","66.319","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 HYPE -2.8% in 60 min, now $62.47
+
+WHAT'S HAPPENING
+- Price fell below today's low ($63.93)
+- Sellers outpaced buyers on Hyperliquid by $10.5M in 60 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $64.30
+Today's low: $63.93
+
+Information, not advice."
+"2026-11-15 02:05","BTC","followup","channel","no","63181.5","65200","64259","64772","↩️ BTC has given back 60% of its drop ($63,940 → $62,035), now $63,182
 
 LEVELS
 Move started: $63,940
 Lowest in the move: $62,035
 
 Information, not advice."
-"2026-11-15 02:06","BTC","update","channel","yes","63500","65155","64309",,"📈 BTC +2.4% in 21 min, now $63,500
+"2026-11-15 02:06","BTC","update","channel","yes","63500","65155","64309","64801","📈 BTC +2.4% in 21 min, now $63,500
 
 LEVELS
 Move started: $62,017
 Today's high: $64,555
 
 Information, not advice."
-"2026-11-15 02:06","ETH","followup","channel","no","1751.95","1822.5","1789.5",,"↩️ ETH has given back 62% of its drop ($1,777 → $1,711), now $1,752
+"2026-11-15 02:06","ETH","followup","channel","no","1751.95","1822.5","1789.5","1813.1","↩️ ETH has given back 62% of its drop ($1,777 → $1,711), now $1,752
 
 LEVELS
 Move started: $1,777
 Lowest in the move: $1,711
 
 Information, not advice."
-"2026-11-15 02:09","ETH","update","channel","yes","1763.95","1824.2","1787.9",,"📈 ETH +3.1% in 24 min, now $1,764
+"2026-11-15 02:07","DOGE","followup","watchlist","no","0.057195","0.058886","0.057771","0.058834","↩️ DOGE has given back 73% of its drop ($0.05785 → $0.05547), now $0.05720
+
+LEVELS
+Move started: $0.05785
+Lowest in the move: $0.05547
+
+Information, not advice."
+"2026-11-15 02:07","SOL","followup","watchlist","no","69.5025","71.778","70.282","71.675","↩️ SOL has given back 75% of its drop ($70.20 → $67.42), now $69.50
+
+LEVELS
+Move started: $70.20
+Lowest in the move: $67.42
+
+Information, not advice."
+"2026-11-15 02:09","ETH","update","channel","yes","1763.95","1824.2","1787.9","1818.1","📈 ETH +3.1% in 24 min, now $1,764
 
 LEVELS
 Move started: $1,711
 Today's high: $1,778
+
+Information, not advice."
+"2026-11-15 02:11","XRP","update","watchlist","yes","0.935955","0.96026","0.95244","0.96317","📈 XRP +4.1% in 26 min, now $0.9360
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.9359)
+
+LEVELS
+Move started: $0.8990
+Today's high: $0.9359
+
+Information, not advice."
+"2026-11-15 02:11","DOGE","update","watchlist","yes","0.057689","0.058971","0.057636","0.058916","📈 DOGE +4.1% in 26 min, now $0.05769
+
+LEVELS
+Move started: $0.05544
+Today's high: $0.05785
+
+Information, not advice."
+"2026-11-15 02:12","SUI","update","watchlist","yes","0.70734","0.72272","0.7149","0.72349","📈 SUI +4.7% in 27 min, now $0.7073
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.7065)
+
+LEVELS
+Move started: $0.6753
+Today's high: $0.7065
+
+Information, not advice."
+"2026-11-15 02:12","SOL","update","watchlist","yes","70.1155","71.976","70.345","71.816","📈 SOL +4.0% in 27 min, now $70.12
+
+LEVELS
+Move started: $67.39
+Today's high: $70.64
+
+Information, not advice."
+"2026-11-15 02:16","AVAX","update","watchlist","yes","7.066","7.1352","7.1641","7.2129","📈 AVAX +4.9% in 31 min, now $7.066
+
+LEVELS
+Move started: $6.736
+Today's high: $7.135
+
+Information, not advice."
+"2026-11-15 02:17","UNI","update","watchlist","yes","4.97255","5.0393","4.9902","5.1532","📈 UNI +6.3% in 32 min, now $4.973
+
+WHAT'S HAPPENING
+- Price broke above today's high ($4.890)
+
+LEVELS
+Move started: $4.680
+Today's high: $4.890
+
+Information, not advice."
+"2026-11-15 02:17","HYPE","update","watchlist","yes","65.368","66.425","65.332","66.255","📈 HYPE +4.9% in 29 min, now $65.37
+
+WHAT'S HAPPENING
+- Price broke above today's high ($64.88)
+
+LEVELS
+Move started: $62.32
+Today's high: $64.88
+
+Information, not advice."
+"2026-11-15 02:18","NEAR","update","watchlist","yes","3.1239","3.1449","3.1138","3.1702","📈 NEAR +6.9% in 32 min, now $3.124
+
+WHAT'S HAPPENING
+- Price broke above today's high ($3.079)
+
+LEVELS
+Move started: $2.922
+Today's high: $3.079
+
+Information, not advice."
+"2026-11-15 02:18","BNB","update","watchlist","no","588.57","596.79","591.44","595.61","📈 BNB +4.0% in 32 min, now $588.57
+
+WHAT'S HAPPENING
+- Price broke above today's high ($584.26)
+- Open positions up 2.7% on Hyperliquid during the move (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $565.73
+Today's high: $584.26
+
+Information, not advice."
+"2026-11-15 02:18","WLD","update","watchlist","yes","0.26144","0.26327","0.25995","0.26722","📈 WLD +5.8% in 32 min, now $0.2614
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.2592)
+
+LEVELS
+Move started: $0.2472
+Today's high: $0.2592
+
+Information, not advice."
+"2026-11-15 02:18","ENA","update","watchlist","no","0.117555","0.11856","0.11787","0.11932","📈 ENA +6.5% in 33 min, now $0.1176
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.1163)
+Price rose; open positions barely changed. Buying vs selling isn't clear (Tell missed part of the move).
+
+LEVELS
+Move started: $0.1104
+Today's high: $0.1163
+
+Information, not advice."
+"2026-11-15 02:22","ZEC","update","watchlist","yes","900.755","910.62","890.45","894.12","📈 ZEC +7.2% in 36 min, now $900.76
+
+WHAT'S HAPPENING
+- Price broke above today's high ($874.40)
+
+LEVELS
+Move started: $840.63
+Today's high: $874.40
+
+Information, not advice."
+"2026-11-15 02:29","PUMP","update","watchlist","yes","0.00295","0.002957","0.002932",,"📈 PUMP +6.8% in 43 min, now $0.002950
+
+WHAT'S HAPPENING
+- Price broke above today's high ($0.002924)
+
+LEVELS
+Move started: $0.002763
+Today's high: $0.002924
 
 Information, not advice."
 "2026-11-15 02:29","ETH","followup","channel","no","1805.35","1822","1797.6",,"📈 ETH up another 2.3% since the 02:09 UTC update, now $1,805
@@ -6322,6 +6474,20 @@ Information, not advice."
 Information, not advice."
 "2026-11-15 02:31","ETH","playout","channel","no","1803",,,,"⏱ 24 hours later: ETH $1,807, −4.1% since this update ($1,883).
 The move started at $1,932; the price is now below that.
+
+Information, not advice."
+"2026-11-15 02:31","kPEPE","playout","watchlist","no","0.00393",,,,"⏱ 24 hours later: kPEPE $0.003929, −6.3% since this update ($0.004195).
+The move started at $0.004425; the price is now below that.
+
+Information, not advice."
+"2026-11-15 02:33","VVV","update","watchlist","yes","17.9815","18.926","19.474",,"📈 VVV +7.0% in 58 min, now $17.98
+
+WHAT'S HAPPENING
+- Price broke above today's high ($17.48)
+
+LEVELS
+Move started: $16.80
+Today's high: $17.48
 
 Information, not advice."
 "2026-11-15 08:59","BTC","update","channel","yes","65219.5","65333","65517",,"📈 BTC +2.2% in 42 min, now $65,220
@@ -6344,5 +6510,9 @@ Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 LEVELS
 Move started: $1,776
 Today's high: $1,833
+
+Information, not advice."
+"2026-11-16 01:06","ETH","playout","channel","no","1808.8",,,,"⏱ 24 hours later: ETH $1,811, +5.1% since this update ($1,723).
+The drop started at $1,777; the price is now back above that, so the whole drop has been reversed.
 
 Information, not advice."
