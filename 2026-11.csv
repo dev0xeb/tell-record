@@ -7587,7 +7587,7 @@ Information, not advice."
 - Open positions on Hyperliquid down 4.6% since 13:24 UTC (positions closing)
 
 Information, not advice."
-"2026-11-17 15:06","ETH","update","channel","yes","1798.15","1788.2","1790",,"📉 ETH -1.8% in 28 min, now $1,798
+"2026-11-17 15:06","ETH","update","channel","yes","1798.15","1788.2","1790","1771.4","📉 ETH -1.8% in 28 min, now $1,798
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $12.4M in 28 min
@@ -7598,7 +7598,7 @@ Move started: $1,832
 Today's low: $1,785
 
 Information, not advice."
-"2026-11-17 15:07","BTC","update","channel","yes","64519.5","64233","63802",,"📉 BTC -1.4% in 29 min, now $64,520
+"2026-11-17 15:07","BTC","update","channel","yes","64519.5","64233","63802","63568","📉 BTC -1.4% in 29 min, now $64,520
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $38.5M in 29 min
@@ -7613,6 +7613,19 @@ Information, not advice."
 LEVELS
 Move started: $65,442
 Lowest in the move: $64,520
+
+Information, not advice."
+"2026-11-17 15:42","WLD","extra","watchlist","yes","0.26178","0.26163","0.26251",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 WLD -3.1% in 57 min, now $0.2618
+
+WHAT'S HAPPENING
+- Sellers outpaced buyers on Hyperliquid by $70.1K in 57 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $0.2701
+Today's low: $0.2590
 
 Information, not advice."
 "2026-11-17 15:48","ETH","followup","channel","no","1764.25","1778.6","1790.6",,"📉 ETH down another 1.9% since the 15:06 UTC update, now $1,764
