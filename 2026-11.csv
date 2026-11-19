@@ -7854,7 +7854,7 @@ Move started: $64,064
 Lowest in the move: $63,144
 
 Information, not advice."
-"2026-11-18 15:42","PUMP","update","watchlist","yes","0.002565","0.002555","0.002557",,"📉 PUMP -3.8% in 49 min, now $0.002565
+"2026-11-18 15:42","PUMP","update","watchlist","yes","0.002565","0.002555","0.002557","0.002668","📉 PUMP -3.8% in 49 min, now $0.002565
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.002627)
@@ -7866,7 +7866,39 @@ Move started: $0.002667
 Today's low: $0.002627
 
 Information, not advice."
-"2026-11-18 16:15","BTC","update","channel","yes","62753.5","62639","62756",,"📉 BTC -1.5% in 59 min, now $62,754
+"2026-11-18 15:46","NEAR","update","watchlist","yes","3.20675","3.2029","3.2378","3.2707","📉 NEAR -3.5% in 45 min, now $3.207
+
+WHAT'S HAPPENING
+- Price fell below today's low ($3.284)
+- Sellers outpaced buyers on Hyperliquid by $1.5M in 45 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $3.323
+Today's low: $3.284
+
+Information, not advice."
+"2026-11-18 15:50","PUMP","playout","watchlist","no","0.002563",,,,"⏱ 24 hours later: PUMP $0.002571, −3.3% since this update ($0.002659).
+The move started at $0.002820; the price is now below that.
+
+Information, not advice."
+"2026-11-18 15:50","SOL","playout","watchlist","no","73.243",,,,"⏱ 24 hours later: SOL $73.44, +3.0% since this update ($71.29).
+The move started at $73.98; the price is now below that.
+
+Information, not advice."
+"2026-11-18 16:11","HYPE","update","watchlist","yes","65.6315","65.788","66.825","67.819","📉 HYPE -2.7% in 51 min, now $65.63
+
+WHAT'S HAPPENING
+- Price fell below today's low ($66.56)
+- Sellers outpaced buyers on Hyperliquid by $14.0M in 51 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $67.48
+Today's low: $66.56
+
+Information, not advice."
+"2026-11-18 16:15","BTC","update","channel","yes","62753.5","62639","62756","63133","📉 BTC -1.5% in 59 min, now $62,754
 
 WHAT'S HAPPENING
 - Price fell below today's low ($63,037)
@@ -7878,7 +7910,7 @@ Move started: $63,732
 Today's low: $63,037
 
 Information, not advice."
-"2026-11-18 16:20","ETH","update","channel","yes","1744.45","1759.2","1754.4",,"📉 ETH -1.9% in 60 min, now $1,744
+"2026-11-18 16:20","ETH","update","channel","yes","1744.45","1759.2","1754.4","1776.6","📉 ETH -1.9% in 60 min, now $1,744
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,755)
