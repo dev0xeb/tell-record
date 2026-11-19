@@ -7950,7 +7950,7 @@ Move started: $67.48
 Lowest in the move: $65.00
 
 Information, not advice."
-"2026-11-19 17:03","BTC","update","channel","yes","62415.5","62842",,,"📉 BTC -1.5% in 23 min, now $62,416
+"2026-11-19 17:03","BTC","update","channel","yes","62415.5","62842","61993",,"📉 BTC -1.5% in 23 min, now $62,416
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $74.4M in 23 min
@@ -7961,7 +7961,7 @@ Move started: $63,353
 Today's low: $62,373
 
 Information, not advice."
-"2026-11-19 17:05","ETH","update","channel","yes","1753.15","1771.9",,,"📉 ETH -1.9% in 24 min, now $1,753
+"2026-11-19 17:05","ETH","update","channel","yes","1753.15","1771.9","1754.7",,"📉 ETH -1.9% in 24 min, now $1,753
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,763)
@@ -7973,17 +7973,29 @@ Move started: $1,788
 Today's low: $1,763
 
 Information, not advice."
-"2026-11-19 17:24","ETH","followup","channel","no","1773.1","1778.5",,,"↩️ ETH has given back 61% of its drop ($1,788 → $1,750), now $1,773
+"2026-11-19 17:24","ETH","followup","channel","no","1773.1","1778.5","1745.4",,"↩️ ETH has given back 61% of its drop ($1,788 → $1,750), now $1,773
 
 LEVELS
 Move started: $1,788
 Lowest in the move: $1,750
 
 Information, not advice."
-"2026-11-19 17:25","BTC","followup","channel","no","62915.5","62987",,,"↩️ BTC has given back 61% of its drop ($63,353 → $62,225), now $62,916
+"2026-11-19 17:25","BTC","followup","channel","no","62915.5","62987","61594",,"↩️ BTC has given back 61% of its drop ($63,353 → $62,225), now $62,916
 
 LEVELS
 Move started: $63,353
 Lowest in the move: $62,225
+
+Information, not advice."
+"2026-11-19 20:29","BTC","update","channel","yes","61846",,,,"📉 BTC -1.5% in 60 min, now $61,846
+
+WHAT'S HAPPENING
+- Price fell below today's low ($62,209)
+- Sellers outpaced buyers on Hyperliquid by $246.5M in 60 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $62,813
+Today's low: $62,209
 
 Information, not advice."
