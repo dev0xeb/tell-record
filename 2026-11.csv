@@ -7966,7 +7966,7 @@ Move started: $2.794
 Today's high: $2.812
 
 Information, not advice."
-"2026-11-19 17:03","BTC","update","channel","yes","62415.5","62842","61993",,"📉 BTC -1.5% in 23 min, now $62,416
+"2026-11-19 17:03","BTC","update","channel","yes","62415.5","62842","61993","59342","📉 BTC -1.5% in 23 min, now $62,416
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $74.4M in 23 min
@@ -7977,7 +7977,7 @@ Move started: $63,353
 Today's low: $62,373
 
 Information, not advice."
-"2026-11-19 17:05","ETH","update","channel","yes","1753.15","1771.9","1754.7",,"📉 ETH -1.9% in 24 min, now $1,753
+"2026-11-19 17:05","ETH","update","channel","yes","1753.15","1771.9","1754.7","1625.5","📉 ETH -1.9% in 24 min, now $1,753
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,763)
@@ -7989,18 +7989,44 @@ Move started: $1,788
 Today's low: $1,763
 
 Information, not advice."
-"2026-11-19 17:24","ETH","followup","channel","no","1773.1","1778.5","1745.3",,"↩️ ETH has given back 61% of its drop ($1,788 → $1,750), now $1,773
+"2026-11-19 17:05","HYPE","funding","watchlist","no","67.175","69.354","67.342","61.106","💸 HYPE funding on Hyperliquid at its lowest in 30 days (-0.0054% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+
+Information, not advice."
+"2026-11-19 17:24","ETH","followup","channel","no","1773.1","1778.5","1745.3","1632.3","↩️ ETH has given back 61% of its drop ($1,788 → $1,750), now $1,773
 
 LEVELS
 Move started: $1,788
 Lowest in the move: $1,750
 
 Information, not advice."
-"2026-11-19 17:25","BTC","followup","channel","no","62915.5","62987","61556",,"↩️ BTC has given back 61% of its drop ($63,353 → $62,225), now $62,916
+"2026-11-19 17:25","BTC","followup","channel","no","62915.5","62987","61556","59310","↩️ BTC has given back 61% of its drop ($63,353 → $62,225), now $62,916
 
 LEVELS
 Move started: $63,353
 Lowest in the move: $62,225
+
+Information, not advice."
+"2026-11-19 17:32","HYPE","update","watchlist","yes","68.4845","69.689","66.509",,"📈 HYPE +2.8% in 14 min, now $68.48
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $12.5M in 14 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $66.65
+Today's high: $69.51
+
+Information, not advice."
+"2026-11-19 17:34","SOL","update","watchlist","yes","74.2895","74.574","72.182",,"📈 SOL +2.3% in 28 min, now $74.29
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $1.9M in 28 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $72.63
+Today's high: $75.60
 
 Information, not advice."
 "2026-11-19 20:29","BTC","update","channel","yes","61846","61647","62078",,"📉 BTC -1.5% in 60 min, now $61,846
@@ -8074,10 +8100,29 @@ Move started: $62,145
 Today's low: $61,161
 
 Information, not advice."
-"2026-11-20 15:23","BTC","followup","channel","no","60115.5","59314",,,"📉 BTC down another 1.6% since the 15:10 UTC update, now $60,116
+"2026-11-20 15:23","BTC","followup","channel","no","60115.5","59395",,,"📉 BTC down another 1.6% since the 15:10 UTC update, now $60,116
 (-3.3% since the move started at $62,145)
 
 - Sellers outpaced buyers on Hyperliquid by $110.7M since 15:10 UTC
 - Open positions on Hyperliquid up 1.1% since 15:10 UTC (new positions opening)
+
+Information, not advice."
+"2026-11-20 15:50","ETH","update","channel","yes","1658.15","1642.8",,,"📉 ETH -5.1% in 50 min, now $1,658
+
+WHAT'S HAPPENING
+- Price fell below today's low ($1,717)
+- Sellers outpaced buyers on Hyperliquid by $47.7M in 50 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $1,748
+Today's low: $1,717
+
+Information, not advice."
+"2026-11-20 16:01","BTC","followup","channel","no","59178.5","59394",,,"📉 BTC down another 1.6% since the 15:23 UTC follow-up, now $59,179
+(-4.8% since the move started at $62,145)
+
+- Sellers outpaced buyers on Hyperliquid by $53.7M since 15:23 UTC
+- Open positions on Hyperliquid down 2.2% since 15:23 UTC (positions closing)
 
 Information, not advice."
