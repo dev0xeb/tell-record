@@ -8010,7 +8010,7 @@ Move started: $62,813
 Lowest in the move: $61,398
 
 Information, not advice."
-"2026-11-20 02:27","ETH","update","channel","yes","1729.25",,,,"📉 ETH -2.0% in 56 min, now $1,729
+"2026-11-20 02:27","ETH","update","channel","yes","1729.25","1745.1",,,"📉 ETH -2.0% in 56 min, now $1,729
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,750)
@@ -8020,5 +8020,12 @@ Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 LEVELS
 Move started: $1,765
 Today's low: $1,750
+
+Information, not advice."
+"2026-11-20 03:00","ETH","followup","channel","no","1750.85","1745.5",,,"↩️ ETH has given back 63% of its drop ($1,765 → $1,726), now $1,751
+
+LEVELS
+Move started: $1,765
+Lowest in the move: $1,726
 
 Information, not advice."
