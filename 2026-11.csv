@@ -8276,14 +8276,14 @@ Move started: $2.584
 Today's low: $2.521
 
 Information, not advice."
-"2026-11-20 15:23","BTC","followup","channel","no","60115.5","59395","58059","60021","📉 BTC down another 1.6% since the 15:10 UTC update, now $60,116
+"2026-11-20 15:23","BTC","followup","channel","no","60115.5","59395","58059","60156","📉 BTC down another 1.6% since the 15:10 UTC update, now $60,116
 (-3.3% since the move started at $62,145)
 
 - Sellers outpaced buyers on Hyperliquid by $110.7M since 15:10 UTC
 - Open positions on Hyperliquid up 1.1% since 15:10 UTC (new positions opening)
 
 Information, not advice."
-"2026-11-20 15:23","kPEPE","update","watchlist","yes","0.003363","0.003392","0.003421","0.003393","📉 kPEPE -5.8% in 58 min, now $0.003363
+"2026-11-20 15:23","kPEPE","update","watchlist","yes","0.003363","0.003392","0.003421","0.003406","📉 kPEPE -5.8% in 58 min, now $0.003363
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.003507)
@@ -8296,7 +8296,7 @@ Move started: $0.003571
 Today's low: $0.003507
 
 Information, not advice."
-"2026-11-20 15:24","ZEC","update","watchlist","yes","780.03","777.34","765.32","786.7","📉 ZEC -5.3% in 59 min, now $780.03
+"2026-11-20 15:24","ZEC","update","watchlist","yes","780.03","777.34","765.32","792.97","📉 ZEC -5.3% in 59 min, now $780.03
 
 WHAT'S HAPPENING
 - Price fell below today's low ($800.92)
@@ -8308,7 +8308,7 @@ Move started: $823.64
 Today's low: $800.92
 
 Information, not advice."
-"2026-11-20 15:24","PUMP","update","watchlist","yes","0.002365","0.002376","0.002385","0.002408","📉 PUMP -6.3% in 23 min, now $0.002365
+"2026-11-20 15:24","PUMP","update","watchlist","yes","0.002365","0.002376","0.002385","0.002417","📉 PUMP -6.3% in 23 min, now $0.002365
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.002462)
@@ -8320,7 +8320,7 @@ Move started: $0.002524
 Today's low: $0.002462
 
 Information, not advice."
-"2026-11-20 15:38","ENA","update","watchlist","yes","0.097297","0.098375","0.097053",,"📉 ENA -5.4% in 38 min, now $0.09730
+"2026-11-20 15:38","ENA","update","watchlist","yes","0.097297","0.098375","0.097053","0.098697","📉 ENA -5.4% in 38 min, now $0.09730
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1008)
@@ -8332,7 +8332,7 @@ Move started: $0.1028
 Today's low: $0.1008
 
 Information, not advice."
-"2026-11-20 15:42","LIT","update","watchlist","yes","2.3987","2.412","2.327",,"📉 LIT -6.4% in 42 min, now $2.399
+"2026-11-20 15:42","LIT","update","watchlist","yes","2.3987","2.412","2.327","2.3717","📉 LIT -6.4% in 42 min, now $2.399
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2.521)
@@ -8344,7 +8344,7 @@ Move started: $2.563
 Today's low: $2.521
 
 Information, not advice."
-"2026-11-20 15:50","ETH","update","channel","yes","1658.15","1642.8","1609.7",,"📉 ETH -5.1% in 50 min, now $1,658
+"2026-11-20 15:50","ETH","update","channel","yes","1658.15","1642.8","1609.7","1685.1","📉 ETH -5.1% in 50 min, now $1,658
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,717)
@@ -8356,11 +8356,24 @@ Move started: $1,748
 Today's low: $1,717
 
 Information, not advice."
-"2026-11-20 16:01","BTC","followup","channel","no","59178.5","59394","58513",,"📉 BTC down another 1.6% since the 15:23 UTC follow-up, now $59,179
+"2026-11-20 16:01","BTC","followup","channel","no","59178.5","59394","58513","59939","📉 BTC down another 1.6% since the 15:23 UTC follow-up, now $59,179
 (-4.8% since the move started at $62,145)
 
 - Sellers outpaced buyers on Hyperliquid by $53.7M since 15:23 UTC
 - Open positions on Hyperliquid down 2.2% since 15:23 UTC (positions closing)
+
+Information, not advice."
+"2026-11-20 16:39","SOL","extra","watchlist","yes","69.4065","68.823","67.71",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 SOL +2.4% in 36 min, now $69.41
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $4.6M in 36 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $67.78
+Today's high: $73.50
 
 Information, not advice."
 "2026-11-20 19:15","ETH","update","channel","yes","1592.75","1607","1624.2",,"📉 ETH -3.0% in 49 min, now $1,593
