@@ -8128,6 +8128,13 @@ Information, not advice."
 The rise started at $2.794; the price is now back below that, so the whole rise has been reversed.
 
 Information, not advice."
+"2026-11-20 07:23","XMR","followup","watchlist","no","480.83","483.42","465.74","438.61","↩️ XMR has given back 60% of its drop ($496.94 → $456.50), now $480.83
+
+LEVELS
+Move started: $496.94
+Lowest in the move: $456.50
+
+Information, not advice."
 "2026-11-20 08:05","BTC","funding","channel","no","61736","61748","61536",,"💸 BTC funding on Hyperliquid at its lowest in 30 days (-0.0020% per hour)
 (shorts pay longs; the lowest rate in 30 days)
 
@@ -8266,5 +8273,34 @@ WHAT'S HAPPENING
 LEVELS
 Move started: $57,910
 Today's low: $57,810
+
+Information, not advice."
+"2026-11-21 06:20","BTC","update","channel","yes","56080.5","58242",,,"📈 BTC +1.6% in 3 min, now $56,081
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $27.6M in 3 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $55,180
+Today's high: $59,209
+
+Information, not advice."
+"2026-11-21 06:37","ETH","update","channel","yes","1582.75",,,,"📈 ETH +2.5% in 20 min, now $1,583
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $15.7M in 20 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $1,545
+Today's high: $1,629
+
+Information, not advice."
+"2026-11-21 06:44","BTC","followup","channel","no","57046.5",,,,"📈 BTC up another 1.7% since the alert at 06:20 UTC, now $57,047
+(+3.4% since the move started at $55,180)
+
+- Buyers outpaced sellers on Hyperliquid by $1.8M since 06:20 UTC
+- Open positions on Hyperliquid up 1.2% since 06:20 UTC (new positions opening)
 
 Information, not advice."
