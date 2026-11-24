@@ -9584,7 +9584,7 @@ Move started: $1,696
 Today's high: $1,727
 
 Information, not advice."
-"2026-11-23 03:21","XRP","extra","watchlist","yes","0.934435","0.93415","0.94273","0.9362","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-23 03:21","XRP","extra","watchlist","yes","0.934435","0.93415","0.94273","0.93843","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 XRP +2.4% in 32 min, now $0.9344
 
@@ -9598,7 +9598,7 @@ Move started: $0.9127
 Today's high: $0.9287
 
 Information, not advice."
-"2026-11-23 03:21","BTC","update","channel","yes","61712","61401","61426","59736","📈 BTC +2.2% in 39 min, now $61,712
+"2026-11-23 03:21","BTC","update","channel","yes","61712","61401","61426","59878","📈 BTC +2.2% in 39 min, now $61,712
 
 WHAT'S HAPPENING
 - Price broke above today's high ($61,446)
@@ -9623,7 +9623,7 @@ Information, not advice."
 - Open positions on Hyperliquid down 6.8% since 03:23 UTC (positions closing)
 
 Information, not advice."
-"2026-11-23 03:37","NEAR","extra","watchlist","yes","3.0383","3.0049","3.0021",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-23 03:37","NEAR","extra","watchlist","yes","3.0383","3.0049","3.0021","2.9309","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 NEAR +3.4% in 55 min, now $3.038
 
@@ -9637,7 +9637,7 @@ Move started: $2.939
 Today's high: $2.996
 
 Information, not advice."
-"2026-11-23 03:37","ZEC","extra","watchlist","yes","803.675","783.53","787.02",,"➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+"2026-11-23 03:37","ZEC","extra","watchlist","yes","803.675","783.53","787.02","755","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
 
 📈 ZEC +3.4% in 55 min, now $803.68
 
@@ -9648,6 +9648,27 @@ WHAT'S HAPPENING
 LEVELS
 Move started: $777.21
 Today's high: $798.71
+
+Information, not advice."
+"2026-11-23 04:00","ACE","followup","watchlist","no","0.0618",,,,"↩️ ACE has given back 62% of its rise ($0.06010 → $0.06460), now $0.06180
+
+LEVELS
+Move started: $0.06010
+Highest in the move: $0.06460
+
+Information, not advice."
+"2026-11-23 04:05","ACE","followup","watchlist","no","0.0651",,,,"📈 ACE up another 4.0% since the alert at 04:01 UTC, now $0.06510
+(+8.3% since the move started at $0.06010)
+
+- Sellers outpaced buyers on Hyperliquid by $6.0K since 04:01 UTC
+- Open positions on Hyperliquid up 0.9% since 04:01 UTC (new positions opening)
+
+Information, not advice."
+"2026-11-23 04:15","ACE","followup","watchlist","no","0.0682",,,,"📈 ACE up another 4.8% since the follow-up at 04:05 UTC, now $0.06820
+(+13.5% since the move started at $0.06010)
+
+- Buyers outpaced sellers on Hyperliquid by $10.2K since 04:05 UTC
+- Open positions on Hyperliquid down 1.2% since 04:05 UTC (positions closing)
 
 Information, not advice."
 "2026-11-23 13:56","BTC","update","channel","yes","62091","62911","61783",,"📈 BTC +1.7% in 2 min, now $62,091
@@ -9731,7 +9752,7 @@ Information, not advice."
 - Open positions on Hyperliquid down 2.1% since 14:49 UTC (positions closing)
 
 Information, not advice."
-"2026-11-24 02:42","BTC","update","channel","yes","60316",,,,"📉 BTC -1.9% in 57 min, now $60,316
+"2026-11-24 02:42","BTC","update","channel","yes","60316","60368",,,"📉 BTC -1.9% in 57 min, now $60,316
 
 WHAT'S HAPPENING
 - Price fell below today's low ($61,008)
@@ -9741,5 +9762,24 @@ Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 LEVELS
 Move started: $61,495
 Today's low: $61,008
+
+Information, not advice."
+"2026-11-24 03:05","ETH","update","channel","yes","1675.2","1695",,,"📉 ETH -1.9% in 56 min, now $1,675
+
+WHAT'S HAPPENING
+- Price fell below today's low ($1,690)
+- Sellers outpaced buyers on Hyperliquid by $10.6M in 56 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $1,708
+Today's low: $1,690
+
+Information, not advice."
+"2026-11-24 03:34","ETH","followup","channel","no","1693.55",,,,"↩️ ETH has given back 62% of its drop ($1,708 → $1,670), now $1,694
+
+LEVELS
+Move started: $1,708
+Lowest in the move: $1,670
 
 Information, not advice."
