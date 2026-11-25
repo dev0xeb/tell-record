@@ -10199,7 +10199,7 @@ Information, not advice."
 The rise started at $0.07410; the price is now back below that, so the whole rise has been reversed.
 
 Information, not advice."
-"2026-11-24 02:30","ZEC","update","watchlist","yes","760.625","756.78","765",,"📉 ZEC -3.5% in 53 min, now $760.63
+"2026-11-24 02:30","ZEC","update","watchlist","yes","760.625","756.78","765","729.6","📉 ZEC -3.5% in 53 min, now $760.63
 
 WHAT'S HAPPENING
 - Price fell below today's low ($767.73)
@@ -10211,7 +10211,7 @@ Move started: $788.06
 Today's low: $767.73
 
 Information, not advice."
-"2026-11-24 02:42","BTC","update","channel","yes","60316","60368","60441",,"📉 BTC -1.9% in 57 min, now $60,316
+"2026-11-24 02:42","BTC","update","channel","yes","60316","60368","60441","59220","📉 BTC -1.9% in 57 min, now $60,316
 
 WHAT'S HAPPENING
 - Price fell below today's low ($61,008)
@@ -10223,7 +10223,7 @@ Move started: $61,495
 Today's low: $61,008
 
 Information, not advice."
-"2026-11-24 03:05","ETH","update","channel","yes","1675.2","1695","1700.1",,"📉 ETH -1.9% in 56 min, now $1,675
+"2026-11-24 03:05","ETH","update","channel","yes","1675.2","1695","1700.1","1651.5","📉 ETH -1.9% in 56 min, now $1,675
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,690)
@@ -10233,6 +10233,18 @@ Price fell while open positions rose (new positions opening). Sellers outpaced b
 LEVELS
 Move started: $1,708
 Today's low: $1,690
+
+Information, not advice."
+"2026-11-24 03:06","NEAR","update","watchlist","yes","2.88245","2.9843","3.0414","2.8321","📉 NEAR -3.5% in 56 min, now $2.882
+
+WHAT'S HAPPENING
+- Price fell below today's low ($2.948)
+- Sellers outpaced buyers on Hyperliquid by $1.5M in 56 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $2.986
+Today's low: $2.948
 
 Information, not advice."
 "2026-11-24 03:34","ETH","followup","channel","no","1693.55","1700.9","1696.6",,"↩️ ETH has given back 62% of its drop ($1,708 → $1,670), now $1,694
