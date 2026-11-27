@@ -106,12 +106,16 @@ Move started: $2,608
 Today's low: $2,588
 
 Information, not advice."
-"2026-10-17 04:42","TIA","update","watchlist","yes","0.76001",,,,"📈 TIA +4.9% in 36 min, now $0.7600
+"2026-10-17 04:42","TIA","update","watchlist","no","0.76001",,,,"📈 TIA +4.9% in 36 min, now $0.7600
+
+WHAT'S HAPPENING
+- Open positions up 2.7% across Bybit, OKX and Hyperliquid, new positions opening
 
 LEVELS
 Move started: $0.7247
 Today's high: $0.7649
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-17 05:52","TIA","followup","watchlist","no","0.74004",,,,"↩️ TIA has given back 63% of its rise ($0.7247 → $0.7657), now $0.7400
 
@@ -120,31 +124,36 @@ Move started: $0.7247
 Highest in the move: $0.7657
 
 Information, not advice."
-"2026-10-17 10:24","TIA","update","watchlist","yes","0.68175",,,,"📉 TIA -5.3% in 48 min, now $0.6818
+"2026-10-17 10:24","TIA","update","watchlist","no","0.68175",,,,"📉 TIA -5.3% in 48 min, now $0.6818
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $141.3K in 48 min
+- Open positions down 1.6% on Hyperliquid during the move, down 1.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.7199
 Today's low: $0.6809
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-17 11:08","TIA","funding","watchlist","no",,,,,"💸 TIA funding on Hyperliquid at its lowest in 30 days (-0.0047% per hour)
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-17 12:52","STRK","update","watchlist","yes","0.06652",,,,"📉 STRK -7.6% in 59 min, now $0.06652
+"2026-10-17 12:52","STRK","update","watchlist","no","0.06652",,,,"📉 STRK -7.6% in 59 min, now $0.06652
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.06968)
 - Sellers outpaced buyers on Hyperliquid by $2.2M in 59 min
+- Open positions down 4.0% on Hyperliquid during the move, down 3.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.07202
 Today's low: $0.06968
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-17 17:08","ZEC","funding","watchlist","no",,,,,"💸 ZEC funding on Hyperliquid at its lowest in 30 days (-0.0011% per hour)
 (shorts pay longs; the lowest rate in 30 days)
@@ -155,36 +164,44 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price fell below today's low ($2,398)
 - Sellers outpaced buyers on Hyperliquid by $17.3M in 17 min
+- Open positions down 0.5% on Hyperliquid during the move, down 1.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $3.6M of ETH longs were liquidated in the last 17 min (Bybit $2.3M, OKX $1.3M)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,424
 Today's low: $2,398
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-17 21:37","ZEC","update","watchlist","yes","1108.4",,,,"📉 ZEC -4.7% in 33 min, now $1,108
+"2026-10-17 21:37","ZEC","update","watchlist","no","1108.4",,,,"📉 ZEC -4.7% in 33 min, now $1,108
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,112)
 - Sellers outpaced buyers on Hyperliquid by $4.2M in 33 min
+- Open positions down 0.8% on Hyperliquid during the move, down 1.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $481K of ZEC longs were liquidated on OKX in the last 33 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $1,163
 Today's low: $1,112
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-17 21:37","ENA","update","watchlist","yes","0.18446",,,,"📉 ENA -4.6% in 33 min, now $0.1845
+"2026-10-17 21:37","ENA","update","watchlist","no","0.18446",,,,"📉 ENA -4.6% in 33 min, now $0.1845
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1859)
 - Sellers outpaced buyers on Hyperliquid by $801.5K in 33 min
+- Open positions up 0.9% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.1934
 Today's low: $0.1859
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-17 21:39","ETH","followup","channel","no","2355.85",,,,"📉 ETH down another 1.2% since the 21:32 UTC update, now $2,356
 (-2.8% since the move started at $2,424)
@@ -193,11 +210,12 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.3% since 21:32 UTC (positions closing)
 
 Information, not advice."
-"2026-10-17 21:42","WLD","update","watchlist","yes","0.48193",,,,"📉 WLD -4.9% in 38 min, now $0.4819
+"2026-10-17 21:42","WLD","update","watchlist","no","0.48193",,,,"📉 WLD -4.9% in 38 min, now $0.4819
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.4863)
 - Sellers outpaced buyers on Hyperliquid by $785.9K in 38 min
+- Open positions down 0.8% on Hyperliquid during the move, down 1.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0025% per hour, the lowest in 7 days (shorts pay longs)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
@@ -205,6 +223,7 @@ LEVELS
 Move started: $0.5067
 Today's low: $0.4863
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-17 22:49","ETH","followup","channel","no","2396.85",,,,"↩️ ETH has given back 60% of its drop ($2,424 → $2,356), now $2,397
 
@@ -213,17 +232,19 @@ Move started: $2,424
 Lowest in the move: $2,356
 
 Information, not advice."
-"2026-10-18 00:11","XMR","update","watchlist","yes","576.94",,,,"📈 XMR +2.1% in 40 min, now $576.94
+"2026-10-18 00:11","XMR","update","watchlist","no","576.94",,,,"📈 XMR +2.1% in 40 min, now $576.94
 
 WHAT'S HAPPENING
 - Price broke above today's high ($568.18)
 - Buyers outpaced sellers on Hyperliquid by $852.6K in 40 min
+- Open positions up 1.3% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $565.04
 Today's high: $568.18
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 01:17","XMR","followup","watchlist","no","589.485",,,,"📈 XMR up another 2.2% since the 00:11 UTC update, now $589.49
 (+4.3% since the move started at $565.04)
@@ -239,17 +260,19 @@ Information, not advice."
 - Open positions on Hyperliquid up 0.6% since 01:17 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-18 04:02","XMR","update","watchlist","yes","608.465",,,,"📈 XMR +2.1% in 43 min, now $608.47
+"2026-10-18 04:02","XMR","update","watchlist","no","608.465",,,,"📈 XMR +2.1% in 43 min, now $608.47
 
 WHAT'S HAPPENING
 - Price broke above today's high ($605.63)
 - Buyers outpaced sellers on Hyperliquid by $817.0K in 43 min
+- Open positions down 1.4% on Hyperliquid during the move, down 1.3% in 1 hour across Bybit and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $596.14
 Today's high: $605.63
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 05:36","XMR","followup","watchlist","no","589.515",,,,"↩️ XMR is back below where the 04:02 UTC move started ($596.14), now $589.52
 
@@ -262,29 +285,34 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-18 19:33","PUMP","update","watchlist","yes","0.003921",,,,"📉 PUMP -5.3% in 43 min, now $0.003921
+"2026-10-18 19:33","PUMP","update","watchlist","no","0.003921",,,,"📉 PUMP -5.3% in 43 min, now $0.003921
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.004108)
 - Sellers outpaced buyers on Hyperliquid by $24.1M in 43 min
+- Open positions down 0.8% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.004139
 Today's low: $0.004108
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 19:39","ETH","update","channel","yes","2335.85",,,,"📉 ETH -1.4% in 21 min, now $2,336
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,360)
 - Sellers outpaced buyers on Hyperliquid by $53.8M in 21 min
+- Open positions up 1.0% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $4.6M of ETH longs were liquidated in the last 21 min (Bybit $2.8M, OKX $1.7M)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,369
 Today's low: $2,360
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 20:31","ETH","followup","channel","no","2352.45",,,,"↩️ ETH has given back 61% of its drop ($2,369 → $2,327), now $2,352
 
@@ -297,12 +325,14 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $12.4M in 59 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2,350
 Today's high: $2,429
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 22:00","PUMP","followup","watchlist","no","0.004026",,,,"↩️ PUMP has given back 64% of its drop ($0.004139 → $0.003829), now $0.004026
 
@@ -315,45 +345,53 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $60.2M in 52 min
+- Open positions down 1.8% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $80,867
 Today's high: $82,268
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-18 22:01","ENA","update","watchlist","yes","0.183945",,,,"📈 ENA +4.8% in 52 min, now $0.1839
+"2026-10-18 22:01","ENA","update","watchlist","no","0.183945",,,,"📈 ENA +4.8% in 52 min, now $0.1839
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $455.1K in 52 min
+- Open positions down 0.9% on Hyperliquid during the move, down 0.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.1755
 Today's high: $0.1925
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-18 22:42","NEAR","update","watchlist","yes","4.97215",,,,"📈 NEAR +5.7% in 60 min, now $4.972
+"2026-10-18 22:42","NEAR","update","watchlist","no","4.97215",,,,"📈 NEAR +5.7% in 60 min, now $4.972
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $6.0M in 60 min
+- Open positions up 2.2% on Hyperliquid during the move, up 0.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $4.705
 Today's high: $5.063
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-18 22:46","INJ","update","watchlist","yes","8.35925",,,,"📈 INJ +5.7% in 57 min, now $8.359
+"2026-10-18 22:46","INJ","update","watchlist","no","8.35925",,,,"📈 INJ +5.7% in 57 min, now $8.359
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $591.0K in 57 min
+- Open positions up 5.4% on Hyperliquid during the move, up 0.4% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $7.909
 Today's high: $8.763
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-18 23:27","ETH","followup","channel","no","2412.65",,,,"📈 ETH up another 1.4% since the 22:00 UTC update, now $2,413
 (+2.7% since the move started at $2,350)
@@ -392,24 +430,28 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $27.8M in 51 min
+- Open positions down 0.9% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $83,073
 Today's low: $81,986
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-19 12:32","WLD","update","watchlist","yes","0.5136",,,,"📈 WLD +3.4% in 58 min, now $0.5136
+"2026-10-19 12:32","WLD","update","watchlist","no","0.5136",,,,"📈 WLD +3.4% in 58 min, now $0.5136
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.5119)
 - Buyers outpaced sellers on Hyperliquid by $1.1M in 58 min
+- Open positions up 4.2% on Hyperliquid during the move, up 2.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.4966
 Today's high: $0.5119
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-19 13:04","BTC","followup","channel","no","82693.5",,,,"↩️ BTC has given back 62% of its drop ($83,073 → $82,078), now $82,694
 
@@ -430,12 +472,14 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price fell below today's low ($81,986)
 - Sellers outpaced buyers on Hyperliquid by $57.3M in 59 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $82,734
 Today's low: $81,986
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-19 14:46","BTC","followup","channel","no","82342",,,,"↩️ BTC has given back 61% of its drop ($82,734 → $81,720), now $82,342
 
@@ -444,28 +488,32 @@ Move started: $82,734
 Lowest in the move: $81,720
 
 Information, not advice."
-"2026-10-19 15:19","ZRO","update","watchlist","yes","1.92425",,,,"📈 ZRO +6.5% in 41 min, now $1.924
+"2026-10-19 15:19","ZRO","update","watchlist","no","1.92425",,,,"📈 ZRO +6.5% in 41 min, now $1.924
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $644.5K in 41 min
+- Open positions up 2.0% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $1.806
 Today's high: $1.937
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-19 21:23","ARB","update","watchlist","yes","0.20111",,,,"📈 ARB +4.9% in 31 min, now $0.2011
+"2026-10-19 21:23","ARB","update","watchlist","no","0.20111",,,,"📈 ARB +4.9% in 31 min, now $0.2011
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.2004)
 - Buyers outpaced sellers on Hyperliquid by $747.3K in 31 min
+- Open positions down 0.6% on Hyperliquid during the move, up 0.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.1917
 Today's high: $0.2004
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 00:17","ARB","followup","watchlist","no","0.19543",,,,"↩️ ARB has given back 60% of its rise ($0.1917 → $0.2011), now $0.1954
 
@@ -474,29 +522,33 @@ Move started: $0.1917
 Highest in the move: $0.2011
 
 Information, not advice."
-"2026-10-20 01:15","PUMP","update","watchlist","yes","0.004326",,,,"📉 PUMP -3.3% in 36 min, now $0.004326
+"2026-10-20 01:15","PUMP","update","watchlist","no","0.004326",,,,"📉 PUMP -3.3% in 36 min, now $0.004326
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.004423)
 - Sellers outpaced buyers on Hyperliquid by $4.2M in 36 min
+- Open positions down 2.7% on Hyperliquid during the move, down 2.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.004475
 Today's low: $0.004423
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 01:31","VVV","update","watchlist","yes","24.718",,,,"📈 VVV +4.2% in 14 min, now $24.72
+"2026-10-20 01:31","VVV","update","watchlist","no","24.718",,,,"📈 VVV +4.2% in 14 min, now $24.72
 
 WHAT'S HAPPENING
 - Price broke above today's high ($24.32)
 - Buyers outpaced sellers on Hyperliquid by $477.4K in 14 min
+- Open positions up 1.0% on Hyperliquid during the move, up 0.9% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $23.71
 Today's high: $24.32
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 01:34","PUMP","followup","watchlist","no","0.004418",,,,"↩️ PUMP has given back 62% of its drop ($0.004475 → $0.004326), now $0.004418
 
@@ -509,17 +561,19 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-20 13:13","ZRO","update","watchlist","yes","1.789",,,"2.062","📉 ZRO -6.0% in 47 min, now $1.789
+"2026-10-20 13:13","ZRO","update","watchlist","no","1.789",,,"2.062","📉 ZRO -6.0% in 47 min, now $1.789
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1.828)
 - Sellers outpaced buyers on Hyperliquid by $777.3K in 47 min
+- Open positions down 0.7% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $1.903
 Today's low: $1.828
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 13:53","ZRO","followup","watchlist","no","1.88035",,,"2.0261","↩️ ZRO has given back 82% of its drop ($1.903 → $1.774), now $1.880
 
@@ -528,33 +582,44 @@ Move started: $1.903
 Lowest in the move: $1.774
 
 Information, not advice."
-"2026-10-20 13:58","ZRO","update","watchlist","yes","1.90065",,,"2.0328","📈 ZRO +8.0% in 53 min, now $1.901
+"2026-10-20 13:58","ZRO","update","watchlist","no","1.90065",,,"2.0328","📈 ZRO +8.0% in 53 min, now $1.901
+
+WHAT'S HAPPENING
+- Open positions up 0.8% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures). Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $1.760
 Today's high: $1.932
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:00","kPEPE","update","watchlist","yes","0.004377",,,"0.004621","📈 kPEPE +4.8% in 26 min, now $0.004377
+"2026-10-20 14:00","kPEPE","update","watchlist","no","0.004377",,,"0.004621","📈 kPEPE +4.8% in 26 min, now $0.004377
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004277)
 - Open positions up 2.0% on Hyperliquid during the move, up 2.1% in 1 hour across Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.004177
 Today's high: $0.004277
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:03","ZEC","update","watchlist","yes","1210.75",,,"1310.5","📈 ZEC +6.5% in 29 min, now $1,211
+"2026-10-20 14:03","ZEC","update","watchlist","no","1210.75",,,"1310.5","📈 ZEC +6.5% in 29 min, now $1,211
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1,161)
+- Open positions up 1.9% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $527K of ZEC shorts were liquidated on OKX in the last 29 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $1,137
 Today's high: $1,161
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 14:07","kPEPE","followup","watchlist","no","0.004534",,,"0.004612","📈 kPEPE up another 3.6% since the 14:00 UTC update, now $0.004534
 (+8.5% since the move started at $0.004177)
@@ -567,111 +632,141 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Price broke above today's high ($82,250)
+- Open positions up 1.0% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $1.4M of BTC shorts were liquidated on Bybit in the last 33 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $81,302
 Today's high: $82,250
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 14:07","ETH","update","channel","yes","2440.05",,,"2467","📈 ETH +2.4% in 33 min, now $2,440
 
 WHAT'S HAPPENING
 - Price broke above today's high ($2,417)
+- About $728K of ETH shorts were liquidated on Bybit in the last 34 min
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $2,383
 Today's high: $2,417
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:07","ENA","update","watchlist","yes","0.19804",,,"0.20587","📈 ENA +5.7% in 32 min, now $0.1980
+"2026-10-20 14:07","ENA","update","watchlist","no","0.19804",,,"0.20587","📈 ENA +5.7% in 32 min, now $0.1980
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.1919)
+- Open positions down 0.9% on Hyperliquid during the move, up 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.1873
 Today's high: $0.1919
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:09","LIT","update","watchlist","yes","3.35525",,,"3.3801","📈 LIT +6.7% in 33 min, now $3.355
+"2026-10-20 14:09","LIT","update","watchlist","no","3.35525",,,"3.3801","📈 LIT +6.7% in 33 min, now $3.355
 
 WHAT'S HAPPENING
 - Price broke above today's high ($3.260)
+- Open positions up 0.8% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $3.146
 Today's high: $3.260
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:09","AAVE","update","watchlist","yes","154.935",,,,"📈 AAVE +4.1% in 36 min, now $154.94
+"2026-10-20 14:09","AAVE","update","watchlist","no","154.935",,,,"📈 AAVE +4.1% in 36 min, now $154.94
 
 WHAT'S HAPPENING
 - Price broke above today's high ($152.40)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $148.78
 Today's high: $152.40
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:10","ONDO","update","watchlist","yes","0.452715",,,,"📈 ONDO +4.5% in 34 min, now $0.4527
+"2026-10-20 14:10","ONDO","update","watchlist","no","0.452715",,,,"📈 ONDO +4.5% in 34 min, now $0.4527
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.4445)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures). Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.4334
 Today's high: $0.4445
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:10","SUI","update","watchlist","yes","1.0349",,,"1.0266","📈 SUI +4.5% in 36 min, now $1.035
+"2026-10-20 14:10","SUI","update","watchlist","no","1.0349",,,"1.0266","📈 SUI +4.5% in 36 min, now $1.035
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1.006)
+- Open positions up 1.5% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.9899
 Today's high: $1.006
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:10","VVV","update","watchlist","yes","26.05",,,"26.26","📈 VVV +6.8% in 60 min, now $26.05
+"2026-10-20 14:10","VVV","update","watchlist","no","26.05",,,"26.26","📈 VVV +6.8% in 60 min, now $26.05
 
 WHAT'S HAPPENING
 - Price broke above today's high ($25.36)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $24.38
 Today's high: $25.36
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:12","UNI","update","watchlist","yes","7.47395",,,"7.3963","📈 UNI +4.9% in 38 min, now $7.474
+"2026-10-20 14:12","UNI","update","watchlist","no","7.47395",,,"7.3963","📈 UNI +4.9% in 38 min, now $7.474
 
 WHAT'S HAPPENING
 - Price broke above today's high ($7.339)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures). Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $7.124
 Today's high: $7.339
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:14","PUMP","update","watchlist","yes","0.00468",,,"0.004755","📈 PUMP +6.4% in 40 min, now $0.004680
+"2026-10-20 14:14","PUMP","update","watchlist","no","0.00468",,,"0.004755","📈 PUMP +6.4% in 40 min, now $0.004680
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004501)
+- Open positions up 2.3% on Hyperliquid during the move, up 1.9% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.004399
 Today's high: $0.004501
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:14","HYPE","update","watchlist","yes","81.547",,,"80.461","📈 HYPE +4.0% in 39 min, now $81.55
+"2026-10-20 14:14","HYPE","update","watchlist","no","81.547",,,"80.461","📈 HYPE +4.0% in 39 min, now $81.55
 
 WHAT'S HAPPENING
 - Price broke above today's high ($79.67)
+- Open positions up 1.1% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $78.40
 Today's high: $79.67
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 14:15","ETH","followup","channel","no","2468.65",,,"2473.3","📈 ETH up another 1.2% since the 14:07 UTC update, now $2,469
 (+3.6% since the move started at $2,383)
@@ -679,78 +774,103 @@ Information, not advice."
 - Buyers outpaced sellers on Hyperliquid by $23.5M since 14:07 UTC
 
 Information, not advice."
-"2026-10-20 14:15","SOL","update","watchlist","yes","108.065",,,"106.65","📈 SOL +4.1% in 41 min, now $108.07
+"2026-10-20 14:15","SOL","update","watchlist","no","108.065",,,"106.65","📈 SOL +4.1% in 41 min, now $108.07
 
 WHAT'S HAPPENING
 - Price broke above today's high ($105.46)
+- Open positions up 1.0% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $1.0M of SOL shorts were liquidated in the last 41 min (Bybit $547K, OKX $466K)
+Price and open positions both rose. Buying and selling on Hyperliquid were about even (Coinalyze figures).
 
 LEVELS
 Move started: $103.86
 Today's high: $105.46
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:15","XPL","update","watchlist","yes","0.078998",,,,"📈 XPL +4.6% in 60 min, now $0.07900
+"2026-10-20 14:15","XPL","update","watchlist","no","0.078998",,,,"📈 XPL +4.6% in 60 min, now $0.07900
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.07745)
+- Open positions up 1.0% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.07554
 Today's high: $0.07745
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:15","LINK","update","watchlist","yes","12.3995",,,,"📈 LINK +4.0% in 41 min, now $12.40
+"2026-10-20 14:15","LINK","update","watchlist","no","12.3995",,,,"📈 LINK +4.0% in 41 min, now $12.40
 
 WHAT'S HAPPENING
 - Price broke above today's high ($12.11)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $11.92
 Today's high: $12.11
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:15","TAO","update","watchlist","yes","275.355",,,,"📈 TAO +4.7% in 41 min, now $275.36
+"2026-10-20 14:15","TAO","update","watchlist","no","275.355",,,,"📈 TAO +4.7% in 41 min, now $275.36
 
 WHAT'S HAPPENING
 - Price broke above today's high ($269.42)
+- Open positions up 1.7% on Hyperliquid during the move, up 0.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $262.88
 Today's high: $269.42
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:28","ARB","update","watchlist","yes","0.19833",,,,"📈 ARB +5.9% in 53 min, now $0.1983
+"2026-10-20 14:28","ARB","update","watchlist","no","0.19833",,,,"📈 ARB +5.9% in 53 min, now $0.1983
+
+WHAT'S HAPPENING
+- Open positions down 1.1% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.1873
 Today's high: $0.2038
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:29","INJ","update","watchlist","yes","9.04085",,,,"📈 INJ +6.7% in 57 min, now $9.041
+"2026-10-20 14:29","INJ","update","watchlist","no","9.04085",,,,"📈 INJ +6.7% in 57 min, now $9.041
 
 WHAT'S HAPPENING
 - Price broke above today's high ($8.723)
+- Open positions up 1.6% on Hyperliquid during the move, down 1.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $8.471
 Today's high: $8.723
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:32","NEAR","update","watchlist","yes","4.9837",,,"5.175","📈 NEAR +6.9% in 57 min, now $4.984
+"2026-10-20 14:32","NEAR","update","watchlist","no","4.9837",,,"5.175","📈 NEAR +6.9% in 57 min, now $4.984
 
 WHAT'S HAPPENING
 - Price broke above today's high ($4.914)
+- Open positions up 2.4% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $4.664
 Today's high: $4.914
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:36","WLD","update","watchlist","yes","0.57881",,,"0.57441","📈 WLD +5.0% in 51 min, now $0.5788
+"2026-10-20 14:36","WLD","update","watchlist","no","0.57881",,,"0.57441","📈 WLD +5.0% in 51 min, now $0.5788
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.5586)
 - Buyers outpaced sellers on Hyperliquid by $1.7M in 51 min
+- Open positions up 4.9% on Hyperliquid during the move, up 2.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $704K of WLD shorts were liquidated on OKX in the last 51 min
 - Funding on Hyperliquid +0.0024% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
@@ -758,18 +878,21 @@ LEVELS
 Move started: $0.5510
 Today's high: $0.5586
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 14:36","XRP","update","watchlist","yes","1.3376",,,"1.372","📈 XRP +3.0% in 56 min, now $1.338
+"2026-10-20 14:36","XRP","update","watchlist","no","1.3376",,,"1.372","📈 XRP +3.0% in 56 min, now $1.338
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1.308)
 - Buyers outpaced sellers on Hyperliquid by $7.1M in 56 min
+- Open positions up 2.7% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $1.298
 Today's high: $1.308
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 14:57","ZRO","followup","watchlist","no","2.01605",,,"2.0519","📈 ZRO up another 6.1% since the 13:58 UTC update, now $2.016
 (+14.5% since the move started at $1.760)
@@ -782,34 +905,40 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $42.6M in 15 min
+- Open positions down 0.5% on Hyperliquid during the move, down 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $83,397
 Today's low: $81,167
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 15:13","ETH","update","channel","yes","2439.65",,,"2507.8","📉 ETH -1.5% in 16 min, now $2,440
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $13.4M in 16 min
+- Open positions down 0.5% on Hyperliquid during the move, up 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,478
 Today's low: $2,372
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 15:13","ENA","update","watchlist","yes","0.193745",,,"0.21506","📉 ENA -4.6% in 32 min, now $0.1937
+"2026-10-20 15:13","ENA","update","watchlist","no","0.193745",,,"0.21506","📉 ENA -4.6% in 32 min, now $0.1937
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $845.8K in 32 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.2031
 Today's low: $0.1845
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 15:13","INJ","followup","watchlist","no","8.7055",,,,"↩️ INJ has given back 67% of its rise ($8.471 → $9.175), now $8.706
 
@@ -825,16 +954,18 @@ Move started: $7.124
 Highest in the move: $7.564
 
 Information, not advice."
-"2026-10-20 15:13","ONDO","update","watchlist","yes","0.44616",,,,"📉 ONDO -3.4% in 32 min, now $0.4462
+"2026-10-20 15:13","ONDO","update","watchlist","no","0.44616",,,,"📉 ONDO -3.4% in 32 min, now $0.4462
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $197.0K in 32 min
+- Open positions up 2.9% on Hyperliquid during the move, up 1.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.4620
 Today's low: $0.4266
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 15:14","PUMP","update","watchlist","no","0.004548",,,"0.004957","📉 PUMP -4.8% in 17 min, now $0.004548
 
@@ -888,27 +1019,32 @@ Move started: $0.9899
 Highest in the move: $1.043
 
 Information, not advice."
-"2026-10-20 15:27","TAO","update","watchlist","yes","268.53",,,,"📉 TAO -3.5% in 29 min, now $268.53
+"2026-10-20 15:27","TAO","update","watchlist","no","268.53",,,,"📉 TAO -3.5% in 29 min, now $268.53
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $452.2K in 29 min
+- Open positions down 1.3% on Hyperliquid during the move, down 1.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $278.40
 Today's low: $261.86
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 15:32","NEAR","update","watchlist","yes","4.7839",,,"5.3481","📉 NEAR -6.2% in 48 min, now $4.784
+"2026-10-20 15:32","NEAR","update","watchlist","no","4.7839",,,"5.3481","📉 NEAR -6.2% in 48 min, now $4.784
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $6.3M in 48 min
+- Open positions down 1.4% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $257K of NEAR longs were liquidated on OKX in the last 48 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $5.101
 Today's low: $4.630
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 15:32","FARTCOIN","followup","watchlist","no","0.1448",,,"0.15333","↩️ FARTCOIN has given back 62% of its rise ($0.1411 → $0.1508), now $0.1448
 
@@ -917,37 +1053,44 @@ Move started: $0.1411
 Highest in the move: $0.1508
 
 Information, not advice."
-"2026-10-20 15:39","LIT","update","watchlist","yes","3.16445",,,"3.4561","📉 LIT -6.4% in 57 min, now $3.164
+"2026-10-20 15:39","LIT","update","watchlist","no","3.16445",,,"3.4561","📉 LIT -6.4% in 57 min, now $3.164
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $643.0K in 57 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $3.381
 Today's low: $3.072
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 15:45","AAVE","update","watchlist","yes","151.195",,,,"📉 AAVE -4.2% in 46 min, now $151.20
+"2026-10-20 15:45","AAVE","update","watchlist","no","151.195",,,,"📉 AAVE -4.2% in 46 min, now $151.20
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $128.2K in 46 min
+- Open positions down 0.5% on Hyperliquid during the move, down 0.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0030% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $157.83
 Today's low: $147.20
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 15:45","UNI","update","watchlist","yes","7.20045",,,"7.634","📉 UNI -4.7% in 48 min, now $7.200
+"2026-10-20 15:45","UNI","update","watchlist","no","7.20045",,,"7.634","📉 UNI -4.7% in 48 min, now $7.200
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $234.1K in 48 min
+- Open positions up 0.7% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $7.555
 Today's low: $7.091
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-20 15:45","XPL","followup","watchlist","no","0.077015",,,,"↩️ XPL has given back 65% of its rise ($0.07554 → $0.07978), now $0.07702
 
@@ -991,51 +1134,59 @@ Move started: $0.2031
 Lowest in the move: $0.1859
 
 Information, not advice."
-"2026-10-20 21:17","LIT","update","watchlist","yes","3.3959",,,"3.8783","📈 LIT +5.7% in 53 min, now $3.396
+"2026-10-20 21:17","LIT","update","watchlist","no","3.3959",,,"3.8783","📈 LIT +5.7% in 53 min, now $3.396
 
 WHAT'S HAPPENING
 - Price broke above today's high ($3.384)
 - Buyers outpaced sellers on Hyperliquid by $531.5K in 53 min
+- Open positions up 0.6% on Hyperliquid during the move, up 1.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $3.212
 Today's high: $3.384
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 21:28","INJ","update","watchlist","yes","8.9907",,,,"📈 INJ +5.0% in 60 min, now $8.991
+"2026-10-20 21:28","INJ","update","watchlist","no","8.9907",,,,"📈 INJ +5.0% in 60 min, now $8.991
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $482.9K in 60 min
+- Open positions down 1.2% on Hyperliquid during the move, up 2.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $8.564
 Today's high: $9.197
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-20 23:12","XMR","update","watchlist","yes","600.44",,,"624.53","📉 XMR -3.8% in 21 min, now $600.44
+"2026-10-20 23:12","XMR","update","watchlist","no","600.44",,,"624.53","📉 XMR -3.8% in 21 min, now $600.44
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $847.2K in 21 min
+- Open positions up 1.4% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $624.13
 Today's low: $599.97
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-21 00:04","PUMP","update","watchlist","yes","0.00488",,,"0.005131","📈 PUMP +3.4% in 56 min, now $0.004880
+"2026-10-21 00:04","PUMP","update","watchlist","no","0.00488",,,"0.005131","📈 PUMP +3.4% in 56 min, now $0.004880
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004860)
 - Buyers outpaced sellers on Hyperliquid by $4.5M in 56 min
+- Open positions up 5.7% on Hyperliquid during the move, up 4.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.004720
 Today's high: $0.004860
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 00:13","XMR","followup","watchlist","no","585.96",,,"622.56","📉 XMR down another 2.4% since the 23:12 UTC update, now $585.96
 (-6.1% since the move started at $624.13)
@@ -1044,11 +1195,12 @@ Information, not advice."
 - Open positions on Hyperliquid up 5.8% since 23:12 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-21 00:51","ZEC","update","watchlist","yes","1296.7",,,"1326.1","📈 ZEC +3.6% in 50 min, now $1,297
+"2026-10-21 00:51","ZEC","update","watchlist","no","1296.7",,,"1326.1","📈 ZEC +3.6% in 50 min, now $1,297
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1,258)
 - Buyers outpaced sellers on Hyperliquid by $4.4M in 50 min
+- Open positions up 2.3% on Hyperliquid during the move, up 2.0% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0031% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
@@ -1056,36 +1208,41 @@ LEVELS
 Move started: $1,252
 Today's high: $1,258
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-21 00:57","VVV","update","watchlist","yes","26.4295",,,"27.741","📈 VVV +3.9% in 53 min, now $26.43
+"2026-10-21 00:57","VVV","update","watchlist","no","26.4295",,,"27.741","📈 VVV +3.9% in 53 min, now $26.43
 
 WHAT'S HAPPENING
 - Price broke above today's high ($25.53)
 - Buyers outpaced sellers on Hyperliquid by $771.1K in 53 min
+- Open positions up 1.0% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $25.44
 Today's high: $25.53
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 13:58","BTC","update","channel","yes","83935.5","84590","84651","81781","📈 BTC +0.8% in 21 min, now $83,936
 
 WHAT'S HAPPENING
 - Price broke above today's high ($83,888)
 - Buyers outpaced sellers on Hyperliquid by $13.3M in 21 min
+- Open positions up 0.7% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $83,266
 Today's high: $83,888
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 14:03","XMR","funding","watchlist","no","604.08","607.09","607.07","630.2","💸 XMR funding on Hyperliquid at its lowest in 30 days (-0.0181% per hour)
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-21 14:49","kPEPE","update","watchlist","yes","0.004769","0.004723","0.004673","0.004432","📈 kPEPE +3.6% in 43 min, now $0.004769
+"2026-10-21 14:49","kPEPE","update","watchlist","no","0.004769","0.004723","0.004673","0.004432","📈 kPEPE +3.6% in 43 min, now $0.004769
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004648)
@@ -1098,6 +1255,7 @@ LEVELS
 Move started: $0.004602
 Today's high: $0.004648
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 14:52","BTC","followup","channel","no","84633.5","84442","84421","81918","📈 BTC up another 0.8% since the 13:58 UTC update, now $84,634
 (+1.6% since the move started at $83,266)
@@ -1106,29 +1264,33 @@ Information, not advice."
 - Open positions on Hyperliquid down 2.2% since 13:58 UTC (positions closing)
 
 Information, not advice."
-"2026-10-21 15:13","ENA","update","watchlist","yes","0.215285","0.22127","0.21818","0.19724","📈 ENA +4.7% in 52 min, now $0.2153
+"2026-10-21 15:13","ENA","update","watchlist","no","0.215285","0.22127","0.21818","0.19724","📈 ENA +4.7% in 52 min, now $0.2153
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.2107)
 - Buyers outpaced sellers on Hyperliquid by $2.0M in 52 min
+- Open positions up 3.3% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.2056
 Today's high: $0.2107
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-21 15:29","STRK","update","watchlist","yes","0.0613","0.06195","0.06282","0.05481","📈 STRK +7.4% in 57 min, now $0.06130
+"2026-10-21 15:29","STRK","update","watchlist","no","0.0613","0.06195","0.06282","0.05481","📈 STRK +7.4% in 57 min, now $0.06130
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.05896)
 - Buyers outpaced sellers on Hyperliquid by $1.2M in 57 min
+- Open positions up 5.1% on Hyperliquid during the move, up 3.4% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.05710
 Today's high: $0.05896
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 16:57","STRK","followup","watchlist","no","0.06025","0.06343","0.06105","0.05444","↩️ STRK has given back 60% of its rise ($0.05710 → $0.06499), now $0.06025
 
@@ -1144,15 +1306,18 @@ Move started: $0.004602
 Highest in the move: $0.004801
 
 Information, not advice."
-"2026-10-21 18:01","STRK","update","watchlist","yes","0.06369","0.06324","0.05948","0.05458","📈 STRK +6.5% in 56 min, now $0.06369
+"2026-10-21 18:01","STRK","update","watchlist","no","0.06369","0.06324","0.05948","0.05458","📈 STRK +6.5% in 56 min, now $0.06369
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $251.0K in 56 min
+- Open positions up 1.7% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.05980
 Today's high: $0.06513
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 18:14","LIT","update","watchlist","no","3.6964","3.8477","3.8774","3.5784","📈 LIT +7.1% in 59 min, now $3.696
 
@@ -1177,17 +1342,20 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $18.2M in 36 min
+- Open positions down 0.8% on Hyperliquid during the move, down 0.7% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,521
 Today's low: $2,437
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 19:03","BTC","update","channel","yes","84150.5","84471","84384","81352","📉 BTC -0.8% in 37 min, now $84,151
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $28.7M in 37 min
+- Open positions up 0.6% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0007% per hour, the lowest in 7 days (shorts pay longs)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
@@ -1195,6 +1363,7 @@ LEVELS
 Move started: $84,835
 Today's low: $82,613
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 19:39","BTC","followup","channel","no","84562.5","84611","84291","81422","↩️ BTC has given back 61% of its drop ($84,835 → $84,137), now $84,563
 
@@ -1210,16 +1379,18 @@ Move started: $0.05980
 Highest in the move: $0.06599
 
 Information, not advice."
-"2026-10-21 20:55","LIT","update","watchlist","yes","3.73865","3.9536","3.87","3.5423","📉 LIT -5.5% in 11 min, now $3.739
+"2026-10-21 20:55","LIT","update","watchlist","no","3.73865","3.9536","3.87","3.5423","📉 LIT -5.5% in 11 min, now $3.739
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.7M in 11 min
+- Open positions down 0.6% on Hyperliquid during the move, down 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $3.956
 Today's low: $3.346
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-21 21:03","LIT","funding","watchlist","no","3.8184","3.913","3.848","3.5664","💸 LIT funding on Hyperliquid at its lowest in 30 days (-0.0201% per hour)
 (shorts pay longs; the lowest rate in 30 days)
@@ -1232,29 +1403,34 @@ Move started: $3.956
 Lowest in the move: $3.733
 
 Information, not advice."
-"2026-10-22 01:10","VVV","update","watchlist","yes","27.989","27.56","27.503","25.961","📈 VVV +3.6% in 43 min, now $27.99
+"2026-10-22 01:10","VVV","update","watchlist","no","27.989","27.56","27.503","25.961","📈 VVV +3.6% in 43 min, now $27.99
 
 WHAT'S HAPPENING
 - Price broke above today's high ($27.32)
 - Buyers outpaced sellers on Hyperliquid by $343.8K in 43 min
+- Open positions up 1.0% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $27.02
 Today's high: $27.32
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 01:39","BTC","update","channel","yes","83630.5","82927","82803","81248","📉 BTC -0.8% in 16 min, now $83,631
 
 WHAT'S HAPPENING
 - Price fell below today's low ($84,041)
 - Sellers outpaced buyers on Hyperliquid by $29.0M in 16 min
+- Open positions down 0.6% on Hyperliquid during the move, down 1.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.2M of BTC longs were liquidated on Bybit in the last 16 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $84,335
 Today's low: $84,041
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 01:41","VVV","followup","watchlist","no","27.4755","27.391","27.544","25.956","↩️ VVV has given back 66% of its rise ($27.02 → $28.35), now $27.48
 
@@ -1263,29 +1439,33 @@ Move started: $27.02
 Highest in the move: $28.35
 
 Information, not advice."
-"2026-10-22 02:04","ARB","update","watchlist","yes","0.18719",,,,"📉 ARB -3.3% in 50 min, now $0.1872
+"2026-10-22 02:04","ARB","update","watchlist","no","0.18719",,,,"📉 ARB -3.3% in 50 min, now $0.1872
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1875)
 - Sellers outpaced buyers on Hyperliquid by $343.9K in 50 min
+- Open positions down 1.4% on Hyperliquid during the move, down 0.9% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.1936
 Today's low: $0.1875
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-22 02:06","SUI","update","watchlist","yes","1.01145","1.0082","0.99856","0.97934","📉 SUI -2.4% in 50 min, now $1.011
+"2026-10-22 02:06","SUI","update","watchlist","no","1.01145","1.0082","0.99856","0.97934","📉 SUI -2.4% in 50 min, now $1.011
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1.028)
 - Sellers outpaced buyers on Hyperliquid by $365.4K in 50 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $1.037
 Today's low: $1.028
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 02:19","BTC","followup","channel","no","82950.5","82812","82769","81404","📉 BTC down another 0.8% since the 01:39 UTC update, now $82,951
 (-1.6% since the move started at $84,335)
@@ -1298,29 +1478,33 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-22 05:14","CRV","update","watchlist","yes","0.37742",,,,"📉 CRV -5.1% in 57 min, now $0.3774
+"2026-10-22 05:14","CRV","update","watchlist","no","0.37742",,,,"📉 CRV -5.1% in 57 min, now $0.3774
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.3924)
 - Sellers outpaced buyers on Hyperliquid by $1.4M in 57 min
+- Open positions down 5.1% on Hyperliquid during the move, down 2.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.3977
 Today's low: $0.3924
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-22 05:46","XMR","update","watchlist","yes","635.98","650.59","652.15","613.09","📈 XMR +3.8% in 57 min, now $635.98
+"2026-10-22 05:46","XMR","update","watchlist","no","635.98","650.59","652.15","613.09","📈 XMR +3.8% in 57 min, now $635.98
 
 WHAT'S HAPPENING
 - Price broke above today's high ($628.00)
 - Buyers outpaced sellers on Hyperliquid by $3.1M in 57 min
+- Open positions up 1.5% on Hyperliquid during the move, up 1.9% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $612.56
 Today's high: $628.00
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 06:03","XMR","funding","watchlist","no","647.8","646.12","651.41","610.3","💸 XMR funding on Hyperliquid at its highest in 30 days (+0.0240% per hour)
 (longs pay shorts; the highest rate in 30 days)
@@ -1333,41 +1517,49 @@ Information, not advice."
 - Open positions on Hyperliquid up 0.9% since 05:46 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-22 14:49","VVV","update","watchlist","yes","25.986","25.602","25.624","26.119","📉 VVV -5.4% in 24 min, now $25.99
+"2026-10-22 14:49","VVV","update","watchlist","no","25.986","25.602","25.624","26.119","📉 VVV -5.4% in 24 min, now $25.99
 
 WHAT'S HAPPENING
 - Price fell below today's low ($26.98)
 - Sellers outpaced buyers on Hyperliquid by $1.5M in 24 min
+- Open positions down 1.7% on Hyperliquid during the move, down 2.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $27.47
 Today's low: $26.98
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 16:47","ETH","update","channel","yes","2373.25","2382.1","2382","2411.9","📉 ETH -1.2% in 37 min, now $2,373
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,387)
 - Sellers outpaced buyers on Hyperliquid by $21.9M in 37 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $772K of ETH longs were liquidated on Bybit in the last 37 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,402
 Today's low: $2,387
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 16:48","BTC","update","channel","yes","81101.5","81319","81225","81834","📉 BTC -0.8% in 38 min, now $81,102
 
 WHAT'S HAPPENING
 - Price fell below today's low ($81,325)
 - Sellers outpaced buyers on Hyperliquid by $105.1M in 38 min
+- Open positions down 3.3% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.6M of BTC longs were liquidated on Bybit in the last 38 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $81,773
 Today's low: $81,325
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-22 17:18","ETH","followup","channel","no","2385.05","2378.2","2397.5","2410.1","↩️ ETH has given back 61% of its drop ($2,402 → $2,359), now $2,385
 
@@ -1383,16 +1575,18 @@ Move started: $81,773
 Lowest in the move: $80,912
 
 Information, not advice."
-"2026-10-22 18:34","WLD","update","watchlist","yes","0.55419","0.55864","0.54162","0.53498","📈 WLD +5.4% in 31 min, now $0.5542
+"2026-10-22 18:34","WLD","update","watchlist","no","0.55419","0.55864","0.54162","0.53498","📈 WLD +5.4% in 31 min, now $0.5542
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $3.2M in 31 min
+- Open positions up 3.6% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.5256
 Today's high: $0.5899
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 00:03","PUMP","funding","watchlist","no","0.004549","0.004599","0.004638","0.004277","💸 PUMP funding on Hyperliquid at its lowest in 30 days (-0.0044% per hour)
 (shorts pay longs; the lowest rate in 30 days)
@@ -1403,14 +1597,16 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price broke above today's high ($81,770)
 - Buyers outpaced sellers on Hyperliquid by $37.7M in 33 min
+- Open positions up 1.4% on Hyperliquid during the move, up 0.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $81,234
 Today's high: $81,770
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-23 03:00","kPEPE","update","watchlist","yes","0.004521","0.004505","0.004617","0.00457","📈 kPEPE +2.4% in 60 min, now $0.004521
+"2026-10-23 03:00","kPEPE","update","watchlist","no","0.004521","0.004505","0.004617","0.00457","📈 kPEPE +2.4% in 60 min, now $0.004521
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004445)
@@ -1422,6 +1618,7 @@ LEVELS
 Move started: $0.004416
 Today's high: $0.004445
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 04:03","ZEC","funding","watchlist","no","1224.3","1220.1","1223.5","1176.3","💸 ZEC funding on Hyperliquid at its lowest in 30 days (-0.0011% per hour)
 (shorts pay longs; the lowest rate in 30 days)
@@ -1440,7 +1637,7 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.4% since 03:00 UTC (positions closing)
 
 Information, not advice."
-"2026-10-23 08:26","kPEPE","update","watchlist","yes","0.004726","0.004922","0.005071","0.004408","📈 kPEPE +2.8% in 40 min, now $0.004726
+"2026-10-23 08:26","kPEPE","update","watchlist","no","0.004726","0.004922","0.005071","0.004408","📈 kPEPE +2.8% in 40 min, now $0.004726
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004648)
@@ -1452,6 +1649,7 @@ LEVELS
 Move started: $0.004596
 Today's high: $0.004648
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 08:38","kPEPE","followup","watchlist","no","0.004839","0.004921","0.005086","0.004379","📈 kPEPE up another 2.4% since the 08:26 UTC update, now $0.004839
 (+5.3% since the move started at $0.004596)
@@ -1467,7 +1665,7 @@ Information, not advice."
 - Open positions on Hyperliquid up 1.2% since 08:38 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-23 11:32","kPEPE","update","watchlist","yes","0.005055","0.005066","0.004861","0.004403","📈 kPEPE +3.4% in 16 min, now $0.005055
+"2026-10-23 11:32","kPEPE","update","watchlist","no","0.005055","0.005066","0.004861","0.004403","📈 kPEPE +3.4% in 16 min, now $0.005055
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.005039)
@@ -1479,19 +1677,23 @@ LEVELS
 Move started: $0.004890
 Today's high: $0.005039
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 14:16","BTC","update","channel","yes","81372.5","81542","81645","80362","📉 BTC -0.9% in 15 min, now $81,373
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $21.9M in 15 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.1M of BTC longs were liquidated on Bybit in the last 15 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $82,084
 Today's low: $81,113
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-23 14:16","kPEPE","update","watchlist","yes","0.004926","0.00489","0.004785","0.004356","📉 kPEPE -3.4% in 31 min, now $0.004926
+"2026-10-23 14:16","kPEPE","update","watchlist","no","0.004926","0.00489","0.004785","0.004356","📉 kPEPE -3.4% in 31 min, now $0.004926
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $489.2K in 31 min
@@ -1502,6 +1704,7 @@ LEVELS
 Move started: $0.005101
 Today's low: $0.004383
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 14:36","BTC","followup","channel","no","81740.5","81669","81510","80366","↩️ BTC has given back 65% of its drop ($82,084 → $81,108), now $81,741
 
@@ -1510,31 +1713,40 @@ Move started: $82,084
 Lowest in the move: $81,108
 
 Information, not advice."
-"2026-10-23 22:48","WLD","update","watchlist","yes","0.47599","0.4803","0.48209","0.46283","📉 WLD -7.1% in 46 min, now $0.4760
+"2026-10-23 22:48","WLD","update","watchlist","no","0.47599","0.4803","0.48209","0.46283","📉 WLD -7.1% in 46 min, now $0.4760
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.5073)
+- Open positions down 3.6% on Hyperliquid during the move, down 1.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $320K of WLD longs were liquidated on Bybit in the last 46 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.5122
 Today's low: $0.5073
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-23 22:53","ENA","update","watchlist","yes","0.193425","0.19941","0.19864","0.19388","📉 ENA -6.3% in 49 min, now $0.1934
+"2026-10-23 22:53","ENA","update","watchlist","no","0.193425","0.19941","0.19864","0.19388","📉 ENA -6.3% in 49 min, now $0.1934
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1973)
+- Open positions down 3.4% on Hyperliquid during the move, down 3.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.2065
 Today's low: $0.1973
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-23 23:05","ZEC","update","watchlist","yes","1170.85","1184.5","1174.8","1202.9","📉 ZEC -4.7% in 49 min, now $1,171
+"2026-10-23 23:05","ZEC","update","watchlist","no","1170.85","1184.5","1174.8","1202.9","📉 ZEC -4.7% in 49 min, now $1,171
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,199)
 - Sellers outpaced buyers on Hyperliquid by $31.0M in 49 min
+- Open positions down 4.0% on Hyperliquid during the move, down 3.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.1M of ZEC longs were liquidated in the last 49 min (OKX $648K, Bybit $412K)
 - Funding on Hyperliquid -0.0051% per hour, the lowest in 7 days (shorts pay longs)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
@@ -1542,30 +1754,36 @@ LEVELS
 Move started: $1,229
 Today's low: $1,199
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-23 23:06","LIT","update","watchlist","yes","3.07645","3.1372","3.1446","3.227","📉 LIT -5.3% in 48 min, now $3.076
+"2026-10-23 23:06","LIT","update","watchlist","no","3.07645","3.1372","3.1446","3.227","📉 LIT -5.3% in 48 min, now $3.076
 
 WHAT'S HAPPENING
 - Price fell below today's low ($3.227)
 - Sellers outpaced buyers on Hyperliquid by $1.3M in 48 min
+- Open positions down 1.1% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $3.250
 Today's low: $3.227
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 23:08","BTC","update","channel","yes","80735.5","81100","80965","80577","📉 BTC -0.8% in 48 min, now $80,736
 
 WHAT'S HAPPENING
 - Price fell below today's low ($81,106)
 - Sellers outpaced buyers on Hyperliquid by $55.0M in 48 min
+- Open positions down 0.8% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $10.0M of BTC longs were liquidated in the last 48 min (Bybit $5.5M, OKX $4.4M)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $81,392
 Today's low: $81,106
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-23 23:45","BTC","followup","channel","no","81037.5","80622","80937","80841","↩️ BTC has given back 60% of its drop ($81,392 → $80,501), now $81,038
 
@@ -1582,17 +1800,19 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-24 00:34","XMR","update","watchlist","yes","571.825","575.47","582.35","616.35","📉 XMR -2.5% in 46 min, now $571.83
+"2026-10-24 00:34","XMR","update","watchlist","no","571.825","575.47","582.35","616.35","📉 XMR -2.5% in 46 min, now $571.83
 
 WHAT'S HAPPENING
 - Price fell below today's low ($577.00)
 - Sellers outpaced buyers on Hyperliquid by $3.1M in 46 min
+- Open positions down 0.9% on Hyperliquid during the move, down 0.5% in 1 hour across Bybit and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $586.65
 Today's low: $577.00
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-24 01:44","XMR","followup","watchlist","no","577.845","577.62","582.74","616.43","↩️ XMR has given back 61% of its drop ($586.65 → $564.20), now $577.85
 
@@ -1606,36 +1826,45 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price fell below today's low ($2,356)
 - Sellers outpaced buyers on Hyperliquid by $16.6M in 23 min
+- Open positions down 0.5% on Hyperliquid during the move, down 1.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $2.4M of ETH longs were liquidated on Bybit in the last 23 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,369
 Today's low: $2,356
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-24 14:17","NEAR","update","watchlist","yes","4.30225","4.3541","4.4311","4.4374","📉 NEAR -3.5% in 34 min, now $4.302
+"2026-10-24 14:17","NEAR","update","watchlist","no","4.30225","4.3541","4.4311","4.4374","📉 NEAR -3.5% in 34 min, now $4.302
 
 WHAT'S HAPPENING
 - Price fell below today's low ($4.419)
 - Sellers outpaced buyers on Hyperliquid by $5.9M in 34 min
+- Open positions down 0.6% on Hyperliquid during the move, up 0.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $597K of NEAR longs were liquidated on Bybit in the last 34 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $4.459
 Today's low: $4.419
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-24 14:17","BTC","update","channel","yes","80108","79396","80316","80335","📉 BTC -0.8% in 47 min, now $80,108
 
 WHAT'S HAPPENING
 - Price fell below today's low ($80,428)
 - Sellers outpaced buyers on Hyperliquid by $64.2M in 47 min
+- Open positions down 1.4% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $4.6M of BTC longs were liquidated on Bybit in the last 47 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $80,758
 Today's low: $80,428
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-24 14:31","BTC","followup","channel","no","80384.5","79397","80380","80319","↩️ BTC has given back 60% of its drop ($80,758 → $79,821), now $80,385
 
@@ -1663,22 +1892,27 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price fell below today's low ($2,328)
 - Sellers outpaced buyers on Hyperliquid by $22.4M in 48 min
+- About $7.5M of ETH longs were liquidated on Bybit in the last 48 min
 Price fell; open positions barely changed. Buying and selling on Hyperliquid were about even.
 
 LEVELS
 Move started: $2,348
 Today's low: $2,328
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-24 16:12","BTC","update","channel","yes","79852.5","80109","80531","80571","📈 BTC +0.8% in 47 min, now $79,853
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $45.8M in 47 min
+- Open positions up 0.7% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $79,204
 Today's high: $81,214
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-24 17:49","ETH","followup","channel","no","2326.15","2333.6","2337.3","2357.1","↩️ ETH has given back 62% of its drop ($2,348 → $2,290), now $2,326
 
@@ -1693,32 +1927,37 @@ Information, not advice."
 - Open positions on Hyperliquid down 0.8% since 16:12 UTC (positions closing)
 
 Information, not advice."
-"2026-10-25 09:11","WLD","update","watchlist","yes","0.44276","0.44497","0.44991","0.4392","📉 WLD -4.6% in 59 min, now $0.4428
+"2026-10-25 09:11","WLD","update","watchlist","no","0.44276","0.44497","0.44991","0.4392","📉 WLD -4.6% in 59 min, now $0.4428
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.4606)
 - Sellers outpaced buyers on Hyperliquid by $4.8M in 59 min
+- Open positions down 2.5% on Hyperliquid during the move, down 3.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $483K of WLD longs were liquidated on Bybit in the last 59 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.4642
 Today's low: $0.4606
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-25 10:01","WLD","funding","watchlist","no","0.44653","0.4449","0.44965","0.4386","💸 WLD funding on Hyperliquid at its lowest in 30 days (-0.0074% per hour)
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-25 11:49","ENA","update","watchlist","yes","0.19649","0.19514","0.20483","0.20559","📈 ENA +3.4% in 59 min, now $0.1965
+"2026-10-25 11:49","ENA","update","watchlist","no","0.19649","0.19514","0.20483","0.20559","📈 ENA +3.4% in 59 min, now $0.1965
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $624.7K in 59 min
+- Open positions up 0.8% on Hyperliquid during the move, up 0.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.1901
 Today's high: $0.1971
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-25 11:49","WLD","followup","watchlist","no","0.45495","0.45094","0.45769","0.43888","↩️ WLD has given back 60% of its drop ($0.4642 → $0.4409), now $0.4550
 
@@ -1727,27 +1966,31 @@ Move started: $0.4642
 Lowest in the move: $0.4409
 
 Information, not advice."
-"2026-10-25 11:55","ZEC","update","watchlist","yes","1221.75","1212.9","1209","1231.5","📈 ZEC +3.2% in 59 min, now $1,222
+"2026-10-25 11:55","ZEC","update","watchlist","no","1221.75","1212.9","1209","1231.5","📈 ZEC +3.2% in 59 min, now $1,222
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $3.3M in 59 min
+- Open positions up 0.5% on Hyperliquid during the move, down 0.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $1,184
 Today's high: $1,225
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-25 23:30","ETH","update","channel","yes","2319.7","2332.9","2308.4","2317.2","📉 ETH -1.2% in 45 min, now $2,320
+"2026-10-25 23:30","ETH","update","channel","no","2319.7","2332.9","2308.4","2317.2","📉 ETH -1.2% in 45 min, now $2,320
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $17.8M in 45 min
+- Open positions down 0.5% on Hyperliquid during the move, down 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,349
 Today's low: $2,318
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-25 23:35","ETH","followup","channel","no","2334.65","2332.7","2305.6","2320.6","↩️ ETH has given back 60% of its drop ($2,349 → $2,313), now $2,335
 
@@ -1761,12 +2004,15 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price fell below today's low ($79,862)
 - Sellers outpaced buyers on Hyperliquid by $104.7M in 60 min
+- Open positions down 0.8% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.3M of BTC longs were liquidated on Bybit in the last 60 min
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $80,189
 Today's low: $79,862
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 04:12","BTC","followup","channel","no","79862.5","80075","79646","79779","↩️ BTC has given back 61% of its drop ($80,189 → $79,363), now $79,863
 
@@ -1775,7 +2021,7 @@ Move started: $80,189
 Lowest in the move: $79,363
 
 Information, not advice."
-"2026-10-26 05:01","kPEPE","update","watchlist","yes","0.004379","0.004438","0.004409","0.00433","📈 kPEPE +2.4% in 60 min, now $0.004379
+"2026-10-26 05:01","kPEPE","update","watchlist","no","0.004379","0.004438","0.004409","0.00433","📈 kPEPE +2.4% in 60 min, now $0.004379
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004288)
@@ -1787,17 +2033,20 @@ LEVELS
 Move started: $0.004275
 Today's high: $0.004288
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-26 08:40","ENA","update","watchlist","yes","0.210815","0.20737","0.20505","0.20603","📈 ENA +3.5% in 25 min, now $0.2108
+"2026-10-26 08:40","ENA","update","watchlist","no","0.210815","0.20737","0.20505","0.20603","📈 ENA +3.5% in 25 min, now $0.2108
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $716.4K in 25 min
+- Open positions up 0.5% on Hyperliquid during the move, up 0.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.2036
 Today's high: $0.2114
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 09:15","ENA","followup","watchlist","no","0.207125","0.20675","0.20714","0.20273","↩️ ENA has given back 61% of its rise ($0.2036 → $0.2126), now $0.2071
 
@@ -1806,46 +2055,57 @@ Move started: $0.2036
 Highest in the move: $0.2126
 
 Information, not advice."
-"2026-10-26 14:53","ENA","update","watchlist","yes","0.209505","0.21051","0.20731","0.2072","📈 ENA +3.6% in 56 min, now $0.2095
+"2026-10-26 14:53","ENA","update","watchlist","no","0.209505","0.21051","0.20731","0.2072","📈 ENA +3.6% in 56 min, now $0.2095
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $714.2K in 56 min
+- Open positions up 0.6% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.2022
 Today's high: $0.2127
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 14:54","ETH","update","channel","yes","2323.55","2331.8","2315.2","2331.8","📈 ETH +1.2% in 57 min, now $2,324
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $12.5M in 57 min
+- Open positions up 0.8% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2,295
 Today's high: $2,338
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 14:57","BTC","update","channel","yes","80305.5","80410","79997","80351","📈 BTC +1.1% in 60 min, now $80,306
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $48.6M in 60 min
+- Open positions up 0.5% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $79,470
 Today's high: $80,548
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 16:16","BTC","update","channel","yes","80165.5","80506","79907","80451","📉 BTC -0.8% in 54 min, now $80,166
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $35.5M in 54 min
+- Open positions down 1.1% on Hyperliquid during the move, down 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $80,831
 Today's low: $79,347
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 16:29","ETH","followup","channel","no","2314.45","2325.7","2310","2349","↩️ ETH has given back 60% of its rise ($2,295 → $2,344), now $2,314
 
@@ -1865,24 +2125,28 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $68.4M in 39 min
+- Open positions down 1.1% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $79,760
 Today's high: $80,835
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-26 17:37","HYPE","update","watchlist","yes","80.0605","79.102","77.563","80.547","📈 HYPE +3.1% in 60 min, now $80.06
+"2026-10-26 17:37","HYPE","update","watchlist","no","80.0605","79.102","77.563","80.547","📈 HYPE +3.1% in 60 min, now $80.06
 
 WHAT'S HAPPENING
 - Price broke above today's high ($78.80)
 - Buyers outpaced sellers on Hyperliquid by $28.0M in 60 min
+- Open positions up 1.1% on Hyperliquid during the move, up 0.9% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $77.66
 Today's high: $78.80
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-26 18:50","BTC","followup","channel","no","80066.5","79976","79980","80617","↩️ BTC has given back 60% of its rise ($79,760 → $80,532), now $80,067
 
@@ -1906,15 +2170,18 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
-"2026-10-27 11:02","ENA","update","watchlist","yes","0.204955","0.2001","0.20855","0.2059","📈 ENA +3.7% in 41 min, now $0.2050
+"2026-10-27 11:02","ENA","update","watchlist","no","0.204955","0.2001","0.20855","0.2059","📈 ENA +3.7% in 41 min, now $0.2050
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $919.7K in 41 min
+- Open positions down 1.5% on Hyperliquid during the move, down 1.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.1976
 Today's high: $0.2116
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-27 11:52","ENA","followup","watchlist","no","0.200725","0.20783","0.2136","0.20465","↩️ ENA has given back 62% of its rise ($0.1976 → $0.2059), now $0.2007
 
@@ -1928,12 +2195,14 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price broke above today's high ($2,333)
 - Buyers outpaced sellers on Hyperliquid by $14.8M in 40 min
+- Open positions down 0.7% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2,312
 Today's high: $2,333
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-27 13:30","ETH","followup","channel","no","2323.05","2327.2","2352.8","2337","↩️ ETH has given back 61% of its rise ($2,312 → $2,341), now $2,323
 
@@ -1947,24 +2216,28 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price broke above today's high ($2,341)
 - Buyers outpaced sellers on Hyperliquid by $9.8M in 58 min
+- Open positions down 0.9% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2,318
 Today's high: $2,341
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-27 17:43","LIT","update","watchlist","yes","3.11595","3.0997","3.1157","2.9378","📈 LIT +3.3% in 51 min, now $3.116
+"2026-10-27 17:43","LIT","update","watchlist","no","3.11595","3.0997","3.1157","2.9378","📈 LIT +3.3% in 51 min, now $3.116
 
 WHAT'S HAPPENING
 - Price broke above today's high ($3.069)
 - Buyers outpaced sellers on Hyperliquid by $1.1M in 51 min
+- Open positions up 1.3% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $3.016
 Today's high: $3.069
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-27 20:32","LIT","followup","watchlist","no","3.066","3.0653","3.0366","2.975","↩️ LIT has given back 60% of its rise ($3.016 → $3.142), now $3.066
 
@@ -1978,12 +2251,15 @@ Information, not advice."
 WHAT'S HAPPENING
 - Price broke above today's high ($81,205)
 - Buyers outpaced sellers on Hyperliquid by $33.0M in 51 min
+- Open positions down 0.7% on Hyperliquid during the move, down 0.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.0M of BTC shorts were liquidated on Bybit in the last 51 min
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $80,902
 Today's high: $81,205
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-28 11:24","CHIP","followup","watchlist","no","0.054802","0.052173","0.051256","0.048654","↩️ CHIP has given back 61% of its rise ($0.05317 → $0.05732), now $0.05480
 
@@ -2012,12 +2288,14 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $89.5M in 49 min
+- Open positions up 1.9% on Hyperliquid during the move, down 0.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $80,439
 Today's high: $81,807
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-28 18:05",,"event","channel","no",,,,,"🗓 Fed interest rate decision (FOMC): released at 18:00 UTC
 In the 5 min since:
@@ -2032,32 +2310,38 @@ Move started: $80,439
 Highest in the move: $81,137
 
 Information, not advice."
-"2026-10-28 19:19","ENA","update","watchlist","yes","0.204995","0.20868","0.20907","0.20837","📈 ENA +3.6% in 47 min, now $0.2050
+"2026-10-28 19:19","ENA","update","watchlist","no","0.204995","0.20868","0.20907","0.20837","📈 ENA +3.6% in 47 min, now $0.2050
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $682.4K in 47 min
+- Open positions down 0.9% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.1979
 Today's high: $0.2121
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-28 20:00","BTC","update","channel","yes","81662.5","81316","81319","80817","📈 BTC +0.9% in 60 min, now $81,663
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $31.3M in 60 min
+- Open positions up 0.8% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $80,965
 Today's high: $81,807
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-28 20:00","PUMP","update","watchlist","yes","0.004562","0.004544","0.004538","0.004415","📈 PUMP +4.9% in 60 min, now $0.004562
+"2026-10-28 20:00","PUMP","update","watchlist","no","0.004562","0.004544","0.004538","0.004415","📈 PUMP +4.9% in 60 min, now $0.004562
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004410)
 - Buyers outpaced sellers on Hyperliquid by $3.9M in 60 min
+- Open positions up 1.1% on Hyperliquid during the move, up 0.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0047% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
@@ -2065,8 +2349,9 @@ LEVELS
 Move started: $0.004348
 Today's high: $0.004410
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-28 20:04","kPEPE","update","watchlist","yes","0.005053","0.005176","0.005107","0.005187","📈 kPEPE +4.1% in 52 min, now $0.005053
+"2026-10-28 20:04","kPEPE","update","watchlist","no","0.005053","0.005176","0.005107","0.005187","📈 kPEPE +4.1% in 52 min, now $0.005053
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.005048)
@@ -2078,6 +2363,7 @@ LEVELS
 Move started: $0.004854
 Today's high: $0.005048
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-28 20:14","BTC","followup","channel","no","81285.5","81362","81302","80401","↩️ BTC has given back 61% of its rise ($80,965 → $81,780), now $81,286
 
@@ -2090,12 +2376,14 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $68.8M in 14 min
+- Open positions down 1.6% on Hyperliquid during the move, down 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,391
 Today's low: $2,323
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-28 20:39","kPEPE","followup","watchlist","no","0.005001","0.005048","0.005086","0.004933","↩️ kPEPE has given back 61% of its rise ($0.004854 → $0.005227), now $0.005001
 
@@ -2104,7 +2392,7 @@ Move started: $0.004854
 Highest in the move: $0.005227
 
 Information, not advice."
-"2026-10-29 00:09","kPEPE","update","watchlist","yes","0.005131","0.00507","0.004936","0.004532","📈 kPEPE +2.7% in 29 min, now $0.005131
+"2026-10-29 00:09","kPEPE","update","watchlist","no","0.005131","0.00507","0.004936","0.004532","📈 kPEPE +2.7% in 29 min, now $0.005131
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $532.9K in 29 min
@@ -2115,6 +2403,7 @@ LEVELS
 Move started: $0.004996
 Today's high: $0.005280
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 00:40","kPEPE","followup","watchlist","no","0.005059","0.005043","0.005017","0.004482","↩️ kPEPE has given back 60% of its rise ($0.004996 → $0.005155), now $0.005059
 
@@ -2123,7 +2412,7 @@ Move started: $0.004996
 Highest in the move: $0.005155
 
 Information, not advice."
-"2026-10-29 01:48","kPEPE","update","watchlist","yes","0.005001","0.004934","0.005046","0.00463","📉 kPEPE -2.8% in 21 min, now $0.005001
+"2026-10-29 01:48","kPEPE","update","watchlist","no","0.005001","0.004934","0.005046","0.00463","📉 kPEPE -2.8% in 21 min, now $0.005001
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.005030)
@@ -2135,36 +2424,43 @@ LEVELS
 Move started: $0.005143
 Today's low: $0.005030
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 01:49","BTC","update","channel","yes","80000.5","79834","80344","76784","📉 BTC -1.4% in 60 min, now $80,001
 
 WHAT'S HAPPENING
 - Price fell below today's low ($81,105)
 - Sellers outpaced buyers on Hyperliquid by $71.2M in 60 min
+- Open positions down 0.5% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $4.2M of BTC longs were liquidated in the last 60 min (Bybit $3.2M, OKX $1.0M)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $81,157
 Today's low: $81,105
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 01:50","ENA","update","watchlist","yes","0.200165","0.19543","0.20005","0.17919","📉 ENA -3.6% in 33 min, now $0.2002
+"2026-10-29 01:50","ENA","update","watchlist","no","0.200165","0.19543","0.20005","0.17919","📉 ENA -3.6% in 33 min, now $0.2002
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.2057)
 - Sellers outpaced buyers on Hyperliquid by $1.4M in 33 min
+- Open positions down 1.3% on Hyperliquid during the move, down 1.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.2077
 Today's low: $0.2057
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 02:04","LIT","update","watchlist","yes","2.7659","2.8396","2.8412","2.7324","📉 LIT -4.8% in 47 min, now $2.766
+"2026-10-29 02:04","LIT","update","watchlist","no","2.7659","2.8396","2.8412","2.7324","📉 LIT -4.8% in 47 min, now $2.766
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2.881)
 - Sellers outpaced buyers on Hyperliquid by $2.3M in 47 min
+- Open positions down 1.1% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0111% per hour, the lowest in 7 days (shorts pay longs)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
@@ -2172,54 +2468,63 @@ LEVELS
 Move started: $2.905
 Today's low: $2.881
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 02:06","WLD","update","watchlist","yes","0.41455","0.41658","0.41815","0.37214","📉 WLD -4.5% in 50 min, now $0.4146
+"2026-10-29 02:06","WLD","update","watchlist","no","0.41455","0.41658","0.41815","0.37214","📉 WLD -4.5% in 50 min, now $0.4146
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.4309)
 - Sellers outpaced buyers on Hyperliquid by $832.3K in 50 min
+- Open positions down 0.5% on Hyperliquid during the move, down 1.7% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.4340
 Today's low: $0.4309
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 02:11","PUMP","update","watchlist","yes","0.004263","0.004238","0.004263","0.003886","📉 PUMP -4.8% in 53 min, now $0.004263
+"2026-10-29 02:11","PUMP","update","watchlist","no","0.004263","0.004238","0.004263","0.003886","📉 PUMP -4.8% in 53 min, now $0.004263
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.004427)
 - Sellers outpaced buyers on Hyperliquid by $2.0M in 53 min
+- Open positions down 1.9% on Hyperliquid during the move, down 1.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.004480
 Today's low: $0.004427
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 02:14","VVV","update","watchlist","yes","22.8705","22.935","23.349","22.185","📉 VVV -4.7% in 56 min, now $22.87
+"2026-10-29 02:14","VVV","update","watchlist","no","22.8705","22.935","23.349","22.185","📉 VVV -4.7% in 56 min, now $22.87
 
 WHAT'S HAPPENING
 - Price fell below today's low ($23.83)
 - Sellers outpaced buyers on Hyperliquid by $1.0M in 56 min
+- Open positions down 1.6% on Hyperliquid during the move, down 1.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $24.00
 Today's low: $23.83
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 02:15","NEAR","update","watchlist","yes","4.4541","4.438","4.4664","4.0295","📉 NEAR -4.7% in 58 min, now $4.454
+"2026-10-29 02:15","NEAR","update","watchlist","no","4.4541","4.438","4.4664","4.0295","📉 NEAR -4.7% in 58 min, now $4.454
 
 WHAT'S HAPPENING
 - Price fell below today's low ($4.641)
 - Sellers outpaced buyers on Hyperliquid by $2.7M in 58 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $4.675
 Today's low: $4.641
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 04:24","kPEPE","followup","watchlist","no","0.005071","0.005133","0.004982","0.004908","↩️ kPEPE has given back 74% of its drop ($0.005143 → $0.004868), now $0.005071
 
@@ -2228,7 +2533,7 @@ Move started: $0.005143
 Lowest in the move: $0.004868
 
 Information, not advice."
-"2026-10-29 05:12","kPEPE","update","watchlist","yes","0.005138","0.005059","0.005041","0.005029","📈 kPEPE +4.2% in 56 min, now $0.005138
+"2026-10-29 05:12","kPEPE","update","watchlist","no","0.005138","0.005059","0.005041","0.005029","📈 kPEPE +4.2% in 56 min, now $0.005138
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $768.2K in 56 min
@@ -2239,6 +2544,7 @@ LEVELS
 Move started: $0.004929
 Today's high: $0.005159
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 07:53","kPEPE","followup","watchlist","no","0.004924","0.004955","0.004915","0.004885","↩️ kPEPE is back below where the 05:12 UTC move started ($0.004929), now $0.004924
 
@@ -2247,7 +2553,7 @@ Move started: $0.004929
 Highest in the move: $0.005138
 
 Information, not advice."
-"2026-10-29 10:31","kPEPE","update","watchlist","yes","0.004823","0.004894","0.004935","0.004998","📉 kPEPE -4.3% in 58 min, now $0.004823
+"2026-10-29 10:31","kPEPE","update","watchlist","no","0.004823","0.004894","0.004935","0.004998","📉 kPEPE -4.3% in 58 min, now $0.004823
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.004866)
@@ -2259,6 +2565,7 @@ LEVELS
 Move started: $0.005040
 Today's low: $0.004866
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 10:34","HYPE","update","watchlist","no","82.1695","86.111","91.267","92.889","📈 HYPE +4.0% in 58 min, now $82.17
 
@@ -2279,16 +2586,19 @@ Information, not advice."
 - Open positions on Hyperliquid up 3.4% since 10:34 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 10:49","LIT","update","watchlist","yes","3.0691","2.9727","3.0953","2.7876","📈 LIT +6.2% in 60 min, now $3.069
+"2026-10-29 10:49","LIT","update","watchlist","no","3.0691","2.9727","3.0953","2.7876","📈 LIT +6.2% in 60 min, now $3.069
 
 WHAT'S HAPPENING
 - Price broke above today's high ($2.943)
 - Sellers outpaced buyers on Hyperliquid by $61.9K in 60 min
+- Open positions up 0.6% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2.890
 Today's high: $2.943
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 11:11","HYPE","funding","watchlist","no","86.2","87.729","94.102","92.933","💸 HYPE funding on Hyperliquid at its highest in 30 days (+0.0066% per hour)
 (longs pay shorts; the highest rate in 30 days)
@@ -2301,17 +2611,21 @@ Information, not advice."
 - Open positions on Hyperliquid up 2.1% since 10:45 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 11:34","HYPE","update","watchlist","yes","86.1005","88.068","93.329","93.174","📈 HYPE +5.6% in 58 min, now $86.10
+"2026-10-29 11:34","HYPE","update","watchlist","no","86.1005","88.068","93.329","93.174","📈 HYPE +5.6% in 58 min, now $86.10
 
 WHAT'S HAPPENING
 - Price broke above today's high ($82.90)
 - Buyers outpaced sellers on Hyperliquid by $34.8M in 58 min
+- Open positions up 4.8% on Hyperliquid during the move, up 5.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $556K of HYPE shorts were liquidated on OKX in the last 58 min
 - Funding on Hyperliquid +0.0032% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $81.51
 Today's high: $82.90
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 12:04","LIT","followup","watchlist","no","2.92615","3.206","3.2563","2.8205","↩️ LIT has given back 80% of its rise ($2.890 → $3.069), now $2.926
 
@@ -2324,17 +2638,19 @@ Information, not advice."
 (+8.9% since the move started at $81.51)
 
 Information, not advice."
-"2026-10-29 12:32","LIT","update","watchlist","yes","3.0829","3.1368","3.315","2.7899","📈 LIT +5.4% in 28 min, now $3.083
+"2026-10-29 12:32","LIT","update","watchlist","no","3.0829","3.1368","3.315","2.7899","📈 LIT +5.4% in 28 min, now $3.083
 
 WHAT'S HAPPENING
 - Price broke above today's high ($3.070)
 - Buyers outpaced sellers on Hyperliquid by $782.8K in 28 min
+- Open positions up 1.7% on Hyperliquid during the move, up 1.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2.925
 Today's high: $3.070
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 13:01","LIT","followup","watchlist","no","3.22645","3.0849","3.233","2.7647","📈 LIT up another 4.7% since the 12:32 UTC update, now $3.226
 (+10.3% since the move started at $2.925)
@@ -2354,11 +2670,12 @@ Information, not advice."
 - Open positions on Hyperliquid up 2.1% since 12:18 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 13:10","HYPE","update","watchlist","yes","91.3325","90.929","96.194","91.205","📈 HYPE +4.3% in 60 min, now $91.33
+"2026-10-29 13:10","HYPE","update","watchlist","no","91.3325","90.929","96.194","91.205","📈 HYPE +4.3% in 60 min, now $91.33
 
 WHAT'S HAPPENING
 - Price broke above today's high ($88.16)
 - Buyers outpaced sellers on Hyperliquid by $39.0M in 60 min
+- Open positions up 2.7% on Hyperliquid during the move, up 2.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0082% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
@@ -2366,30 +2683,35 @@ LEVELS
 Move started: $87.58
 Today's high: $88.16
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 14:33","ETH","update","channel","yes","2339.35","2363.4","2325.4","2216.9","📈 ETH +1.1% in 53 min, now $2,339
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $21.6M in 53 min
+- Open positions up 1.0% on Hyperliquid during the move, up 0.4% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2,313
 Today's high: $2,360
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 14:36","BTC","update","channel","yes","81199.5","81747","80613","76772","📈 BTC +1.6% in 57 min, now $81,200
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $41.8M in 57 min
+- About $2.0M of BTC shorts were liquidated on Bybit in the last 57 min
 Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $79,891
 Today's high: $81,350
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 14:37","kPEPE","update","watchlist","yes","0.005052","0.0051","0.005291","0.005094","📈 kPEPE +4.4% in 31 min, now $0.005052
+"2026-10-29 14:37","kPEPE","update","watchlist","no","0.005052","0.0051","0.005291","0.005094","📈 kPEPE +4.4% in 31 min, now $0.005052
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.4M in 31 min
@@ -2400,6 +2722,7 @@ LEVELS
 Move started: $0.004839
 Today's high: $0.005180
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 15:10","HYPE","followup","watchlist","no","94.1865","95.155","94.4","92.979","📈 HYPE up another 3.1% since the 13:10 UTC update, now $94.19
 (+7.5% since the move started at $87.58)
@@ -2407,16 +2730,19 @@ Information, not advice."
 - Open positions on Hyperliquid up 0.8% since 13:10 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 15:33","VVV","update","watchlist","yes","25.6115","25.742","24.878","22.29","📈 VVV +6.2% in 59 min, now $25.61
+"2026-10-29 15:33","VVV","update","watchlist","no","25.6115","25.742","24.878","22.29","📈 VVV +6.2% in 59 min, now $25.61
 
 WHAT'S HAPPENING
 - Price broke above today's high ($24.29)
+- Open positions up 2.0% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0037% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $24.12
 Today's high: $24.29
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 15:33","ETH","followup","channel","no","2366.95","2354","2336","2232.1","📈 ETH up another 1.2% since the 14:33 UTC update, now $2,367
 (+2.3% since the move started at $2,313)
@@ -2424,17 +2750,20 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.9% since 14:33 UTC (positions closing)
 
 Information, not advice."
-"2026-10-29 15:33","ZEC","update","watchlist","yes","1348.25","1347.7","1327","1243","📈 ZEC +4.4% in 44 min, now $1,348
+"2026-10-29 15:33","ZEC","update","watchlist","no","1348.25","1347.7","1327","1243","📈 ZEC +4.4% in 44 min, now $1,348
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1,317)
 - Buyers outpaced sellers on Hyperliquid by $18.1M in 44 min
+- Open positions up 2.1% on Hyperliquid during the move, up 1.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $310K of ZEC shorts were liquidated on OKX in the last 44 min
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $1,291
 Today's high: $1,317
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 15:42","kPEPE","followup","watchlist","no","0.005288","0.005341","0.005293","0.004994","📈 kPEPE up another 4.7% since the 14:37 UTC update, now $0.005288
 (+9.3% since the move started at $0.004839)
@@ -2448,16 +2777,18 @@ Information, not advice."
 - Open positions on Hyperliquid up 1.0% since 14:36 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 15:52","LIT","update","watchlist","yes","3.2367","3.2211","3.066","2.8059","📈 LIT +4.9% in 54 min, now $3.237
+"2026-10-29 15:52","LIT","update","watchlist","no","3.2367","3.2211","3.066","2.8059","📈 LIT +4.9% in 54 min, now $3.237
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $780.0K in 54 min
+- Open positions up 1.2% on Hyperliquid during the move, up 0.0% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $3.086
 Today's high: $3.242
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 16:02","kPEPE","followup","watchlist","no","0.005529","0.005396","0.005208","0.005044","📈 kPEPE up another 4.6% since the 15:42 UTC follow-up, now $0.005529
 (+14.3% since the move started at $0.004839)
@@ -2477,31 +2808,35 @@ Move started: $0.005027
 Today's high: $0.005180
 
 Information, not advice."
-"2026-10-29 16:14","HYPE","update","watchlist","yes","96.557","95.511","93.503","91.791","📈 HYPE +4.0% in 55 min, now $96.56
+"2026-10-29 16:14","HYPE","update","watchlist","no","96.557","95.511","93.503","91.791","📈 HYPE +4.0% in 55 min, now $96.56
 
 WHAT'S HAPPENING
 - Price broke above today's high ($94.64)
 - Buyers outpaced sellers on Hyperliquid by $51.3M in 55 min
+- About $317K of HYPE shorts were liquidated on OKX in the last 55 min
 Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $92.82
 Today's high: $94.64
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 16:15","PUMP","update","watchlist","yes","0.004653","0.004539","0.004337","0.004118","📈 PUMP +5.0% in 47 min, now $0.004653
+"2026-10-29 16:15","PUMP","update","watchlist","no","0.004653","0.004539","0.004337","0.004118","📈 PUMP +5.0% in 47 min, now $0.004653
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.004554)
 - Buyers outpaced sellers on Hyperliquid by $4.0M in 47 min
+- Open positions up 1.5% on Hyperliquid during the move, up 1.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.004433
 Today's high: $0.004554
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 16:19","kPEPE","update","watchlist","yes","0.005403","0.005443","0.005198","0.005076","📉 kPEPE -5.0% in 11 min, now $0.005403
+"2026-10-29 16:19","kPEPE","update","watchlist","no","0.005403","0.005443","0.005198","0.005076","📉 kPEPE -5.0% in 11 min, now $0.005403
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.3M in 11 min
@@ -2512,6 +2847,7 @@ LEVELS
 Move started: $0.005686
 Today's low: $0.004784
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 17:20","LIT","followup","watchlist","no","3.19255","3.2171","3.0628","2.7782","↩️ LIT has given back 60% of its rise ($3.086 → $3.355), now $3.193
 
@@ -2541,40 +2877,47 @@ Move started: $0.004433
 Highest in the move: $0.004653
 
 Information, not advice."
-"2026-10-29 19:46","LIT","update","watchlist","yes","3.0584","2.7667","2.7596","2.7347","📉 LIT -5.7% in 52 min, now $3.058
+"2026-10-29 19:46","LIT","update","watchlist","no","3.0584","2.7667","2.7596","2.7347","📉 LIT -5.7% in 52 min, now $3.058
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $428.7K in 52 min
+- Open positions down 0.5% on Hyperliquid during the move, down 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $3.242
 Today's low: $2.750
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:05","ETH","update","channel","yes","2309.15","2249.3","2247.3","2239.4","📉 ETH -1.2% in 13 min, now $2,309
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $18.4M in 13 min
+- Open positions down 0.6% on Hyperliquid during the move, down 0.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2,338
 Today's low: $2,292
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:06","BTC","update","channel","yes","80218.5","79037","78065","76953","📉 BTC -0.9% in 33 min, now $80,219
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $38.5M in 33 min
+- Open positions up 0.7% on Hyperliquid during the move, up 0.0% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $1.9M of BTC longs were liquidated on Bybit in the last 33 min
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $80,927
 Today's low: $79,668
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:33","kPEPE","update","watchlist","yes","0.005037","0.00497","0.004435","0.004965","📉 kPEPE -5.0% in 51 min, now $0.005037
+"2026-10-29 20:33","kPEPE","update","watchlist","no","0.005037","0.00497","0.004435","0.004965","📉 kPEPE -5.0% in 51 min, now $0.005037
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $582.4K in 51 min
@@ -2585,6 +2928,7 @@ LEVELS
 Move started: $0.005300
 Today's low: $0.004784
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:33","UNI","update","watchlist","no","6.92465","6.7647","6.3366","6.9006","📉 UNI -3.7% in 51 min, now $6.925
 
@@ -2597,60 +2941,71 @@ Move started: $7.194
 Today's low: $6.911
 
 Information, not advice."
-"2026-10-29 20:34","ENA","update","watchlist","yes","0.198595","0.19089","0.16803","0.18506","📉 ENA -5.8% in 51 min, now $0.1986
+"2026-10-29 20:34","ENA","update","watchlist","no","0.198595","0.19089","0.16803","0.18506","📉 ENA -5.8% in 51 min, now $0.1986
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $2.5M in 51 min
+- Open positions down 1.7% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.2108
 Today's low: $0.1936
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:35","SUI","update","watchlist","yes","0.90469","0.89709","0.84652","0.88523","📉 SUI -3.1% in 59 min, now $0.9047
+"2026-10-29 20:35","SUI","update","watchlist","no","0.90469","0.89709","0.84652","0.88523","📉 SUI -3.1% in 59 min, now $0.9047
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $516.6K in 59 min
+- Open positions down 2.1% on Hyperliquid during the move, down 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.9338
 Today's low: $0.8977
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:38","XMR","update","watchlist","yes","619.485","620.83","616.55","597.16","📈 XMR +3.5% in 31 min, now $619.49
+"2026-10-29 20:38","XMR","update","watchlist","no","619.485","620.83","616.55","597.16","📈 XMR +3.5% in 31 min, now $619.49
 
 WHAT'S HAPPENING
 - Price broke above today's high ($618.22)
 - Buyers outpaced sellers on Hyperliquid by $1.0M in 31 min
+- Open positions up 0.6% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $598.34
 Today's high: $618.22
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:39","ZEC","update","watchlist","yes","1272.65","1295","1214.9","1226.1","📉 ZEC -4.4% in 49 min, now $1,273
+"2026-10-29 20:39","ZEC","update","watchlist","no","1272.65","1295","1214.9","1226.1","📉 ZEC -4.4% in 49 min, now $1,273
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $13.3M in 49 min
+- Open positions down 1.1% on Hyperliquid during the move, down 2.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $1,331
 Today's low: $1,230
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:40","PUMP","update","watchlist","yes","0.004213","0.004218","0.003856","0.004055","📉 PUMP -5.0% in 49 min, now $0.004213
+"2026-10-29 20:40","PUMP","update","watchlist","no","0.004213","0.004218","0.003856","0.004055","📉 PUMP -5.0% in 49 min, now $0.004213
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $2.7M in 49 min
+- Open positions down 2.6% on Hyperliquid during the move, down 1.9% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $0.004437
 Today's low: $0.004165
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:40","LIT","followup","watchlist","no","2.90745","3.05","2.6744","2.7188","📉 LIT down another 4.9% since the 19:46 UTC update, now $2.907
 (-10.3% since the move started at $3.242)
@@ -2670,15 +3025,18 @@ Information, not advice."
 - Open positions on Hyperliquid up 1.2% since 20:06 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 20:42","XPL","update","watchlist","yes","0.072962","0.071543","0.073116","0.08026","📉 XPL -5.3% in 44 min, now $0.07296
+"2026-10-29 20:42","XPL","update","watchlist","no","0.072962","0.071543","0.073116","0.08026","📉 XPL -5.3% in 44 min, now $0.07296
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.07379)
+- Open positions up 4.1% on Hyperliquid during the move, up 3.0% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.07702
 Today's low: $0.07379
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:42","UNI","followup","watchlist","no","6.67855","6.702","6.3677","6.9183","📉 UNI down another 3.6% since the 20:33 UTC update, now $6.679
 (-7.2% since the move started at $7.194)
@@ -2690,25 +3048,32 @@ Information, not advice."
 - Sellers outpaced buyers on Hyperliquid by $26.0M since 20:41 UTC
 
 Information, not advice."
-"2026-10-29 20:43","XRP","update","watchlist","yes","1.23385","1.2579","1.2155","1.2493","📉 XRP -4.1% in 60 min, now $1.234
+"2026-10-29 20:43","XRP","update","watchlist","no","1.23385","1.2579","1.2155","1.2493","📉 XRP -4.1% in 60 min, now $1.234
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1.279)
+- About $4.2M of XRP longs were liquidated in the last 60 min (Bybit $3.4M, OKX $791K)
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $1.286
 Today's low: $1.279
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:43","WLD","update","watchlist","yes","0.39028","0.39518","0.37105","0.40175","📉 WLD -6.8% in 52 min, now $0.3903
+"2026-10-29 20:43","WLD","update","watchlist","no","0.39028","0.39518","0.37105","0.40175","📉 WLD -6.8% in 52 min, now $0.3903
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.4088)
+- Open positions down 2.1% on Hyperliquid during the move, down 1.9% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $380K of WLD longs were liquidated on Bybit in the last 52 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.4187
 Today's low: $0.4088
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:43","kPEPE","followup","watchlist","no","0.004813","0.00491","0.004487","0.004968","📉 kPEPE down another 4.4% since the 20:33 UTC update, now $0.004813
 (-9.2% since the move started at $0.005300)
@@ -2720,12 +3085,16 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.4% since 20:35 UTC (positions closing)
 
 Information, not advice."
-"2026-10-29 20:44","VVV","update","watchlist","yes","23.298","23.382","22.191","22.139","📉 VVV -6.4% in 46 min, now $23.30
+"2026-10-29 20:44","VVV","update","watchlist","no","23.298","23.382","22.191","22.139","📉 VVV -6.4% in 46 min, now $23.30
+
+WHAT'S HAPPENING
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $24.89
 Today's low: $22.59
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:45","LIT","followup","watchlist","no","2.76215","2.9752","2.6895","2.7185","📉 LIT down another 5.0% since the 20:40 UTC follow-up, now $2.762
 (-14.8% since the move started at $3.242)
@@ -2741,29 +3110,43 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.1% since 20:42 UTC (positions closing)
 
 Information, not advice."
-"2026-10-29 20:46","HYPE","update","watchlist","yes","90.254","92.613","90.475","90.008","📉 HYPE -4.1% in 56 min, now $90.25
+"2026-10-29 20:46","HYPE","update","watchlist","no","90.254","92.613","90.475","90.008","📉 HYPE -4.1% in 56 min, now $90.25
+
+WHAT'S HAPPENING
+- Open positions down 2.1% on Hyperliquid during the move, down 1.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $385K of HYPE longs were liquidated on OKX in the last 56 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $94.07
 Today's low: $78.09
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:46","LIT","update","watchlist","yes","2.7755","2.9619","2.7013","2.7222","📉 LIT -9.8% in 56 min, now $2.776
+"2026-10-29 20:46","LIT","update","watchlist","no","2.7755","2.9619","2.7013","2.7222","📉 LIT -9.8% in 56 min, now $2.776
+
+WHAT'S HAPPENING
+- Open positions down 4.1% on Hyperliquid during the move, down 2.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $3.078
 Today's low: $2.750
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:46","SOL","update","watchlist","yes","96.172","97.309","93.965","95.001","📉 SOL -4.0% in 57 min, now $96.17
+"2026-10-29 20:46","SOL","update","watchlist","no","96.172","97.309","93.965","95.001","📉 SOL -4.0% in 57 min, now $96.17
 
 WHAT'S HAPPENING
 - Price fell below today's low ($99.20)
+- About $4.8M of SOL longs were liquidated in the last 57 min (Bybit $3.7M, OKX $1.1M)
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $100.22
 Today's low: $99.20
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:47","ZEC","followup","watchlist","no","1216.05","1266.1","1224.4","1230.2","📉 ZEC down another 4.4% since the 20:39 UTC update, now $1,216
 (-8.6% since the move started at $1,331)
@@ -2788,15 +3171,19 @@ Information, not advice."
 - Open positions on Hyperliquid down 2.4% since 20:41 UTC (positions closing)
 
 Information, not advice."
-"2026-10-29 20:47","NEAR","update","watchlist","yes","4.12405","4.1756","3.9727","4.2991","📉 NEAR -6.6% in 56 min, now $4.124
+"2026-10-29 20:47","NEAR","update","watchlist","no","4.12405","4.1756","3.9727","4.2991","📉 NEAR -6.6% in 56 min, now $4.124
 
 WHAT'S HAPPENING
 - Price fell below today's low ($4.285)
+- Open positions down 0.5% on Hyperliquid during the move, down 0.5% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $888K of NEAR longs were liquidated on Bybit in the last 56 min
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $4.416
 Today's low: $4.285
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:49","HYPE","followup","watchlist","no","92.9","92.825","90.733","90.001","↩️ HYPE has given back 71% of its drop ($94.07 → $90.01), now $92.90
 
@@ -2805,15 +3192,18 @@ Move started: $94.07
 Lowest in the move: $90.01
 
 Information, not advice."
-"2026-10-29 20:49","LIT","update","watchlist","yes","2.84245","2.9514","2.7079","2.7156","📈 LIT +4.9% in 2 min, now $2.842
+"2026-10-29 20:49","LIT","update","watchlist","no","2.84245","2.9514","2.7079","2.7156","📈 LIT +4.9% in 2 min, now $2.842
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $302.9K in 2 min
+- Open positions down 0.6% on Hyperliquid during the move, down 2.7% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2.711
 Today's high: $3.356
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:49","XMR","followup","watchlist","no","638.25","615.17","618.9","597.4","📈 XMR up another 3.0% since the 20:38 UTC update, now $638.25
 (+6.7% since the move started at $598.34)
@@ -2825,32 +3215,40 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $17.1M in 3 min
+- Open positions down 1.2% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2,232
 Today's high: $2,378
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:50","BTC","update","channel","yes","79279.5","79261","76977","76967","📈 BTC +1.3% in 3 min, now $79,280
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $31.4M in 3 min
+- Open positions down 0.6% on Hyperliquid during the move, up 0.8% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $78,282
 Today's high: $81,955
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:51","XPL","update","watchlist","yes","0.070602","0.070982","0.07413","0.079896","📈 XPL +4.5% in 4 min, now $0.07060
+"2026-10-29 20:51","XPL","update","watchlist","no","0.070602","0.070982","0.07413","0.079896","📈 XPL +4.5% in 4 min, now $0.07060
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $138.2K in 4 min
+- Open positions down 0.5% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.06756
 Today's high: $0.07947
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:51","HYPE","update","watchlist","no","93.7735","92.651","91.308","89.899","📈 HYPE +4.2% in 3 min, now $93.77
 
@@ -2867,31 +3265,42 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Price fell below today's low ($79,668)
+- Open positions down 1.1% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $27.6M of BTC longs were liquidated in the last 58 min (Bybit $26.3M, OKX $1.3M)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $80,888
 Today's low: $79,668
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:52","ETH","update","channel","yes","2257.9","2271.3","2215.5","2238","📉 ETH -3.4% in 58 min, now $2,258
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,292)
+- Open positions down 0.9% on Hyperliquid during the move, down 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $18.5M of ETH longs were liquidated in the last 58 min (Bybit $16.9M, OKX $1.6M)
+Price and open positions both fell. Buying and selling on Hyperliquid were about even (Coinalyze figures).
 
 LEVELS
 Move started: $2,338
 Today's low: $2,292
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 20:53","XPL","update","watchlist","yes","0.06926","0.070552","0.07423","0.079972","📉 XPL -10.1% in 55 min, now $0.06926
+"2026-10-29 20:53","XPL","update","watchlist","no","0.06926","0.070552","0.07423","0.079972","📉 XPL -10.1% in 55 min, now $0.06926
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.07379)
+- Open positions up 0.7% on Hyperliquid during the move, up 1.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $0.07702
 Today's low: $0.07379
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 20:55","XMR","update","watchlist","no","624.7","612.86","621.52","600","📉 XMR -4.5% in 5 min, now $624.70
 
@@ -2911,10 +3320,11 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.0% since 20:49 UTC (positions closing)
 
 Information, not advice."
-"2026-10-29 21:03","HYPE","update","watchlist","yes","92.2535","92.716","91.155","90.495","📉 HYPE -3.0% in 10 min, now $92.25
+"2026-10-29 21:03","HYPE","update","watchlist","no","92.2535","92.716","91.155","90.495","📉 HYPE -3.0% in 10 min, now $92.25
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $16.2M in 10 min
+- Open positions up 0.7% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0074% per hour, the highest in 7 days (longs pay shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
@@ -2922,16 +3332,20 @@ LEVELS
 Move started: $95.15
 Today's low: $78.09
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:10","SUI","update","watchlist","yes","0.88496","0.88033","0.85506","0.89032","📈 SUI +3.0% in 23 min, now $0.8850
+"2026-10-29 21:10","SUI","update","watchlist","no","0.88496","0.88033","0.85506","0.89032","📈 SUI +3.0% in 23 min, now $0.8850
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $596.5K in 23 min
+- Open positions up 3.6% on Hyperliquid during the move, up 1.5% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.8589
 Today's high: $0.9617
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 21:10","XMR","followup","watchlist","no","638.615","615.47","633.93","595.8","↩️ XMR has given back 61% of its drop ($653.81 → $614.57), now $638.62
 
@@ -2940,89 +3354,114 @@ Move started: $653.81
 Lowest in the move: $614.57
 
 Information, not advice."
-"2026-10-29 21:13","PUMP","update","watchlist","yes","0.004165","0.004117","0.003885","0.004064","📈 PUMP +5.4% in 26 min, now $0.004165
+"2026-10-29 21:13","PUMP","update","watchlist","no","0.004165","0.004117","0.003885","0.004064","📈 PUMP +5.4% in 26 min, now $0.004165
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.8M in 26 min
+- Open positions up 0.5% on Hyperliquid during the move, down 2.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.003953
 Today's high: $0.004658
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:14","ZEC","update","watchlist","yes","1258.9","1263.8","1231.7","1235.2","📈 ZEC +4.4% in 27 min, now $1,259
+"2026-10-29 21:14","ZEC","update","watchlist","no","1258.9","1263.8","1231.7","1235.2","📈 ZEC +4.4% in 27 min, now $1,259
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $16.3M in 27 min
+- Open positions down 1.6% on Hyperliquid during the move, down 6.0% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $1,206
 Today's high: $1,400
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 21:15","BTC","update","channel","yes","79288.5","78809","77285","76667","📈 BTC +1.3% in 28 min, now $79,289
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $95.8M in 28 min
+- Open positions up 4.2% on Hyperliquid during the move, up 3.0% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $1.1M of BTC longs were liquidated on OKX in the last 28 min
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $78,282
 Today's high: $81,955
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:15","WLD","update","watchlist","yes","0.39533","0.38818","0.37638","0.40252","📈 WLD +4.6% in 28 min, now $0.3953
+"2026-10-29 21:15","WLD","update","watchlist","no","0.39533","0.38818","0.37638","0.40252","📈 WLD +4.6% in 28 min, now $0.3953
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $624.4K in 28 min
+- Open positions down 3.4% on Hyperliquid during the move, down 3.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.3780
 Today's high: $0.4439
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:16","HYPE","update","watchlist","yes","93.6355","92.11","90.152","89.938","📈 HYPE +4.0% in 29 min, now $93.64
+"2026-10-29 21:16","HYPE","update","watchlist","no","93.6355","92.11","90.152","89.938","📈 HYPE +4.0% in 29 min, now $93.64
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $28.0M in 29 min
+- Open positions up 1.6% on Hyperliquid during the move, down 0.4% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0125% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $90.01
 Today's high: $97.12
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:17","XPL","update","watchlist","yes","0.071176","0.072221","0.073436","0.080419","📈 XPL +5.4% in 30 min, now $0.07118
+"2026-10-29 21:17","XPL","update","watchlist","no","0.071176","0.072221","0.073436","0.080419","📈 XPL +5.4% in 30 min, now $0.07118
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $675.0K in 30 min
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.06756
 Today's high: $0.07947
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 21:17","ETH","update","channel","yes","2285.05","2261.5","2216.5","2240.9","📈 ETH +2.4% in 30 min, now $2,285
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $42.9M in 30 min
+- Open positions down 1.0% on Hyperliquid during the move, up 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $1.3M of ETH shorts were liquidated on OKX in the last 30 min
+Price rose while open positions fell (positions closing). Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2,232
 Today's high: $2,378
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:17","XMR","update","watchlist","yes","641.21","617.81","632.64","596.1","📈 XMR +7.1% in 49 min, now $641.21
+"2026-10-29 21:17","XMR","update","watchlist","no","641.21","617.81","632.64","596.1","📈 XMR +7.1% in 49 min, now $641.21
 
 WHAT'S HAPPENING
 - Price broke above today's high ($618.22)
+- Open positions up 11.7% on Hyperliquid during the move, up 12.9% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0364% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit and Hyperliquid.
 
 LEVELS
 Move started: $598.70
 Today's high: $618.22
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:18","kPEPE","update","watchlist","yes","0.005003","0.004489","0.00462","0.004939","📈 kPEPE +4.6% in 31 min, now $0.005003
+"2026-10-29 21:18","kPEPE","update","watchlist","no","0.005003","0.004489","0.00462","0.004939","📈 kPEPE +4.6% in 31 min, now $0.005003
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $4.0M in 31 min
@@ -3033,50 +3472,62 @@ LEVELS
 Move started: $0.004783
 Today's high: $0.005715
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:18","XRP","update","watchlist","yes","1.25975","1.2473","1.2154","1.2505","📈 XRP +3.1% in 31 min, now $1.260
+"2026-10-29 21:18","XRP","update","watchlist","no","1.25975","1.2473","1.2154","1.2505","📈 XRP +3.1% in 31 min, now $1.260
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $10.2M in 31 min
+- Open positions up 3.0% on Hyperliquid during the move, down 1.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $1.222
 Today's high: $1.327
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:18","SOL","update","watchlist","yes","97.8745","96.978","94.117","95.239","📈 SOL +3.0% in 31 min, now $97.87
+"2026-10-29 21:18","SOL","update","watchlist","no","97.8745","96.978","94.117","95.239","📈 SOL +3.0% in 31 min, now $97.87
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $10.8M in 31 min
+- Open positions up 0.9% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $94.98
 Today's high: $103.17
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:18","UNI","update","watchlist","yes","6.80855","6.4328","6.5504","6.9278","📈 UNI +4.8% in 31 min, now $6.809
+"2026-10-29 21:18","UNI","update","watchlist","no","6.80855","6.4328","6.5504","6.9278","📈 UNI +4.8% in 31 min, now $6.809
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.8M in 31 min
 - Funding on Hyperliquid -0.0026% per hour, the lowest in 7 days (shorts pay longs)
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $6.499
 Today's high: $7.520
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:20","XMR","update","watchlist","yes","623.935","618.14","629.77","596.11","📉 XMR -4.6% in 29 min, now $623.94
+"2026-10-29 21:20","XMR","update","watchlist","no","623.935","618.14","629.77","596.11","📉 XMR -4.6% in 29 min, now $623.94
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $192.8K in 29 min
+- Open positions up 2.2% on Hyperliquid during the move, up 12.4% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0358% per hour, the highest in 7 days (longs pay shorts)
+Price fell while open positions rose (new positions opening). Buying and selling were about even across Bybit and Hyperliquid.
 
 LEVELS
 Move started: $653.81
 Today's low: $584.00
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:51","kPEPE","update","watchlist","yes","0.004793","0.004478","0.00464","0.004944","📉 kPEPE -4.7% in 32 min, now $0.004793
+"2026-10-29 21:51","kPEPE","update","watchlist","no","0.004793","0.004478","0.00464","0.004944","📉 kPEPE -4.7% in 32 min, now $0.004793
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.8M in 32 min
@@ -3088,11 +3539,13 @@ LEVELS
 Move started: $0.005028
 Today's low: $0.004763
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:51","UNI","update","watchlist","yes","6.5569","6.4535","6.5186","6.9618","📉 UNI -3.7% in 33 min, now $6.557
+"2026-10-29 21:51","UNI","update","watchlist","no","6.5569","6.4535","6.5186","6.9618","📉 UNI -3.7% in 33 min, now $6.557
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.7M in 33 min
+- Open positions up 5.0% on Hyperliquid during the move, up 2.9% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0022% per hour, the lowest in 7 days (shorts pay longs)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
@@ -3100,11 +3553,13 @@ LEVELS
 Move started: $6.809
 Today's low: $6.490
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 21:51","HYPE","update","watchlist","yes","92.3805","91.646","89.828","89.235","📉 HYPE -3.0% in 14 min, now $92.38
+"2026-10-29 21:51","HYPE","update","watchlist","no","92.3805","91.646","89.828","89.235","📉 HYPE -3.0% in 14 min, now $92.38
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $13.4M in 14 min
+- Open positions down 0.9% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0083% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
@@ -3112,6 +3567,7 @@ LEVELS
 Move started: $95.24
 Today's low: $78.09
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 22:00","UNI","followup","watchlist","no","6.3203","6.4324","6.5513","6.9551","📉 UNI down another 3.6% since the 21:51 UTC update, now $6.320
 (-7.2% since the move started at $6.809)
@@ -3131,11 +3587,14 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $71.4M in 46 min
+- Open positions up 1.3% on Hyperliquid during the move, up 2.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $79,802
 Today's low: $78,163
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 22:07","ETH","followup","channel","no","2253.05","2263.7","2189.8","2239.9","↩️ ETH has given back 66% of its rise ($2,232 → $2,294), now $2,253
 
@@ -3144,15 +3603,18 @@ Move started: $2,232
 Highest in the move: $2,294
 
 Information, not advice."
-"2026-10-29 22:07","PUMP","update","watchlist","yes","0.004044","0.004045","0.003845","0.004097","📉 PUMP -5.1% in 48 min, now $0.004044
+"2026-10-29 22:07","PUMP","update","watchlist","no","0.004044","0.004045","0.003845","0.004097","📉 PUMP -5.1% in 48 min, now $0.004044
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.7M in 48 min
+- Open positions down 2.2% on Hyperliquid during the move, down 0.3% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.004261
 Today's low: $0.003925
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 22:07","SUI","followup","watchlist","no","0.87266","0.87394","0.8525","0.89608","↩️ SUI has given back 67% of its rise ($0.8589 → $0.9000), now $0.8727
 
@@ -3161,32 +3623,38 @@ Move started: $0.8589
 Highest in the move: $0.9000
 
 Information, not advice."
-"2026-10-29 22:10","LIT","update","watchlist","yes","2.8865","2.7866","2.7363","2.7066","📉 LIT -6.5% in 50 min, now $2.887
+"2026-10-29 22:10","LIT","update","watchlist","no","2.8865","2.7866","2.7363","2.7066","📉 LIT -6.5% in 50 min, now $2.887
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.5M in 50 min
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $3.086
 Today's low: $2.698
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 22:12","UNI","update","watchlist","yes","6.47775","6.3707","6.5637","6.9984","📈 UNI +3.8% in 9 min, now $6.478
+"2026-10-29 22:12","UNI","update","watchlist","no","6.47775","6.3707","6.5637","6.9984","📈 UNI +3.8% in 9 min, now $6.478
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $2.5M in 9 min
+- Open positions down 5.3% on Hyperliquid during the move, up 8.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0090% per hour, the lowest in 7 days (shorts pay longs)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $6.240
 Today's high: $7.520
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 22:17","UNI","update","watchlist","yes","6.3887","6.3803","6.6284","6.9896","📉 UNI -6.2% in 59 min, now $6.389
+"2026-10-29 22:17","UNI","update","watchlist","no","6.3887","6.3803","6.6284","6.9896","📉 UNI -6.2% in 59 min, now $6.389
 
 WHAT'S HAPPENING
 - Price fell below today's low ($6.490)
 - Sellers outpaced buyers on Hyperliquid by $5.5M in 59 min
+- Open positions up 9.2% on Hyperliquid during the move, up 9.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0070% per hour, the lowest in 7 days (shorts pay longs)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
@@ -3194,17 +3662,21 @@ LEVELS
 Move started: $6.809
 Today's low: $6.490
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-29 22:18","UNI","update","watchlist","yes","6.47025","6.397","6.6284","6.9869","📈 UNI +3.7% in 15 min, now $6.470
+"2026-10-29 22:18","UNI","update","watchlist","no","6.47025","6.397","6.6284","6.9869","📈 UNI +3.7% in 15 min, now $6.470
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $2.8M in 15 min
+- Open positions down 6.1% on Hyperliquid during the move, up 9.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0061% per hour, the lowest in 7 days (shorts pay longs)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $6.240
 Today's high: $7.520
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 22:52","ENA","followup","watchlist","no","0.175525","0.17595","0.18083","0.18981","📉 ENA down another 5.8% since the 20:47 UTC follow-up, now $0.1755
 (-16.7% since the move started at $0.2108)
@@ -3213,17 +3685,21 @@ Information, not advice."
 - Open positions on Hyperliquid up 9.3% since 20:47 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 22:52","ENA","update","watchlist","yes","0.175405","0.17595","0.18083","0.18981","📉 ENA -6.4% in 55 min, now $0.1754
+"2026-10-29 22:52","ENA","update","watchlist","no","0.175405","0.17595","0.18083","0.18981","📉 ENA -6.4% in 55 min, now $0.1754
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.1834)
 - Sellers outpaced buyers on Hyperliquid by $5.0M in 55 min
+- Open positions up 7.6% on Hyperliquid during the move, up 5.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+- About $278K of ENA longs were liquidated on Bybit in the last 55 min
 - Funding on Hyperliquid -0.0052% per hour, the lowest in 7 days (shorts pay longs)
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.1874
 Today's low: $0.1834
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 22:55","ZEC","followup","watchlist","no","1240.85","1228.7","1264.7","1241.7","↩️ ZEC has given back 62% of its rise ($1,206 → $1,298), now $1,241
 
@@ -3246,7 +3722,7 @@ Information, not advice."
 - Open positions on Hyperliquid up 11.2% since 21:17 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-29 23:22","kPEPE","update","watchlist","yes","0.004636","0.004449","0.004794","0.004966","📈 kPEPE +5.2% in 14 min, now $0.004636
+"2026-10-29 23:22","kPEPE","update","watchlist","no","0.004636","0.004449","0.004794","0.004966","📈 kPEPE +5.2% in 14 min, now $0.004636
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $3.6M in 14 min
@@ -3257,6 +3733,7 @@ LEVELS
 Move started: $0.004408
 Today's high: $0.005715
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-29 23:46","HYPE","followup","watchlist","no","89.585","90.475","92.642","89.968","📉 HYPE down another 3.0% since the 21:51 UTC update, now $89.59
 (-5.9% since the move started at $95.24)
@@ -3310,33 +3787,45 @@ Information, not advice."
 (shorts pay longs; the lowest rate in 30 days)
 
 Information, not advice."
+"2026-10-30 00:10","ETH","funding","channel","no","2243.6","2212.6","2231.3","2243.7","💸 ETH funding across Bybit and Hyperliquid at its lowest in 30 days (average -0.0034% per hour)
+(shorts pay longs; the lowest rate in 30 days)
+Data: Coinalyze
+
+Information, not advice."
 "2026-10-30 00:18","BTC","followup","channel","no","77269.5","77148","78238","77404","📉 BTC down another 0.8% since the 00:00 UTC follow-up, now $77,270
 (-3.2% since the move started at $79,802)
 
 - Sellers outpaced buyers on Hyperliquid by $91.0M since 00:00 UTC
 
 Information, not advice."
-"2026-10-30 00:18","ETH","update","channel","yes","2213.55","2213.8","2238.5","2246.5","📉 ETH -2.5% in 45 min, now $2,214
+"2026-10-30 00:18","ETH","update","channel","no","2213.55","2213.8","2238.5","2246.5","📉 ETH -2.5% in 45 min, now $2,214
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2,227)
+- Open positions down 0.6% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $6.0M of ETH longs were liquidated in the last 45 min (Bybit $5.5M, OKX $543K)
 - Funding on Hyperliquid -0.0057% per hour, the lowest in 7 days (shorts pay longs)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $2,271
 Today's low: $2,227
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 00:18","BTC","update","channel","yes","77244.5","77148","78238","77404","📉 BTC -2.1% in 60 min, now $77,245
 
 WHAT'S HAPPENING
 - Price fell below today's low ($78,163)
+- About $21.9M of BTC longs were liquidated in the last 60 min (Bybit $17.3M, OKX $4.6M)
 - Funding on Hyperliquid -0.0011% per hour, the lowest in 7 days (shorts pay longs)
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $78,866
 Today's low: $78,163
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 00:19","PUMP","followup","watchlist","no","0.003818","0.003864","0.004061","0.004166","📉 PUMP down another 5.6% since the 22:07 UTC update, now $0.003818
 (-10.4% since the move started at $0.004261)
@@ -3344,41 +3833,52 @@ Information, not advice."
 - Open positions on Hyperliquid down 5.0% since 22:07 UTC (positions closing)
 
 Information, not advice."
-"2026-10-30 00:19","WLD","update","watchlist","yes","0.36564","0.37464","0.38841","0.40851","📉 WLD -6.2% in 58 min, now $0.3656
+"2026-10-30 00:19","WLD","update","watchlist","no","0.36564","0.37464","0.38841","0.40851","📉 WLD -6.2% in 58 min, now $0.3656
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.3763)
+- Open positions up 2.5% on Hyperliquid during the move, down 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Buying and selling on Hyperliquid were about even (Coinalyze figures).
 
 LEVELS
 Move started: $0.3897
 Today's low: $0.3763
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:19","SUI","update","watchlist","yes","0.84671","0.85877","0.88884","0.90855","📉 SUI -4.2% in 58 min, now $0.8467
+"2026-10-30 00:19","SUI","update","watchlist","no","0.84671","0.85877","0.88884","0.90855","📉 SUI -4.2% in 58 min, now $0.8467
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.8578)
+- Open positions up 1.5% on Hyperliquid during the move, up 0.3% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price fell while open positions rose (new positions opening). Buying and selling on Hyperliquid were about even (Coinalyze figures).
 
 LEVELS
 Move started: $0.8839
 Today's low: $0.8578
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:21","SOL","update","watchlist","yes","93.062","94.21","97.188","96.406","📉 SOL -4.0% in 57 min, now $93.06
+"2026-10-30 00:21","SOL","update","watchlist","no","93.062","94.21","97.188","96.406","📉 SOL -4.0% in 57 min, now $93.06
 
 WHAT'S HAPPENING
 - Price fell below today's low ($94.81)
+- Open positions down 0.6% on Hyperliquid during the move, down 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+- About $3.7M of SOL longs were liquidated in the last 57 min (Bybit $3.1M, OKX $551K)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $96.96
 Today's low: $94.81
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:22","XPL","update","watchlist","yes","0.070666","0.072835","0.076433","0.081878","📉 XPL -4.6% in 18 min, now $0.07067
+"2026-10-30 00:22","XPL","update","watchlist","no","0.070666","0.072835","0.076433","0.081878","📉 XPL -4.6% in 18 min, now $0.07067
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.07270)
 - Sellers outpaced buyers on Hyperliquid by $367.1K in 18 min
+- Open positions up 2.4% on Hyperliquid during the move, up 3.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0101% per hour, the highest in 7 days (longs pay shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
@@ -3386,6 +3886,7 @@ LEVELS
 Move started: $0.07408
 Today's low: $0.07270
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 00:23","LIT","followup","watchlist","no","2.6126","2.7272","2.9048","2.7539","📉 LIT down another 4.8% since the 23:47 UTC follow-up, now $2.613
 (-15.3% since the move started at $3.086)
@@ -3394,27 +3895,32 @@ Information, not advice."
 - Open positions on Hyperliquid down 1.9% since 23:47 UTC (positions closing)
 
 Information, not advice."
-"2026-10-30 00:23","LIT","update","watchlist","yes","2.6145","2.7272","2.9048","2.7539","📉 LIT -6.7% in 58 min, now $2.615
+"2026-10-30 00:23","LIT","update","watchlist","no","2.6145","2.7272","2.9048","2.7539","📉 LIT -6.7% in 58 min, now $2.615
 
 WHAT'S HAPPENING
 - Price fell below today's low ($2.698)
+- Open positions down 2.2% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price and open positions both fell. Sellers outpaced buyers on Hyperliquid (Coinalyze figures).
 
 LEVELS
 Move started: $2.804
 Today's low: $2.698
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:31","kPEPE","update","watchlist","yes","0.004336","0.00456","0.0049","0.004991","📉 kPEPE -7.1% in 60 min, now $0.004336
+"2026-10-30 00:31","kPEPE","update","watchlist","no","0.004336","0.00456","0.0049","0.004991","📉 kPEPE -7.1% in 60 min, now $0.004336
 
 WHAT'S HAPPENING
 - Price fell below today's low ($0.004371)
 - Open positions down 9.9% on Hyperliquid during the move, down 8.6% in 1 hour across Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0042% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both fell. Buying and selling on Hyperliquid were about even (Coinalyze figures).
 
 LEVELS
 Move started: $0.004668
 Today's low: $0.004371
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 00:32","XPL","followup","watchlist","no","0.073169","0.072659","0.076642","0.081648","↩️ XPL has given back 76% of its drop ($0.07408 → $0.07027), now $0.07317
 
@@ -3423,16 +3929,19 @@ Move started: $0.07408
 Lowest in the move: $0.07027
 
 Information, not advice."
-"2026-10-30 00:38","XPL","update","watchlist","yes","0.074059","0.074215","0.076657","0.081937","📈 XPL +5.5% in 15 min, now $0.07406
+"2026-10-30 00:38","XPL","update","watchlist","no","0.074059","0.074215","0.076657","0.081937","📈 XPL +5.5% in 15 min, now $0.07406
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $168.0K in 15 min
+- Open positions up 3.4% on Hyperliquid during the move, up 5.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0109% per hour, the highest in 7 days (longs pay shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.07020
 Today's high: $0.07412
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 00:45","kPEPE","followup","watchlist","no","0.004526","0.004646","0.004951","0.00498","↩️ kPEPE has given back 60% of its drop ($0.004668 → $0.004313), now $0.004526
 
@@ -3441,17 +3950,20 @@ Move started: $0.004668
 Lowest in the move: $0.004313
 
 Information, not advice."
-"2026-10-30 00:46","LIT","update","watchlist","yes","2.7057","2.7264","2.9333","2.7714","📈 LIT +4.8% in 19 min, now $2.706
+"2026-10-30 00:46","LIT","update","watchlist","no","2.7057","2.7264","2.9333","2.7714","📈 LIT +4.8% in 19 min, now $2.706
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $990.2K in 19 min
+- Open positions down 1.8% on Hyperliquid during the move, down 0.4% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2.582
 Today's high: $2.750
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:46","kPEPE","update","watchlist","yes","0.00458","0.00464","0.004955","0.004977","📈 kPEPE +6.4% in 15 min, now $0.004580
+"2026-10-30 00:46","kPEPE","update","watchlist","no","0.00458","0.00464","0.004955","0.004977","📈 kPEPE +6.4% in 15 min, now $0.004580
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $115.9K in 15 min
@@ -3463,73 +3975,88 @@ LEVELS
 Move started: $0.004304
 Today's high: $0.004585
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:50","HYPE","update","watchlist","yes","91.2505","89.65","92.261","89.844","📈 HYPE +3.0% in 27 min, now $91.25
+"2026-10-30 00:50","HYPE","update","watchlist","no","91.2505","89.65","92.261","89.844","📈 HYPE +3.0% in 27 min, now $91.25
 
 WHAT'S HAPPENING
 - Price broke above today's high ($89.82)
 - Buyers outpaced sellers on Hyperliquid by $24.3M in 27 min
+- Open positions up 0.9% on Hyperliquid during the move, up 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $88.57
 Today's high: $89.82
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:53","ZEC","update","watchlist","yes","1235.9","1235.9","1279.2","1282.8","📈 ZEC +4.5% in 30 min, now $1,236
+"2026-10-30 00:53","ZEC","update","watchlist","no","1235.9","1235.9","1279.2","1282.8","📈 ZEC +4.5% in 30 min, now $1,236
 
 WHAT'S HAPPENING
 - Price broke above today's high ($1,233)
 - Buyers outpaced sellers on Hyperliquid by $8.4M in 30 min
+- Open positions up 0.5% on Hyperliquid during the move, down 0.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $1,182
 Today's high: $1,233
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 00:59","UNI","update","watchlist","yes","6.5125","6.5529","6.8096","7.1446","📈 UNI +3.9% in 28 min, now $6.513
+"2026-10-30 00:59","UNI","update","watchlist","no","6.5125","6.5529","6.8096","7.1446","📈 UNI +3.9% in 28 min, now $6.513
 
 WHAT'S HAPPENING
 - Price broke above today's high ($6.507)
 - Buyers outpaced sellers on Hyperliquid by $904.6K in 28 min
+- Open positions up 1.8% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $6.269
 Today's high: $6.507
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 01:05","XMR","update","watchlist","yes","626.38","614.91","601.21","595.76","📈 XMR +4.2% in 42 min, now $626.38
+"2026-10-30 01:05","XMR","update","watchlist","no","626.38","614.91","601.21","595.76","📈 XMR +4.2% in 42 min, now $626.38
 
 WHAT'S HAPPENING
 - Price broke above today's high ($608.42)
 - Buyers outpaced sellers on Hyperliquid by $908.5K in 42 min
+Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit and Hyperliquid.
 
 LEVELS
 Move started: $601.04
 Today's high: $608.42
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 01:13","WLD","update","watchlist","yes","0.37708","0.37443","0.39639","0.40419","📈 WLD +4.6% in 50 min, now $0.3771
+"2026-10-30 01:13","WLD","update","watchlist","no","0.37708","0.37443","0.39639","0.40419","📈 WLD +4.6% in 50 min, now $0.3771
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.9M in 50 min
+- Open positions up 3.2% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.3604
 Today's high: $0.3830
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 01:13","SUI","update","watchlist","yes","0.86227","0.85683","0.90157","0.90744","📈 SUI +4.2% in 50 min, now $0.8623
+"2026-10-30 01:13","SUI","update","watchlist","no","0.86227","0.85683","0.90157","0.90744","📈 SUI +4.2% in 50 min, now $0.8623
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $156.1K in 50 min
+- Open positions up 2.2% on Hyperliquid during the move, down 0.8% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $0.8279
 Today's high: $0.8737
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 01:30","ETH","followup","channel","no","2179.65","2213.1","2247.5","2241.8","📉 ETH down another 1.5% since the 00:18 UTC update, now $2,180
 (-4.0% since the move started at $2,271)
@@ -3549,6 +4076,7 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $9.2M in 2 min
+- Open positions down 1.0% on Hyperliquid during the move, down 0.9% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid -0.0068% per hour, the lowest in 7 days (shorts pay longs)
 Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
 
@@ -3556,11 +4084,13 @@ LEVELS
 Move started: $2,173
 Today's high: $2,256
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 01:46","HYPE","update","watchlist","yes","89.0175","91.273","93.352","89.249","📉 HYPE -3.0% in 47 min, now $89.02
+"2026-10-30 01:46","HYPE","update","watchlist","no","89.0175","91.273","93.352","89.249","📉 HYPE -3.0% in 47 min, now $89.02
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $25.3M in 47 min
+- Open positions down 0.9% on Hyperliquid during the move, down 0.2% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 - Funding on Hyperliquid +0.0169% per hour, the highest in 7 days (longs pay shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
@@ -3568,6 +4098,7 @@ LEVELS
 Move started: $91.78
 Today's low: $88.50
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 01:52","XMR","followup","watchlist","no","617.135","608.5","590.95","600.37","↩️ XMR has given back 61% of its rise ($601.04 → $642.50), now $617.14
 
@@ -3576,16 +4107,18 @@ Move started: $601.04
 Highest in the move: $642.50
 
 Information, not advice."
-"2026-10-30 01:52","XMR","update","watchlist","yes","616.835","608.5","590.95","600.37","📉 XMR -4.0% in 40 min, now $616.84
+"2026-10-30 01:52","XMR","update","watchlist","no","616.835","608.5","590.95","600.37","📉 XMR -4.0% in 40 min, now $616.84
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.1M in 40 min
 - Funding on Hyperliquid +0.0274% per hour, the highest in 7 days (longs pay shorts)
+Price fell; open positions barely changed. Sellers outpaced buyers on Hyperliquid. Buying and selling were about even across Bybit and Hyperliquid.
 
 LEVELS
 Move started: $642.60
 Today's low: $601.00
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 02:03","ETH","followup","channel","no","2187.25","2214.7","2238.6","2242.5","↩️ ETH has given back 61% of its rise ($2,173 → $2,210), now $2,187
 
@@ -3612,11 +4145,14 @@ Information, not advice."
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $9.3M in 29 min
+- Open positions down 1.2% on Hyperliquid during the move, up 0.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid. Buying and selling were about even across Bybit, OKX and Hyperliquid.
 
 LEVELS
 Move started: $2,182
 Today's high: $2,256
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 02:37","HYPE","followup","watchlist","no","91.4915","92.394","93.721","89.603","↩️ HYPE has given back 90% of its drop ($91.78 → $88.80), now $91.49
 
@@ -3649,17 +4185,19 @@ Information, not advice."
 - Open positions on Hyperliquid up 1.1% since 00:59 UTC (new positions opening)
 
 Information, not advice."
-"2026-10-30 05:07","XMR","update","watchlist","yes","595.755","592.51","603.45","594.99","📉 XMR -3.1% in 49 min, now $595.76
+"2026-10-30 05:07","XMR","update","watchlist","no","595.755","592.51","603.45","594.99","📉 XMR -3.1% in 49 min, now $595.76
 
 WHAT'S HAPPENING
 - Price fell below today's low ($601.00)
 - Sellers outpaced buyers on Hyperliquid by $505.7K in 49 min
+- Open positions down 0.5% on Hyperliquid during the move, down 0.9% in 1 hour across Bybit and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $614.62
 Today's low: $601.00
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 05:11","ETH","followup","channel","no","2252.05","2244.9","2223.2","2240.6","📈 ETH up another 1.9% since the 02:34 UTC update, now $2,252
 (+3.2% since the move started at $2,182)
@@ -3667,18 +4205,20 @@ Information, not advice."
 - Open positions on Hyperliquid down 0.9% since 02:34 UTC (positions closing)
 
 Information, not advice."
-"2026-10-30 07:53","LIT","update","watchlist","yes","2.82195","2.8284","2.8188","2.713","📉 LIT -4.9% in 56 min, now $2.822
+"2026-10-30 07:53","LIT","update","watchlist","no","2.82195","2.8284","2.8188","2.713","📉 LIT -4.9% in 56 min, now $2.822
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $613.0K in 56 min
+- Open positions up 1.0% on Hyperliquid during the move, up 2.7% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $2.969
 Today's low: $2.566
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 10:58","kPEPE","update","watchlist","yes","0.005131","0.005206","0.005145","0.005","📈 kPEPE +5.1% in 54 min, now $0.005131
+"2026-10-30 10:58","kPEPE","update","watchlist","no","0.005131","0.005206","0.005145","0.005","📈 kPEPE +5.1% in 54 min, now $0.005131
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.005054)
@@ -3690,8 +4230,9 @@ LEVELS
 Move started: $0.004880
 Today's high: $0.005054
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 11:17","kPEPE","update","watchlist","yes","0.004982","0.005245","0.005263","0.005009","📉 kPEPE -5.7% in 12 min, now $0.004982
+"2026-10-30 11:17","kPEPE","update","watchlist","no","0.004982","0.005245","0.005263","0.005009","📉 kPEPE -5.7% in 12 min, now $0.004982
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $3.0M in 12 min
@@ -3702,6 +4243,7 @@ LEVELS
 Move started: $0.005283
 Today's low: $0.004291
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 11:26","kPEPE","followup","watchlist","no","0.005238","0.005224","0.005106","0.004997","↩️ kPEPE has given back 85% of its drop ($0.005283 → $0.004982), now $0.005238
 
@@ -3710,7 +4252,7 @@ Move started: $0.005283
 Lowest in the move: $0.004982
 
 Information, not advice."
-"2026-10-30 12:17","kPEPE","update","watchlist","yes","0.005248","0.005075","0.005068","0.005007","📈 kPEPE +5.4% in 60 min, now $0.005248
+"2026-10-30 12:17","kPEPE","update","watchlist","no","0.005248","0.005075","0.005068","0.005007","📈 kPEPE +5.4% in 60 min, now $0.005248
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $2.6M in 60 min
@@ -3721,73 +4263,86 @@ LEVELS
 Move started: $0.004979
 Today's high: $0.005286
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 14:42","LIT","update","watchlist","yes","2.8856","2.8455","2.7228","2.7715","📈 LIT +5.1% in 50 min, now $2.886
+"2026-10-30 14:42","LIT","update","watchlist","no","2.8856","2.8455","2.7228","2.7715","📈 LIT +5.1% in 50 min, now $2.886
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $636.3K in 50 min
+- Open positions up 0.9% on Hyperliquid during the move, up 0.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2.745
 Today's high: $2.988
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 14:49","XMR","update","watchlist","yes","598.74","599.94","591.31","594.82","📈 XMR +4.3% in 22 min, now $598.74
+"2026-10-30 14:49","XMR","update","watchlist","no","598.74","599.94","591.31","594.82","📈 XMR +4.3% in 22 min, now $598.74
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $1.1M in 22 min
+- Open positions up 1.7% on Hyperliquid during the move, up 0.9% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buying and selling on Hyperliquid were about even.
 
 LEVELS
 Move started: $574.32
 Today's high: $643.30
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 15:09","BTC","update","channel","yes","77693.5","77503","76566","77367","📈 BTC +1.4% in 32 min, now $77,694
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $62.5M in 32 min
+- Open positions up 1.3% on Hyperliquid during the move, up 2.1% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $76,635
 Today's high: $78,772
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 15:11","ETH","update","channel","yes","2250.05","2227.1","2235.3","2246.5","📈 ETH +1.6% in 54 min, now $2,250
+"2026-10-30 15:11","ETH","update","channel","no","2250.05","2227.1","2235.3","2246.5","📈 ETH +1.6% in 54 min, now $2,250
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $9.7M in 54 min
+- About $1.1M of ETH shorts were liquidated on OKX in the last 54 min
 Price rose; open positions barely changed. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $2,214
 Today's high: $2,257
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 15:17","SUI","update","watchlist","yes","0.905","0.89666","0.88202","0.90071","📈 SUI +3.3% in 60 min, now $0.9050
+"2026-10-30 15:17","SUI","update","watchlist","no","0.905","0.89666","0.88202","0.90071","📈 SUI +3.3% in 60 min, now $0.9050
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.9044)
 - Buyers outpaced sellers on Hyperliquid by $921.9K in 60 min
+- Open positions up 1.6% on Hyperliquid during the move, up 1.4% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.8760
 Today's high: $0.9044
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-30 15:23","HYPE","update","watchlist","yes","93.8355","91.354","90.24","87.107","📈 HYPE +3.3% in 58 min, now $93.84
+"2026-10-30 15:23","HYPE","update","watchlist","no","93.8355","91.354","90.24","87.107","📈 HYPE +3.3% in 58 min, now $93.84
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $25.2M in 58 min
+- Open positions up 1.1% on Hyperliquid during the move, up 0.9% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $90.87
 Today's high: $93.84
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-30 16:01","ETH","followup","channel","no","2216.85","2239.8","2240","2249.1","↩️ ETH has given back 93% of its rise ($2,214 → $2,261), now $2,217
 
@@ -3817,23 +4372,25 @@ Move started: $76,635
 Highest in the move: $78,081
 
 Information, not advice."
-"2026-10-30 19:53","XPL","update","watchlist","yes","0.080619","0.079972","0.081676","0.081628","📈 XPL +4.6% in 60 min, now $0.08062
+"2026-10-30 19:53","XPL","update","watchlist","no","0.080619","0.079972","0.081676","0.081628","📈 XPL +4.6% in 60 min, now $0.08062
 
 WHAT'S HAPPENING
 - Price broke above today's high ($0.07965)
 - Buyers outpaced sellers on Hyperliquid by $988.2K in 60 min
+- Open positions up 1.2% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.07709
 Today's high: $0.07965
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-31 06:10","TRX","funding","watchlist","no","0.32513","0.32421","0.31676","0.31071","💸 TRX funding on Hyperliquid at its highest in 30 days (+0.0014% per hour)
 (longs pay shorts; the highest rate in 30 days)
 
 Information, not advice."
-"2026-10-31 06:54","kPEPE","update","watchlist","yes","0.005011","0.005006","0.005005","0.004954","📈 kPEPE +3.4% in 58 min, now $0.005011
+"2026-10-31 06:54","kPEPE","update","watchlist","no","0.005011","0.005006","0.005005","0.004954","📈 kPEPE +3.4% in 58 min, now $0.005011
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.4M in 58 min
@@ -3844,6 +4401,7 @@ LEVELS
 Move started: $0.004844
 Today's high: $0.005025
 
+Data: Coinalyze
 Information, not advice."
 "2026-10-31 07:10","XPL","funding","watchlist","no","0.08084","0.080489","0.07989","0.073511","💸 XPL funding on Hyperliquid at its highest in 30 days (+0.0120% per hour)
 (longs pay shorts; the highest rate in 30 days)
@@ -3861,26 +4419,30 @@ Move started: $2.980
 Today's high: $3.052
 
 Information, not advice."
-"2026-10-31 19:51","XPL","update","watchlist","yes","0.082333","0.08181","0.081499","0.071289","📈 XPL +3.1% in 28 min, now $0.08233
+"2026-10-31 19:51","XPL","update","watchlist","no","0.082333","0.08181","0.081499","0.071289","📈 XPL +3.1% in 28 min, now $0.08233
 
 WHAT'S HAPPENING
 - Buyers outpaced sellers on Hyperliquid by $1.1M in 28 min
+- Open positions up 2.3% on Hyperliquid during the move, up 1.6% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
 Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
 
 LEVELS
 Move started: $0.07985
 Today's high: $0.08244
 
+Data: Coinalyze
 Information, not advice."
-"2026-10-31 22:52","ZEC","update","watchlist","yes","1248.35","1253.1","1240.6","1220.7","📉 ZEC -2.9% in 47 min, now $1,248
+"2026-10-31 22:52","ZEC","update","watchlist","no","1248.35","1253.1","1240.6","1220.7","📉 ZEC -2.9% in 47 min, now $1,248
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,254)
 - Sellers outpaced buyers on Hyperliquid by $20.5M in 47 min
+- Open positions down 2.6% on Hyperliquid during the move, down 2.1% in 1 hour across Bybit, OKX and Hyperliquid (positions closing; can't tell if mostly longs or shorts)
 Price and open positions both fell. Sellers outpaced buyers on Hyperliquid.
 
 LEVELS
 Move started: $1,285
 Today's low: $1,254
 
+Data: Coinalyze
 Information, not advice."
