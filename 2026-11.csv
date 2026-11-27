@@ -10856,11 +10856,44 @@ Move started: $760.07
 Highest in the move: $788.17
 
 Information, not advice."
-"2026-11-26 02:38","VVV","followup","watchlist","no","29.521","26.187","27.546",,"↩️ VVV has given back 60% of its rise ($28.81 → $30.61), now $29.52
+"2026-11-26 02:38","VVV","followup","watchlist","no","29.521","26.187","27.546","26.727","↩️ VVV has given back 60% of its rise ($28.81 → $30.61), now $29.52
 
 LEVELS
 Move started: $28.81
 Highest in the move: $30.61
+
+Information, not advice."
+"2026-11-26 02:47","VVV","extra","watchlist","yes","28.9965","26.47","27.682","26.773","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📉 VVV -4.6% in 36 min, now $29.00
+
+WHAT'S HAPPENING
+- Price fell below today's low ($29.03)
+- Sellers outpaced buyers on Hyperliquid by $1.8M in 36 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $30.40
+Today's low: $29.03
+
+Information, not advice."
+"2026-11-26 02:52","VVV","update","watchlist","yes","28.2955","26.826","27.73","26.756","📉 VVV -6.9% in 41 min, now $28.30
+
+WHAT'S HAPPENING
+- Price fell below today's low ($29.03)
+- Sellers outpaced buyers on Hyperliquid by $2.5M in 41 min
+Price fell while open positions rose (new positions opening). Sellers outpaced buyers on Hyperliquid.
+
+LEVELS
+Move started: $30.40
+Today's low: $29.03
+
+Information, not advice."
+"2026-11-26 03:23","VVV","followup","watchlist","no","26.3545","27.132","27.592","26.695","📉 VVV down another 6.9% since the alert at 02:52 UTC, now $26.35
+(-13.3% since the move started at $30.40)
+
+- Sellers outpaced buyers on Hyperliquid by $673.6K since 02:52 UTC
+- Open positions on Hyperliquid down 2.8% since 02:52 UTC (positions closing)
 
 Information, not advice."
 "2026-11-26 15:00","BTC","funding","channel","no","60682","60594","60451",,"💸 BTC funding on Hyperliquid at its lowest in 30 days (-0.0035% per hour)
@@ -10888,5 +10921,29 @@ Lowest in the move: $1,669
 Information, not advice."
 "2026-11-26 17:20","BTC","playout","channel","no","60521",,,,"⏱ 24 hours later: BTC $60,529, +1.5% since this update ($59,614).
 The move started at $58,096; the price is now above that.
+
+Information, not advice."
+"2026-11-27 02:26","BTC","update","channel","yes","61777.5",,,,"📈 BTC +2.0% in 34 min, now $61,778
+
+WHAT'S HAPPENING
+- Price broke above today's high ($60,846)
+- Buyers outpaced sellers on Hyperliquid by $100.7M in 34 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $60,588
+Today's high: $60,846
+
+Information, not advice."
+"2026-11-27 02:26","ETH","update","channel","yes","1731.95",,,,"📈 ETH +2.0% in 35 min, now $1,732
+
+WHAT'S HAPPENING
+- Price broke above today's high ($1,704)
+- Buyers outpaced sellers on Hyperliquid by $29.2M in 35 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $1,697
+Today's high: $1,704
 
 Information, not advice."
