@@ -10823,18 +10823,37 @@ Move started: $760.07
 Today's high: $770.34
 
 Information, not advice."
-"2026-11-26 00:26","ETH","followup","channel","no","1702.85","1704.4","1703.4",,"↩️ ETH has given back 61% of its rise ($1,688 → $1,726), now $1,703
+"2026-11-26 00:26","ETH","followup","channel","no","1702.85","1704.4","1703.4","1692","↩️ ETH has given back 61% of its rise ($1,688 → $1,726), now $1,703
 
 LEVELS
 Move started: $1,688
 Highest in the move: $1,726
 
 Information, not advice."
-"2026-11-26 00:36","BTC","followup","channel","no","60693.5","60674","61013",,"↩️ BTC has given back 60% of its rise ($60,158 → $61,499), now $60,694
+"2026-11-26 00:36","BTC","followup","channel","no","60693.5","60674","61013","60693","↩️ BTC has given back 60% of its rise ($60,158 → $61,499), now $60,694
 
 LEVELS
 Move started: $60,158
 Highest in the move: $61,499
+
+Information, not advice."
+"2026-11-26 00:45","VVV","update","watchlist","yes","30.1445","30.229","27.493","26.469","📈 VVV +4.6% in 60 min, now $30.14
+
+WHAT'S HAPPENING
+- Price broke above today's high ($29.31)
+- Buyers outpaced sellers on Hyperliquid by $1.4M in 60 min
+Price rose while open positions fell (positions closing). Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $28.81
+Today's high: $29.31
+
+Information, not advice."
+"2026-11-26 00:45","ZEC","followup","watchlist","no","771.085","773.23","769.01","698.6","↩️ ZEC has given back 61% of its rise ($760.07 → $788.17), now $771.09
+
+LEVELS
+Move started: $760.07
+Highest in the move: $788.17
 
 Information, not advice."
 "2026-11-26 15:00","BTC","funding","channel","no","60682","60594","60451",,"💸 BTC funding on Hyperliquid at its lowest in 30 days (-0.0035% per hour)
