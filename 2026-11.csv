@@ -12731,6 +12731,49 @@ Information, not advice."
 The move started at $58,096; the price is now above that.
 
 Information, not advice."
+"2026-11-26 19:16","ZRO","extra","watchlist","no","1.1161","1.1104","1.1208","1.0487","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 ZRO +4.1% in 56 min, now $1.116
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $454.6K in 56 min
+- Open positions up 1.9% on Hyperliquid during the move, up 1.2% in 1 hour across Bybit, OKX and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $1.073
+Today's high: $1.120
+
+Data: Coinalyze
+Information, not advice."
+"2026-11-26 19:17","XMR","extra","watchlist","no","440.81","450.86","453.9","398.49","➕ Beyond today's cap: you chose More, so you also get moves the daily cap held back.
+
+📈 XMR +2.8% in 2 min, now $440.81
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $989.7K in 2 min
+- Open positions up 2.1% on Hyperliquid during the move, up 0.7% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $428.64
+Today's high: $530.00
+
+Data: Coinalyze
+Information, not advice."
+"2026-11-26 19:18","XMR","update","watchlist","no","447.05","451.95","453.87","398.37","📈 XMR +4.3% in 3 min, now $447.05
+
+WHAT'S HAPPENING
+- Buyers outpaced sellers on Hyperliquid by $1.8M in 3 min
+- Open positions up 3.9% on Hyperliquid during the move, up 2.0% in 1 hour across Bybit and Hyperliquid (new positions opening; can't tell if mostly longs or shorts)
+Price and open positions both rose. Buyers outpaced sellers on Hyperliquid.
+
+LEVELS
+Move started: $428.64
+Today's high: $530.00
+
+Data: Coinalyze
+Information, not advice."
 "2026-11-27 02:26","BTC","update","channel","yes","61777.5","61546","61694",,"📈 BTC +2.0% in 34 min, now $61,778
 
 WHAT'S HAPPENING
@@ -12761,7 +12804,7 @@ Today's high: $1,704
 
 Data: Coinalyze
 Information, not advice."
-"2026-11-27 14:38","BTC","update","channel","yes","60579.5","60150",,,"📉 BTC -1.6% in 45 min, now $60,580
+"2026-11-27 14:38","BTC","update","channel","yes","60579.5","60150","59816",,"📉 BTC -1.6% in 45 min, now $60,580
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $43.9M in 45 min
@@ -12775,13 +12818,13 @@ Today's low: $60,440
 
 Data: Coinalyze
 Information, not advice."
-"2026-11-27 14:47","BTC","followup","channel","no","59617","60151",,,"📉 BTC down another 1.6% since the alert at 14:38 UTC, now $59,617
+"2026-11-27 14:47","BTC","followup","channel","no","59617","60151","59810",,"📉 BTC down another 1.6% since the alert at 14:38 UTC, now $59,617
 (-3.1% since the move started at $61,555)
 
 - Open positions on Hyperliquid down 3.6% since 14:38 UTC (positions closing)
 
 Information, not advice."
-"2026-11-27 14:47","ETH","update","channel","yes","1667.05","1675.9",,,"📉 ETH -3.5% in 53 min, now $1,667
+"2026-11-27 14:47","ETH","update","channel","yes","1667.05","1675.9","1668.5",,"📉 ETH -3.5% in 53 min, now $1,667
 
 WHAT'S HAPPENING
 - Price fell below today's low ($1,687)
@@ -12795,7 +12838,7 @@ Today's low: $1,687
 
 Data: Coinalyze
 Information, not advice."
-"2026-11-27 15:01","ETH","followup","channel","no","1638.1","1670.6",,,"📉 ETH down another 1.7% since the alert at 14:47 UTC, now $1,638
+"2026-11-27 15:01","ETH","followup","channel","no","1638.1","1670.6","1669.6",,"📉 ETH down another 1.7% since the alert at 14:47 UTC, now $1,638
 (-5.2% since the move started at $1,728)
 
 - Sellers outpaced buyers on Hyperliquid by $27.7M since 14:47 UTC
@@ -12829,7 +12872,7 @@ Today's high: $1,762
 
 Data: Coinalyze
 Information, not advice."
-"2026-11-27 17:26","BTC","update","channel","yes","59553.5",,,,"📉 BTC -1.6% in 51 min, now $59,554
+"2026-11-27 17:26","BTC","update","channel","yes","59553.5","59800",,,"📉 BTC -1.6% in 51 min, now $59,554
 
 WHAT'S HAPPENING
 - Sellers outpaced buyers on Hyperliquid by $129.0M in 51 min
